@@ -1,0 +1,57 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="132" height="434">
+	<line x1="1" y1="31" x2="97" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="93" x2="94" y2="93" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="155" x2="69" y2="155" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="217" x2="77" y2="217" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="279" x2="77" y2="279" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="341" x2="104" y2="341" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="403" x2="131" y2="403" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>P450III</title>
+		<polygon class="P450III" points="33,16 51,16 51,1 81,31 51,61 51,46 33,46" fill="rgb(250,175,179)" fill-opacity="1.0" stroke="rgb(100,69,71)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="35,18 65,18 70,23 70,39 65,44 35,44" stroke-linejoin="round" width="35" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>P450II</title>
+		<polygon class="P450II" points="23,78 56,78 56,63 86,93 56,123 56,108 23,108" fill="rgb(212,204,252)" fill-opacity="1.0" stroke="rgb(84,81,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="32,80 70,80 73,83 73,103 70,106 32,106" stroke-linejoin="round" width="41" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>GGSII</title>
+		<polygon class="GGSII" points="24,140 37,140 37,125 67,155 37,185 37,170 24,170" fill="rgb(250,234,183)" fill-opacity="1.0" stroke="rgb(100,93,73)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="33,142 51,142 57,148 57,162 51,168 33,168" stroke-linejoin="round" width="24" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>P450I</title>
+		<polygon class="P450I" points="11,202 38,202 38,187 68,217 38,247 38,232 11,232" fill="rgb(252,222,212)" fill-opacity="1.0" stroke="rgb(100,88,84)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="21,204 52,204 62,214 62,220 52,230 21,230" stroke-linejoin="round" width="41" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>des</title>
+		<polygon class="des" points="33,264 37,264 37,249 67,279 37,309 37,294 33,294" fill="rgb(252,213,189)" fill-opacity="1.0" stroke="rgb(100,85,75)" stroke-width="1" />
+	</g>
+	<g>
+		<title>p450-4</title>
+		<polygon class="p450-4" points="28,326 55,326 55,311 85,341 55,371 55,356 28,356" fill="rgb(193,216,253)" fill-opacity="1.0" stroke="rgb(77,86,101)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="35,328 69,328 79,338 79,344 69,354 35,354" stroke-linejoin="round" width="44" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cps</title>
+		<polygon class="cps" points="28,388 98,388 98,373 128,403 98,433 98,418 28,418" fill="rgb(252,180,241)" fill-opacity="1.0" stroke="rgb(100,72,96)" stroke-width="1" />
+	</g>
+</svg>

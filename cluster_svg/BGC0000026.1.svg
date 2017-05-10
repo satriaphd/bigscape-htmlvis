@@ -1,0 +1,339 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1282" height="62">
+	<line x1="1" y1="31" x2="1281" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>aviRa</title>
+		<polygon class="aviRa" points="204,16 204,16 204,1 179,31 204,61 204,46 204,46" fill="rgb(254,189,188)" fill-opacity="1.0" stroke="rgb(101,75,75)" stroke-width="1" />
+		<g>
+			<title>PF11599</title>
+			<polygon class="PF11599" points="181,31 192,18 203,18 203,44 192,44" stroke-linejoin="round" width="24" height="26" fill="rgb(221,99,205)" stroke="rgb(176,79,163)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviQ1</title>
+		<polygon class="aviQ1" points="212,16 214,16 214,1 244,31 214,61 214,46 212,46" fill="rgb(241,200,252)" fill-opacity="1.0" stroke="rgb(96,80,100)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="213,18 228,18 235,25 235,37 228,44 213,44" stroke-linejoin="round" width="22" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviGT2</title>
+		<polygon class="aviGT2" points="272,16 272,16 272,1 248,31 272,61 272,46 272,46" fill="rgb(209,233,250)" fill-opacity="1.0" stroke="rgb(83,93,100)" stroke-width="1" />
+		<g>
+			<title>PF13641</title>
+			<polygon class="PF13641" points="255,25 260,18 271,18 271,44 260,44 255,36" stroke-linejoin="round" width="16" height="26" fill="rgb(140,74,190)" stroke="rgb(111,59,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX9</title>
+		<polygon class="aviX9" points="280,16 285,16 285,1 315,31 285,61 285,46 280,46" fill="rgb(228,198,253)" fill-opacity="1.0" stroke="rgb(91,79,101)" stroke-width="1" />
+		<g>
+			<title>PF14606</title>
+			<polygon class="PF14606" points="295,18 299,18 312,31 299,44 295,44" stroke-linejoin="round" width="18" height="26" fill="rgb(88,183,75)" stroke="rgb(70,146,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviC1</title>
+		<polygon class="aviC1" points="336,16 336,16 336,1 316,31 336,61 336,46 336,46" fill="rgb(197,250,233)" fill-opacity="1.0" stroke="rgb(78,100,93)" stroke-width="1" />
+		<g>
+			<title>PF00196</title>
+			<polygon class="PF00196" points="318,31 323,24 323,37" stroke-linejoin="round" width="5" height="26" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviC2</title>
+		<polygon class="aviC2" points="365,16 365,16 365,1 346,31 365,61 365,46 365,46" fill="rgb(222,194,252)" fill-opacity="1.0" stroke="rgb(88,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00196</title>
+			<polygon class="PF00196" points="348,31 353,23 353,38" stroke-linejoin="round" width="5" height="26" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX10</title>
+		<polygon class="aviX10" points="370,16 370,16 370,1 383,31 370,61 370,46 370,46" fill="rgb(253,211,218)" fill-opacity="1.0" stroke="rgb(101,84,87)" stroke-width="1" />
+		<g>
+			<title>PF00190</title>
+			<polygon class="PF00190" points="373,18 374,18 380,31 374,44 373,44" stroke-linejoin="round" width="8" height="26" fill="rgb(180,66,175)" stroke="rgb(144,52,139)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX11</title>
+		<polygon class="aviX11" points="384,16 384,16 384,1 407,31 384,61 384,46 384,46" fill="rgb(250,216,194)" fill-opacity="1.0" stroke="rgb(100,86,77)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aviG1</title>
+		<polygon class="aviG1" points="407,16 417,16 417,1 447,31 417,61 417,46 407,46" fill="rgb(189,252,204)" fill-opacity="1.0" stroke="rgb(75,100,81)" stroke-width="1" />
+		<g>
+			<title>PF08421</title>
+			<rect class="PF08421" x="408" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13489</title>
+			<rect class="PF13489" x="415" y="18" stroke-linejoin="round" width="16" height="26" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08484</title>
+			<polygon class="PF08484" points="431,18 431,18 444,31 431,44 431,44" stroke-linejoin="round" width="15" height="26" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviJ</title>
+		<polygon class="aviJ" points="448,16 465,16 465,1 495,31 465,61 465,46 448,46" fill="rgb(253,253,203)" fill-opacity="1.0" stroke="rgb(101,101,81)" stroke-width="1" />
+		<g>
+			<title>PF00999</title>
+			<polygon class="PF00999" points="454,18 479,18 492,31 479,44 454,44" stroke-linejoin="round" width="39" height="26" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX1</title>
+		<polygon class="aviX1" points="1,16 7,16 7,1 37,31 7,61 7,46 1,46" fill="rgb(202,248,250)" fill-opacity="1.0" stroke="rgb(80,99,100)" stroke-width="1" />
+		<g>
+			<title>PF01926</title>
+			<rect class="PF01926" x="1" y="18" stroke-linejoin="round" width="14" height="26" fill="rgb(105,180,226)" stroke="rgb(83,143,180)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF06071</title>
+			<polygon class="PF06071" points="28,25 34,31 28,37" stroke-linejoin="round" width="8" height="26" fill="rgb(74,145,213)" stroke="rgb(59,115,170)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviN</title>
+		<polygon class="aviN" points="501,16 505,16 505,1 535,31 505,61 505,46 501,46" fill="rgb(250,203,209)" fill-opacity="1.0" stroke="rgb(100,81,83)" stroke-width="1" />
+		<g>
+			<title>PF08541</title>
+			<polygon class="PF08541" points="529,28 532,31 529,34" stroke-linejoin="round" width="5" height="26" fill="rgb(146,207,81)" stroke="rgb(116,165,64)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviM</title>
+		<polygon class="aviM" points="535,16 634,16 634,1 664,31 634,61 634,46 535,46" fill="rgb(253,231,179)" fill-opacity="1.0" stroke="rgb(101,92,71)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="537" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="564" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<rect class="PF16197" x="576" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="590" y="18" stroke-linejoin="round" width="31" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14765</title>
+			<polygon class="PF14765" points="626,18 648,18 652,22 652,40 648,44 626,44" stroke-linejoin="round" width="26" height="26" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="656,26 661,31 656,36" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviD</title>
+		<polygon class="aviD" points="671,16 676,16 676,1 706,31 676,61 676,46 671,46" fill="rgb(252,221,186)" fill-opacity="1.0" stroke="rgb(100,88,74)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="671,18 690,18 694,22 694,40 690,44 671,44" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviE1</title>
+		<polygon class="aviE1" points="708,16 713,16 713,1 743,31 713,61 713,46 708,46" fill="rgb(241,250,212)" fill-opacity="1.0" stroke="rgb(96,100,84)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="709,18 727,18 738,29 738,33 727,44 709,44" stroke-linejoin="round" width="29" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviQ2</title>
+		<polygon class="aviQ2" points="745,16 749,16 749,1 779,31 749,61 749,46 745,46" fill="rgb(193,253,251)" fill-opacity="1.0" stroke="rgb(77,101,100)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="745,18 763,18 768,23 768,39 763,44 745,44" stroke-linejoin="round" width="23" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviG5</title>
+		<polygon class="aviG5" points="781,16 781,16 781,1 801,31 781,61 781,46 781,46" fill="rgb(253,207,196)" fill-opacity="1.0" stroke="rgb(101,82,78)" stroke-width="1" />
+		<g>
+			<title>PF13847</title>
+			<polygon class="PF13847" points="786,18 789,18 797,29 797,33 789,44 786,44" stroke-linejoin="round" width="11" height="26" fill="rgb(214,74,181)" stroke="rgb(171,59,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviO1</title>
+		<polygon class="aviO1" points="806,16 806,16 806,1 828,31 806,61 806,46 806,46" fill="rgb(237,194,251)" fill-opacity="1.0" stroke="rgb(94,77,100)" stroke-width="1" />
+		<g>
+			<title>PF05721</title>
+			<polygon class="PF05721" points="807,18 815,18 825,31 815,44 807,44" stroke-linejoin="round" width="19" height="26" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviGT1</title>
+		<polygon class="aviGT1" points="831,16 844,16 844,1 874,31 844,61 844,46 831,46" fill="rgb(178,211,251)" fill-opacity="1.0" stroke="rgb(71,84,100)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="850,18 858,18 859,19 859,43 858,44 850,44" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00201</title>
+			<polygon class="PF00201" points="860,20 869,29 869,33 860,42" stroke-linejoin="round" width="9" height="26" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviE2</title>
+		<polygon class="aviE2" points="873,16 876,16 876,1 906,31 876,61 876,46 873,46" fill="rgb(204,254,223)" fill-opacity="1.0" stroke="rgb(81,101,89)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="874,18 890,18 903,31 903,31 890,44 874,44" stroke-linejoin="round" width="29" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviG2</title>
+		<polygon class="aviG2" points="907,16 907,16 907,1 931,31 907,61 907,46 907,46" fill="rgb(223,206,250)" fill-opacity="1.0" stroke="rgb(89,82,100)" stroke-width="1" />
+		<g>
+			<title>PF08241</title>
+			<polygon class="PF08241" points="913,18 918,18 922,23 922,39 918,44 913,44" stroke-linejoin="round" width="9" height="26" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX2</title>
+		<polygon class="aviX2" points="43,16 43,16 43,1 52,31 43,61 43,46 43,46" fill="rgb(224,187,250)" fill-opacity="1.0" stroke="rgb(89,74,100)" stroke-width="1" />
+		<g>
+			<title>PF02604</title>
+			<polygon class="PF02604" points="43,18 45,18 49,28 49,34 45,44 43,44" stroke-linejoin="round" width="6" height="26" fill="rgb(204,60,69)" stroke="rgb(163,48,55)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviZ1</title>
+		<polygon class="aviZ1" points="931,16 934,16 934,1 964,31 934,61 934,46 931,46" fill="rgb(253,213,214)" fill-opacity="1.0" stroke="rgb(101,85,85)" stroke-width="1" />
+		<g>
+			<title>PF00248</title>
+			<polygon class="PF00248" points="932,18 948,18 961,31 961,31 948,44 932,44" stroke-linejoin="round" width="29" height="26" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviG6</title>
+		<polygon class="aviG6" points="965,16 965,16 965,1 989,31 965,61 965,46 965,46" fill="rgb(194,251,209)" fill-opacity="1.0" stroke="rgb(77,100,83)" stroke-width="1" />
+		<g>
+			<title>PF05050</title>
+			<polygon class="PF05050" points="968,18 976,18 984,28 984,34 976,44 968,44" stroke-linejoin="round" width="16" height="26" fill="rgb(95,204,52)" stroke="rgb(76,163,41)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviO3</title>
+		<polygon class="aviO3" points="989,16 990,16 990,1 1020,31 990,61 990,46 989,46" fill="rgb(196,186,252)" fill-opacity="1.0" stroke="rgb(78,74,100)" stroke-width="1" />
+		<g>
+			<title>PF05721</title>
+			<polygon class="PF05721" points="992,18 1004,18 1012,26 1012,36 1004,44 992,44" stroke-linejoin="round" width="20" height="26" fill="rgb(72,132,214)" stroke="rgb(57,105,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviG3</title>
+		<polygon class="aviG3" points="1020,16 1020,16 1020,1 1047,31 1020,61 1020,46 1020,46" fill="rgb(223,252,184)" fill-opacity="1.0" stroke="rgb(89,100,73)" stroke-width="1" />
+		<g>
+			<title>PF08241</title>
+			<polygon class="PF08241" points="1026,18 1032,18 1034,20 1034,42 1032,44 1026,44" stroke-linejoin="round" width="8" height="26" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX12</title>
+		<polygon class="aviX12" points="1048,16 1057,16 1057,1 1087,31 1057,61 1057,46 1048,46" fill="rgb(180,187,254)" fill-opacity="1.0" stroke="rgb(72,74,101)" stroke-width="1" />
+		<g>
+			<title>PF04055</title>
+			<polygon class="PF04055" points="1063,18 1071,18 1077,24 1077,38 1071,44 1063,44" stroke-linejoin="round" width="14" height="26" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviABC1</title>
+		<polygon class="aviABC1" points="1087,16 1089,16 1089,1 1119,31 1089,61 1089,46 1087,46" fill="rgb(191,253,198)" fill-opacity="1.0" stroke="rgb(76,101,79)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<rect class="PF00005" x="1089" y="18" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviABC2</title>
+		<polygon class="aviABC2" points="1119,16 1119,16 1119,1 1145,31 1119,61 1119,46 1119,46" fill="rgb(203,250,242)" fill-opacity="1.0" stroke="rgb(81,100,96)" stroke-width="1" />
+		<g>
+			<title>PF01061</title>
+			<polygon class="PF01061" points="1120,18 1131,18 1140,29 1140,33 1131,44 1120,44" stroke-linejoin="round" width="20" height="26" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviB1</title>
+		<polygon class="aviB1" points="1146,16 1149,16 1149,1 1179,31 1149,61 1149,46 1146,46" fill="rgb(204,252,233)" fill-opacity="1.0" stroke="rgb(81,100,93)" stroke-width="1" />
+		<g>
+			<title>PF00676</title>
+			<polygon class="PF00676" points="1148,18 1163,18 1176,31 1163,44 1148,44" stroke-linejoin="round" width="29" height="26" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviB2</title>
+		<polygon class="aviB2" points="1179,16 1181,16 1181,1 1211,31 1181,61 1181,46 1179,46" fill="rgb(250,236,200)" fill-opacity="1.0" stroke="rgb(100,94,80)" stroke-width="1" />
+		<g>
+			<title>PF02779</title>
+			<polygon class="PF02779" points="1179,18 1195,18 1196,19 1196,43 1195,44 1179,44" stroke-linejoin="round" width="17" height="26" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02780</title>
+			<polygon class="PF02780" points="1198,21 1208,31 1198,41" stroke-linejoin="round" width="12" height="26" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviGT3</title>
+		<polygon class="aviGT3" points="1213,16 1216,16 1216,1 1246,31 1216,61 1216,46 1213,46" fill="rgb(252,207,246)" fill-opacity="1.0" stroke="rgb(100,82,98)" stroke-width="1" />
+		<g>
+			<title>PF00535</title>
+			<rect class="PF00535" x="1214" y="18" stroke-linejoin="round" width="15" height="26" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX3</title>
+		<polygon class="aviX3" points="52,16 52,16 52,1 60,31 52,61 52,46 52,46" fill="rgb(206,234,251)" fill-opacity="1.0" stroke="rgb(82,93,100)" stroke-width="1" />
+		<g>
+			<title>PF06769</title>
+			<polygon class="PF06769" points="52,18 54,18 57,31 54,44 52,44" stroke-linejoin="round" width="7" height="26" fill="rgb(110,190,87)" stroke="rgb(87,152,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviGT4</title>
+		<polygon class="aviGT4" points="1247,16 1251,16 1251,1 1281,31 1251,61 1251,46 1247,46" fill="rgb(188,194,250)" fill-opacity="1.0" stroke="rgb(75,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00534</title>
+			<polygon class="PF00534" points="1262,18 1265,18 1276,29 1276,33 1265,44 1262,44" stroke-linejoin="round" width="14" height="26" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX4</title>
+		<polygon class="aviX4" points="90,16 90,16 90,1 68,31 90,61 90,46 90,46" fill="rgb(253,206,185)" fill-opacity="1.0" stroke="rgb(101,82,74)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aviX5</title>
+		<polygon class="aviX5" points="109,16 109,16 109,1 91,31 109,61 109,46 109,46" fill="rgb(224,202,250)" fill-opacity="1.0" stroke="rgb(89,80,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aviRb</title>
+		<polygon class="aviRb" points="112,16 112,16 112,1 140,31 112,61 112,46 112,46" fill="rgb(209,254,196)" fill-opacity="1.0" stroke="rgb(83,101,78)" stroke-width="1" />
+		<g>
+			<title>PF00588</title>
+			<polygon class="PF00588" points="124,18 125,18 137,31 125,44 124,44" stroke-linejoin="round" width="14" height="26" fill="rgb(84,205,178)" stroke="rgb(67,164,142)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aviX6</title>
+		<polygon class="aviX6" points="141,16 141,16 141,1 152,31 141,61 141,46 141,46" fill="rgb(207,254,192)" fill-opacity="1.0" stroke="rgb(82,101,76)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aviX7</title>
+		<polygon class="aviX7" points="153,16 153,16 153,1 157,31 153,61 153,46 153,46" fill="rgb(254,189,236)" fill-opacity="1.0" stroke="rgb(101,75,94)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aviX8</title>
+		<polygon class="aviX8" points="164,16 164,16 164,1 175,31 164,61 164,46 164,46" fill="rgb(184,227,253)" fill-opacity="1.0" stroke="rgb(73,90,101)" stroke-width="1" />
+	</g>
+</svg>

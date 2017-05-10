@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="628" height="62">
+	<line x1="1" y1="31" x2="627" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>paxG</title>
+		<polygon class="paxG" points="44,16 31,16 31,1 1,31 31,61 31,46 44,46" fill="rgb(252,218,202)" fill-opacity="1.0" stroke="rgb(100,87,80)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="12,22 16,18 36,18 36,44 16,44 12,39" stroke-linejoin="round" width="24" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>paxA</title>
+		<polygon class="paxA" points="99,16 92,16 92,1 62,31 92,61 92,46 99,46" fill="rgb(249,191,226)" fill-opacity="1.0" stroke="rgb(99,76,90)" stroke-width="1" />
+	</g>
+	<g>
+		<title>paxM</title>
+		<polygon class="paxM" points="175,16 154,16 154,1 124,31 154,61 154,46 175,46" fill="rgb(235,205,251)" fill-opacity="1.0" stroke="rgb(94,82,100)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="141" y="18" stroke-linejoin="round" width="33" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>paxB</title>
+		<polygon class="paxB" points="219,16 219,16 219,1 192,31 219,61 219,46 219,46" fill="rgb(188,250,224)" fill-opacity="1.0" stroke="rgb(75,100,89)" stroke-width="1" />
+	</g>
+	<g>
+		<title>paxC</title>
+		<polygon class="paxC" points="255,16 260,16 260,1 290,31 260,61 260,46 255,46" fill="rgb(250,190,203)" fill-opacity="1.0" stroke="rgb(100,76,81)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="258,18 274,18 282,26 282,36 274,44 258,44" stroke-linejoin="round" width="24" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>paxP</title>
+		<polygon class="paxP" points="370,16 339,16 339,1 309,31 339,61 339,46 370,46" fill="rgb(225,251,205)" fill-opacity="1.0" stroke="rgb(90,100,82)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="320,22 324,18 362,18 362,44 324,44 320,39" stroke-linejoin="round" width="42" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>paxQ</title>
+		<polygon class="paxQ" points="519,16 480,16 480,1 450,31 480,61 480,46 519,46" fill="rgb(184,252,221)" fill-opacity="1.0" stroke="rgb(73,100,88)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<rect class="PF00067" x="469" y="18" stroke-linejoin="round" width="44" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>paxD</title>
+		<polygon class="paxD" points="627,16 611,16 611,1 581,31 611,61 611,46 627,46" fill="rgb(186,204,254)" fill-opacity="1.0" stroke="rgb(74,81,101)" stroke-width="1" />
+		<g>
+			<title>PF11991</title>
+			<polygon class="PF11991" points="589,25 596,18 625,18 625,44 596,44 589,36" stroke-linejoin="round" width="36" height="26" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

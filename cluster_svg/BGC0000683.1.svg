@@ -1,0 +1,7 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="35" height="62">
+	<line x1="1" y1="31" x2="34" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>tpc1</title>
+		<polygon class="tpc1" points="1,16 4,16 4,1 34,31 4,61 4,46 1,46" fill="rgb(211,250,241)" fill-opacity="1.0" stroke="rgb(84,100,96)" stroke-width="1" />
+	</g>
+</svg>

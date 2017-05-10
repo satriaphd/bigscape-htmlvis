@@ -1,0 +1,87 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="330" height="62">
+	<line x1="1" y1="31" x2="329" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>simK</title>
+		<polygon class="simK" points="4,16 4,16 4,1 27,31 4,61 4,46 4,46" fill="rgb(253,250,208)" fill-opacity="1.0" stroke="rgb(101,100,83)" stroke-width="1" />
+		<g>
+			<title>PF00106</title>
+			<polygon class="PF00106" points="4,18 14,18 23,30 23,32 14,44 4,44" stroke-linejoin="round" width="19" height="26" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simL</title>
+		<polygon class="simL" points="29,16 51,16 51,1 81,31 51,61 51,46 29,46" fill="rgb(189,253,236)" fill-opacity="1.0" stroke="rgb(75,101,94)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="30,18 65,18 70,23 70,39 65,44 30,44" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="71,24 78,31 78,31 71,38" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simH</title>
+		<polygon class="simH" points="82,16 151,16 151,1 181,31 151,61 151,46 82,46" fill="rgb(235,252,198)" fill-opacity="1.0" stroke="rgb(93,100,79)" stroke-width="1" />
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="89" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="123" y="18" stroke-linejoin="round" width="39" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="163,18 165,18 170,23 170,39 165,44 163,44" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="173,26 178,31 173,36" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simI</title>
+		<polygon class="simI" points="182,16 193,16 193,1 223,31 193,61 193,46 182,46" fill="rgb(194,229,254)" fill-opacity="1.0" stroke="rgb(77,91,101)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="210,21 219,30 219,32 210,41" stroke-linejoin="round" width="9" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simY</title>
+		<polygon class="simY" points="225,16 225,16 225,1 232,31 225,61 225,46 225,46" fill="rgb(244,251,184)" fill-opacity="1.0" stroke="rgb(97,100,73)" stroke-width="1" />
+		<g>
+			<title>PF03621</title>
+			<polygon class="PF03621" points="225,18 226,18 229,31 226,44 225,44" stroke-linejoin="round" width="5" height="26" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simJ1</title>
+		<polygon class="simJ1" points="232,16 232,16 232,1 259,31 232,61 232,46 232,46" fill="rgb(187,226,253)" fill-opacity="1.0" stroke="rgb(74,90,101)" stroke-width="1" />
+		<g>
+			<title>PF13561</title>
+			<polygon class="PF13561" points="235,18 244,18 256,31 244,44 235,44" stroke-linejoin="round" width="23" height="26" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>sim1</title>
+		<polygon class="sim1" points="265,16 265,16 265,1 290,31 265,61 265,46 265,46" fill="rgb(250,189,200)" fill-opacity="1.0" stroke="rgb(100,75,80)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<rect class="PF00072" x="266" y="18" stroke-linejoin="round" width="10" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00486</title>
+			<polygon class="PF00486" points="281,24 287,31 281,38" stroke-linejoin="round" width="7" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>simJ2</title>
+		<polygon class="simJ2" points="301,16 301,16 301,1 325,31 301,61 301,46 301,46" fill="rgb(253,220,188)" fill-opacity="1.0" stroke="rgb(101,88,75)" stroke-width="1" />
+		<g>
+			<title>PF13561</title>
+			<polygon class="PF13561" points="301,18 312,18 322,31 312,44 301,44" stroke-linejoin="round" width="23" height="26" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,67 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="184" height="62">
+	<line x1="1" y1="31" x2="183" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>CurD</title>
+		<polygon class="CurD" points="7,16 13,16 13,1 43,31 13,61 13,46 7,46" fill="rgb(253,199,248)" fill-opacity="1.0" stroke="rgb(101,79,99)" stroke-width="1" />
+		<g>
+			<title>PF04486</title>
+			<polygon class="PF04486" points="19,18 27,18 30,21 30,41 27,44 19,44" stroke-linejoin="round" width="11" height="26" fill="rgb(75,209,181)" stroke="rgb(60,167,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurC</title>
+		<polygon class="CurC" points="45,16 45,16 45,1 60,31 45,61 45,46 45,46" fill="rgb(186,254,253)" fill-opacity="1.0" stroke="rgb(74,101,101)" stroke-width="1" />
+		<g>
+			<title>PF07883</title>
+			<polygon class="PF07883" points="49,18 51,18 56,28 56,34 51,44 49,44" stroke-linejoin="round" width="7" height="26" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurA</title>
+		<polygon class="CurA" points="61,16 73,16 73,1 103,31 73,61 73,46 61,46" fill="rgb(207,215,250)" fill-opacity="1.0" stroke="rgb(82,86,100)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="61" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="87,18 87,18 98,29 98,33 87,44 87,44" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurB</title>
+		<polygon class="CurB" points="103,16 115,16 115,1 145,31 115,61 115,46 103,46" fill="rgb(252,247,180)" fill-opacity="1.0" stroke="rgb(100,98,72)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="104" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="129,18 129,18 140,29 140,33 129,44 129,44" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurE</title>
+		<polygon class="CurE" points="148,16 148,16 148,1 156,31 148,61 148,46 148,46" fill="rgb(253,233,206)" fill-opacity="1.0" stroke="rgb(101,93,82)" stroke-width="1" />
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="149,18 150,18 153,31 150,44 149,44" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurF</title>
+		<polygon class="CurF" points="156,16 156,16 156,1 171,31 156,61 156,46 156,46" fill="rgb(190,253,238)" fill-opacity="1.0" stroke="rgb(76,101,95)" stroke-width="1" />
+		<g>
+			<title>PF03364</title>
+			<polygon class="PF03364" points="157,18 162,18 168,31 162,44 157,44" stroke-linejoin="round" width="12" height="26" fill="rgb(221,94,106)" stroke="rgb(176,75,84)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>CurG</title>
+		<polygon class="CurG" points="171,16 171,16 171,1 181,31 171,61 171,46 171,46" fill="rgb(193,184,253)" fill-opacity="1.0" stroke="rgb(77,73,101)" stroke-width="1" />
+		<g>
+			<title>PF04673</title>
+			<polygon class="PF04673" points="171,18 174,18 178,31 174,44 171,44" stroke-linejoin="round" width="10" height="26" fill="rgb(49,187,78)" stroke="rgb(39,149,62)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

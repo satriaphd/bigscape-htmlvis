@@ -1,0 +1,125 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="248" height="682">
+	<line x1="1" y1="31" x2="60" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="93" x2="92" y2="93" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="155" x2="247" y2="155" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="217" x2="23" y2="217" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="279" x2="33" y2="279" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="341" x2="64" y2="341" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="403" x2="48" y2="403" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="465" x2="6" y2="465" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="527" x2="19" y2="527" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="589" x2="16" y2="589" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<line x1="1" y1="651" x2="28" y2="651" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>bcboa16</title>
+		<polygon class="bcboa16" points="1,574 1,574 1,559 16,589 1,619 1,604 1,604" fill="rgb(212,251,204)" fill-opacity="1.0" stroke="rgb(84,100,81)" stroke-width="1" />
+	</g>
+	<g>
+		<title>bcboa17</title>
+		<polygon class="bcboa17" points="1,636 1,636 1,621 28,651 1,681 1,666 1,666" fill="rgb(250,204,244)" fill-opacity="1.0" stroke="rgb(100,81,97)" stroke-width="1" />
+		<g>
+			<title>PF00106</title>
+			<polygon class="PF00106" points="1,638 13,638 20,646 20,656 13,664 1,664" stroke-linejoin="round" width="19" height="26" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa7</title>
+		<polygon class="bcboa7" points="1,16 30,16 30,1 60,31 30,61 30,46 1,46" fill="rgb(191,254,217)" fill-opacity="1.0" stroke="rgb(76,101,86)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="15,18 44,18 53,27 53,35 44,44 15,44" stroke-linejoin="round" width="38" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa8</title>
+		<polygon class="bcboa8" points="1,78 62,78 62,63 92,93 62,123 62,108 1,108" fill="rgb(253,227,181)" fill-opacity="1.0" stroke="rgb(101,90,72)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="6" y="80" stroke-linejoin="round" width="4" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="13" y="80" stroke-linejoin="round" width="27" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa9</title>
+		<polygon class="bcboa9" points="1,140 217,140 217,125 247,155 217,185 217,170 1,170" fill="rgb(187,254,248)" fill-opacity="1.0" stroke="rgb(74,101,99)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="1" y="142" stroke-linejoin="round" width="23" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="25" y="142" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<rect class="PF16197" x="37" y="142" stroke-linejoin="round" width="14" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="54" y="142" stroke-linejoin="round" width="32" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14765</title>
+			<rect class="PF14765" x="94" y="142" stroke-linejoin="round" width="30" height="26" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08240</title>
+			<rect class="PF08240" x="164" y="142" stroke-linejoin="round" width="5" height="26" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00107</title>
+			<rect class="PF00107" x="174" y="142" stroke-linejoin="round" width="11" height="26" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08659</title>
+			<rect class="PF08659" x="194" y="142" stroke-linejoin="round" width="17" height="26" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="223" y="142" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa12</title>
+		<polygon class="bcboa12" points="1,202 1,202 1,187 23,217 1,247 1,232 1,232" fill="rgb(176,250,245)" fill-opacity="1.0" stroke="rgb(70,100,97)" stroke-width="1" />
+	</g>
+	<g>
+		<title>bcboa10</title>
+		<polygon class="bcboa10" points="1,264 3,264 3,249 33,279 3,309 3,294 1,294" fill="rgb(252,247,189)" fill-opacity="1.0" stroke="rgb(100,98,75)" stroke-width="1" />
+		<g>
+			<title>PF00975</title>
+			<polygon class="PF00975" points="2,266 17,266 24,273 24,285 17,292 2,292" stroke-linejoin="round" width="22" height="26" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa13</title>
+		<polygon class="bcboa13" points="1,326 34,326 34,311 64,341 34,371 34,356 1,356" fill="rgb(253,213,244)" fill-opacity="1.0" stroke="rgb(101,85,97)" stroke-width="1" />
+		<g>
+			<title>PF00172</title>
+			<rect class="PF00172" x="2" y="328" stroke-linejoin="round" width="3" height="26" fill="rgb(121,178,76)" stroke="rgb(96,142,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa11</title>
+		<polygon class="bcboa11" points="1,388 18,388 18,373 48,403 18,433 18,418 1,418" fill="rgb(215,233,253)" fill-opacity="1.0" stroke="rgb(86,93,101)" stroke-width="1" />
+		<g>
+			<title>PF02458</title>
+			<polygon class="PF02458" points="12,390 32,390 45,403 32,416 12,416" stroke-linejoin="round" width="34" height="26" fill="rgb(57,117,190)" stroke="rgb(45,93,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>bcboa14</title>
+		<polygon class="bcboa14" points="1,450 1,450 1,435 6,465 1,495 1,480 1,480" fill="rgb(252,206,241)" fill-opacity="1.0" stroke="rgb(100,82,96)" stroke-width="1" />
+	</g>
+	<g>
+		<title>bcboa15</title>
+		<polygon class="bcboa15" points="1,512 1,512 1,497 19,527 1,557 1,542 1,542" fill="rgb(250,229,199)" fill-opacity="1.0" stroke="rgb(100,91,79)" stroke-width="1" />
+		<g>
+			<title>PF04082</title>
+			<polygon class="PF04082" points="5,514 8,514 16,527 8,540 5,540" stroke-linejoin="round" width="13" height="26" fill="rgb(51,172,200)" stroke="rgb(40,137,160)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

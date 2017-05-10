@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="161" height="62">
+	<line x1="1" y1="31" x2="160" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="59,16 31,16 31,1 1,31 31,61 31,46 59,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="8,26 16,18 22,18 22,44 16,44 8,35" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="31" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="79,16 79,16 79,1 65,31 79,61 79,46 79,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF13471</title>
+			<polygon class="PF13471" points="67,31 73,18 77,18 77,44 73,44" stroke-linejoin="round" width="11" height="26" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="88,16 88,16 88,1 80,31 88,61 88,46 88,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF05402</title>
+			<polygon class="PF05402" points="82,31 85,18 86,18 86,44 85,44" stroke-linejoin="round" width="6" height="26" fill="rgb(124,62,188)" stroke="rgb(99,49,150)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="148,16 120,16 120,1 90,31 120,61 120,46 148,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00733</title>
+			<polygon class="PF00733" points="92,31 105,18 130,18 130,44 105,44" stroke-linejoin="round" width="39" height="26" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="160,16 160,16 160,1 156,31 160,61 160,46 160,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+</svg>

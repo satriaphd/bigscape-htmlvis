@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="319" height="62">
+	<line x1="1" y1="31" x2="318" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>orf-1</title>
+		<polygon class="orf-1" points="6,16 6,16 6,1 29,31 6,61 6,46 6,46" fill="rgb(188,194,254)" fill-opacity="1.0" stroke="rgb(75,77,101)" stroke-width="1" />
+		<g>
+			<title>PF00106</title>
+			<polygon class="PF00106" points="6,18 16,18 22,26 22,36 16,44 6,44" stroke-linejoin="round" width="16" height="26" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBI</title>
+		<polygon class="aveBI" points="32,16 43,16 43,1 73,31 43,61 43,46 32,46" fill="rgb(243,252,205)" fill-opacity="1.0" stroke="rgb(97,100,82)" stroke-width="1" />
+		<g>
+			<title>PF00201</title>
+			<polygon class="PF00201" points="55,18 57,18 70,31 70,31 57,44 55,44" stroke-linejoin="round" width="15" height="26" fill="rgb(225,150,107)" stroke="rgb(180,120,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBII</title>
+		<polygon class="aveBII" points="105,16 100,16 100,1 70,31 100,61 100,46 105,46" fill="rgb(217,250,178)" fill-opacity="1.0" stroke="rgb(86,100,71)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="75,28 85,18 105,18 105,44 85,44 75,33" stroke-linejoin="round" width="30" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBIII</title>
+		<polygon class="aveBIII" points="135,16 135,16 135,1 105,31 135,61 135,46 135,46" fill="rgb(251,204,219)" fill-opacity="1.0" stroke="rgb(100,81,87)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="111,27 120,18 134,18 134,44 120,44 111,34" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBIV</title>
+		<polygon class="aveBIV" points="139,16 143,16 143,1 173,31 143,61 143,46 139,46" fill="rgb(194,250,253)" fill-opacity="1.0" stroke="rgb(77,100,101)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="141,18 157,18 164,25 164,37 157,44 141,44" stroke-linejoin="round" width="23" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBV</title>
+		<polygon class="aveBV" points="197,16 197,16 197,1 175,31 197,61 197,46 197,46" fill="rgb(201,193,250)" fill-opacity="1.0" stroke="rgb(80,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00908</title>
+			<polygon class="PF00908" points="177,31 187,18 194,18 194,44 187,44" stroke-linejoin="round" width="17" height="26" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBVI</title>
+		<polygon class="aveBVI" points="247,16 230,16 230,1 200,31 230,61 230,46 247,46" fill="rgb(194,223,254)" fill-opacity="1.0" stroke="rgb(77,89,101)" stroke-width="1" />
+		<g>
+			<title>PF03559</title>
+			<polygon class="PF03559" points="202,31 215,18 220,18 220,44 215,44" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03559</title>
+			<rect class="PF03559" x="222" y="18" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aveBVII</title>
+		<polygon class="aveBVII" points="272,16 272,16 272,1 247,31 272,61 272,46 272,46" fill="rgb(194,186,251)" fill-opacity="1.0" stroke="rgb(77,74,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>aveBVIII</title>
+		<polygon class="aveBVIII" points="310,16 306,16 306,1 276,31 306,61 306,46 310,46" fill="rgb(214,233,253)" fill-opacity="1.0" stroke="rgb(85,93,101)" stroke-width="1" />
+		<g>
+			<title>PF00248</title>
+			<polygon class="PF00248" points="278,31 291,18 306,18 306,44 291,44" stroke-linejoin="round" width="29" height="26" fill="rgb(225,205,58)" stroke="rgb(180,164,46)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

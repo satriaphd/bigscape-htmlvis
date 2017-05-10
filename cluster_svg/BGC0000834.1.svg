@@ -1,0 +1,195 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="775" height="62">
+	<line x1="1" y1="31" x2="774" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>novN</title>
+		<polygon class="novN" points="348,16 385,16 385,1 415,31 385,61 385,46 348,46" fill="rgb(203,254,215)" fill-opacity="1.0" stroke="rgb(81,101,85)" stroke-width="1" />
+		<g>
+			<title>PF02543</title>
+			<rect class="PF02543" x="348" y="18" stroke-linejoin="round" width="34" height="26" fill="rgb(146,218,61)" stroke="rgb(116,174,48)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16861</title>
+			<polygon class="PF16861" points="387,18 399,18 404,23 404,39 399,44 387,44" stroke-linejoin="round" width="17" height="26" fill="rgb(183,87,154)" stroke="rgb(146,69,123)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novO</title>
+		<polygon class="novO" points="423,16 423,16 423,1 446,31 423,61 423,46 423,46" fill="rgb(206,230,254)" fill-opacity="1.0" stroke="rgb(82,92,101)" stroke-width="1" />
+		<g>
+			<title>PF13649</title>
+			<polygon class="PF13649" points="427,18 433,18 436,22 436,40 433,44 427,44" stroke-linejoin="round" width="9" height="26" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novP</title>
+		<polygon class="novP" points="448,16 448,16 448,1 474,31 448,61 448,46 448,46" fill="rgb(207,254,236)" fill-opacity="1.0" stroke="rgb(82,101,94)" stroke-width="1" />
+		<g>
+			<title>PF05711</title>
+			<polygon class="PF05711" points="449,18 460,18 471,31 460,44 449,44" stroke-linejoin="round" width="24" height="26" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novQ</title>
+		<polygon class="novQ" points="475,16 477,16 477,1 507,31 477,61 477,46 475,46" fill="rgb(203,253,252)" fill-opacity="1.0" stroke="rgb(81,101,100)" stroke-width="1" />
+		<g>
+			<title>PF11468</title>
+			<polygon class="PF11468" points="476,18 491,18 504,31 504,31 491,44 476,44" stroke-linejoin="round" width="28" height="26" fill="rgb(121,52,185)" stroke="rgb(96,41,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novR</title>
+		<polygon class="novR" points="507,16 507,16 507,1 534,31 507,61 507,46 507,46" fill="rgb(250,187,212)" fill-opacity="1.0" stroke="rgb(100,74,84)" stroke-width="1" />
+		<g>
+			<title>PF00596</title>
+			<polygon class="PF00596" points="510,18 519,18 528,28 528,34 519,44 510,44" stroke-linejoin="round" width="18" height="26" fill="rgb(208,130,90)" stroke="rgb(166,104,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novS</title>
+		<polygon class="novS" points="534,16 534,16 534,1 562,31 534,61 534,46 534,46" fill="rgb(203,233,254)" fill-opacity="1.0" stroke="rgb(81,93,101)" stroke-width="1" />
+		<g>
+			<title>PF04321</title>
+			<polygon class="PF04321" points="534,18 547,18 559,31 547,44 534,44" stroke-linejoin="round" width="28" height="26" fill="rgb(196,203,60)" stroke="rgb(156,162,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novT</title>
+		<polygon class="novT" points="564,16 567,16 567,1 597,31 567,61 567,46 564,46" fill="rgb(220,250,201)" fill-opacity="1.0" stroke="rgb(88,100,80)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="564,18 581,18 594,31 594,31 581,44 564,44" stroke-linejoin="round" width="30" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novU</title>
+		<polygon class="novU" points="600,16 612,16 612,1 642,31 612,61 612,46 600,46" fill="rgb(223,251,186)" fill-opacity="1.0" stroke="rgb(89,100,74)" stroke-width="1" />
+		<g>
+			<title>PF08421</title>
+			<rect class="PF08421" x="601" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13489</title>
+			<rect class="PF13489" x="607" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08484</title>
+			<polygon class="PF08484" points="625,18 626,18 639,31 626,44 625,44" stroke-linejoin="round" width="15" height="26" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novV</title>
+		<polygon class="novV" points="644,16 644,16 644,1 673,31 644,61 644,46 644,46" fill="rgb(254,206,211)" fill-opacity="1.0" stroke="rgb(101,82,84)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="644,18 657,18 667,28 667,34 657,44 644,44" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novW</title>
+		<polygon class="novW" points="673,16 673,16 673,1 693,31 673,61 673,46 673,46" fill="rgb(236,193,250)" fill-opacity="1.0" stroke="rgb(94,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00908</title>
+			<polygon class="PF00908" points="673,18 681,18 690,31 690,31 681,44 673,44" stroke-linejoin="round" width="17" height="26" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novE</title>
+		<polygon class="novE" points="1,16 1,16 1,1 22,31 1,61 1,46 1,46" fill="rgb(254,239,208)" fill-opacity="1.0" stroke="rgb(101,95,83)" stroke-width="1" />
+	</g>
+	<g>
+		<title>gyrB_R</title>
+		<polygon class="gyrB_R" points="707,16 744,16 744,1 774,31 744,61 744,46 707,46" fill="rgb(251,194,225)" fill-opacity="1.0" stroke="rgb(100,77,90)" stroke-width="1" />
+		<g>
+			<title>PF02518</title>
+			<rect class="PF02518" x="712" y="18" stroke-linejoin="round" width="14" height="26" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00204</title>
+			<rect class="PF00204" x="732" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(66,134,179)" stroke="rgb(52,107,143)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01751</title>
+			<polygon class="PF01751" points="752,18 758,18 763,23 763,39 758,44 752,44" stroke-linejoin="round" width="11" height="26" fill="rgb(95,212,145)" stroke="rgb(76,169,116)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00986</title>
+			<polygon class="PF00986" points="767,27 771,31 767,35" stroke-linejoin="round" width="6" height="26" fill="rgb(184,59,116)" stroke="rgb(147,47,92)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novF</title>
+		<polygon class="novF" points="25,16 31,16 31,1 61,31 31,61 31,46 25,46" fill="rgb(211,251,239)" fill-opacity="1.0" stroke="rgb(84,100,95)" stroke-width="1" />
+		<g>
+			<title>PF02153</title>
+			<polygon class="PF02153" points="26,18 45,18 50,23 50,39 45,44 26,44" stroke-linejoin="round" width="24" height="26" fill="rgb(90,185,212)" stroke="rgb(72,148,169)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novG</title>
+		<polygon class="novG" points="65,16 66,16 66,1 96,31 66,61 66,46 65,46" fill="rgb(182,254,194)" fill-opacity="1.0" stroke="rgb(72,101,77)" stroke-width="1" />
+		<g>
+			<title>PF02195</title>
+			<rect class="PF02195" x="67" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novH</title>
+		<polygon class="novH" points="103,16 133,16 133,1 163,31 133,61 133,46 103,46" fill="rgb(188,234,252)" fill-opacity="1.0" stroke="rgb(75,93,100)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="105" y="18" stroke-linejoin="round" width="39" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="146,18 147,18 153,24 153,38 147,44 146,44" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="156,27 160,31 156,35" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novI</title>
+		<polygon class="novI" points="163,16 173,16 173,1 203,31 173,61 173,46 163,46" fill="rgb(193,211,250)" fill-opacity="1.0" stroke="rgb(77,84,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="191,22 200,31 200,31 191,40" stroke-linejoin="round" width="9" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novJ</title>
+		<polygon class="novJ" points="205,16 205,16 205,1 231,31 205,61 205,46 205,46" fill="rgb(251,213,210)" fill-opacity="1.0" stroke="rgb(100,85,84)" stroke-width="1" />
+		<g>
+			<title>PF13561</title>
+			<polygon class="PF13561" points="207,18 217,18 228,31 217,44 207,44" stroke-linejoin="round" width="23" height="26" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novK</title>
+		<polygon class="novK" points="231,16 231,16 231,1 255,31 231,61 231,46 231,46" fill="rgb(200,195,252)" fill-opacity="1.0" stroke="rgb(79,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00106</title>
+			<polygon class="PF00106" points="231,18 242,18 250,28 250,34 242,44 231,44" stroke-linejoin="round" width="19" height="26" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novL</title>
+		<polygon class="novL" points="256,16 278,16 278,1 308,31 278,61 278,46 256,46" fill="rgb(252,189,190)" fill-opacity="1.0" stroke="rgb(100,75,76)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="257,18 292,18 297,23 297,39 292,44 257,44" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="298,24 305,31 305,31 298,38" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>novM</title>
+		<polygon class="novM" points="309,16 317,16 317,1 347,31 317,61 317,46 309,46" fill="rgb(177,217,252)" fill-opacity="1.0" stroke="rgb(70,86,100)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="325,18 331,18 334,21 334,41 331,44 325,44" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,66 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="302" height="62">
+	<line x1="1" y1="31" x2="301" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="289,16 289,16 289,1 270,31 289,61 289,46 289,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF04647</title>
+			<polygon class="PF04647" points="272,31 280,18 288,18 288,44 280,44" stroke-linejoin="round" width="17" height="26" fill="rgb(181,182,61)" stroke="rgb(144,145,48)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="1,16 1,16 1,1 24,31 1,61 1,46 1,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF01758</title>
+			<polygon class="PF01758" points="1,18 11,18 14,22 14,40 11,44 1,44" stroke-linejoin="round" width="13" height="26" fill="rgb(139,96,196)" stroke="rgb(111,76,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="25,16 31,16 31,1 61,31 31,61 31,46 25,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF01758</title>
+			<polygon class="PF01758" points="30,18 45,18 49,22 49,40 45,44 30,44" stroke-linejoin="round" width="19" height="26" fill="rgb(139,96,196)" stroke="rgb(111,76,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="61,16 61,16 61,1 74,31 61,61 61,46 61,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF01451</title>
+			<polygon class="PF01451" points="61,18 65,18 71,31 65,44 61,44" stroke-linejoin="round" width="13" height="26" fill="rgb(199,53,196)" stroke="rgb(159,42,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>enkB</title>
+		<polygon class="enkB" points="117,16 117,16 117,1 125,31 117,61 117,46 117,46" fill="rgb(254,195,203)" fill-opacity="1.0" stroke="rgb(101,77,81)" stroke-width="1" />
+		<g>
+			<title>PF09221</title>
+			<polygon class="PF09221" points="119,18 119,18 122,31 119,44 119,44" stroke-linejoin="round" width="6" height="26" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>enkB1</title>
+		<polygon class="enkB1" points="125,16 134,16 134,1 164,31 134,61 134,46 125,46" fill="rgb(254,206,242)" fill-opacity="1.0" stroke="rgb(101,82,96)" stroke-width="1" />
+	</g>
+	<g>
+		<title>enkB2</title>
+		<polygon class="enkB2" points="165,16 165,16 165,1 182,31 165,61 165,46 165,46" fill="rgb(215,239,253)" fill-opacity="1.0" stroke="rgb(86,95,101)" stroke-width="1" />
+	</g>
+	<g>
+		<title>enkB3</title>
+		<polygon class="enkB3" points="182,16 182,16 182,1 201,31 182,61 182,46 182,46" fill="rgb(214,252,189)" fill-opacity="1.0" stroke="rgb(85,100,75)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="183,18 190,18 196,27 196,35 190,44 183,44" stroke-linejoin="round" width="13" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>enkB4</title>
+		<polygon class="enkB4" points="201,16 201,16 201,1 217,31 201,61 201,46 201,46" fill="rgb(253,214,218)" fill-opacity="1.0" stroke="rgb(101,85,87)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="264,16 251,16 251,1 221,31 251,61 251,46 264,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF14501</title>
+			<polygon class="PF14501" points="223,31 231,23 231,38" stroke-linejoin="round" width="10" height="26" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

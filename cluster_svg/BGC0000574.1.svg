@@ -1,0 +1,40 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="206" height="62">
+	<line x1="1" y1="31" x2="205" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="1,16 52,16 52,1 82,31 52,61 52,46 1,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00326</title>
+			<polygon class="PF00326" points="61,18 66,18 79,31 79,31 66,44 61,44" stroke-linejoin="round" width="18" height="26" fill="rgb(77,97,209)" stroke="rgb(61,77,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="139,16 108,16 108,1 78,31 108,61 108,46 139,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00733</title>
+			<polygon class="PF00733" points="81,30 93,18 116,18 116,44 93,44 81,31" stroke-linejoin="round" width="35" height="26" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="161,16 161,16 161,1 140,31 161,61 161,46 161,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF13471</title>
+			<polygon class="PF13471" points="142,31 151,18 151,43" stroke-linejoin="round" width="11" height="26" fill="rgb(63,111,179)" stroke="rgb(50,88,143)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="167,16 167,16 167,1 164,31 167,61 167,46 167,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="174,16 174,16 174,1 171,31 174,61 174,46 174,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="182,16 182,16 182,1 178,31 182,61 182,46 182,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="204,16 204,16 204,1 185,31 204,61 204,46 204,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00392</title>
+			<rect class="PF00392" x="197" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(160,85,194)" stroke="rgb(127,68,155)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

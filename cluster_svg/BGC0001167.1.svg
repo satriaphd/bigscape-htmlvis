@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="312" height="62">
+	<line x1="1" y1="31" x2="311" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>pirE4</title>
+		<polygon class="pirE4" points="206,16 206,16 206,1 211,31 206,61 206,46 206,46" fill="rgb(238,250,205)" fill-opacity="1.0" stroke="rgb(95,100,82)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="240,16 240,16 240,1 214,31 240,61 240,46 240,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF05685</title>
+			<polygon class="PF05685" points="219,28 227,18 236,18 236,44 227,44 219,33" stroke-linejoin="round" width="17" height="26" fill="rgb(123,107,219)" stroke="rgb(98,85,175)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pirG</title>
+		<polygon class="pirG" points="242,16 281,16 281,1 311,31 281,61 281,46 242,46" fill="rgb(249,195,248)" fill-opacity="1.0" stroke="rgb(99,78,99)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<rect class="PF00082" x="244" y="18" stroke-linejoin="round" width="30" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pirE2</title>
+		<polygon class="pirE2" points="1,16 1,16 1,1 5,31 1,61 1,46 1,46" fill="rgb(228,192,252)" fill-opacity="1.0" stroke="rgb(91,76,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>pirE3</title>
+		<polygon class="pirE3" points="13,16 13,16 13,1 18,31 13,61 13,46 13,46" fill="rgb(232,184,254)" fill-opacity="1.0" stroke="rgb(92,73,101)" stroke-width="1" />
+	</g>
+	<g>
+		<title>pirF</title>
+		<polygon class="pirF" points="27,16 27,16 27,1 56,31 27,61 27,46 27,46" fill="rgb(207,253,216)" fill-opacity="1.0" stroke="rgb(82,101,86)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="57,16 57,16 57,1 72,31 57,61 57,46 57,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF01724</title>
+			<polygon class="PF01724" points="58,18 63,18 69,31 63,44 58,44" stroke-linejoin="round" width="13" height="26" fill="rgb(104,61,184)" stroke="rgb(83,48,147)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="74,16 74,16 74,1 93,31 74,61 74,46 74,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF05685</title>
+			<polygon class="PF05685" points="75,18 82,18 90,31 82,44 75,44" stroke-linejoin="round" width="17" height="26" fill="rgb(123,107,219)" stroke="rgb(98,85,175)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="94,16 94,16 94,1 116,31 94,61 94,46 94,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF05685</title>
+			<polygon class="PF05685" points="96,18 103,18 113,31 113,31 103,44 96,44" stroke-linejoin="round" width="17" height="26" fill="rgb(123,107,219)" stroke="rgb(98,85,175)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pirA</title>
+		<polygon class="pirA" points="117,16 151,16 151,1 181,31 151,61 151,46 117,46" fill="rgb(226,193,252)" fill-opacity="1.0" stroke="rgb(90,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<rect class="PF00082" x="118" y="18" stroke-linejoin="round" width="28" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pirB</title>
+		<polygon class="pirB" points="186,16 186,16 186,1 193,31 186,61 186,46 186,46" fill="rgb(182,186,252)" fill-opacity="1.0" stroke="rgb(72,74,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>pirC</title>
+		<polygon class="pirC" points="194,16 194,16 194,1 201,31 194,61 194,46 194,46" fill="rgb(253,195,205)" fill-opacity="1.0" stroke="rgb(101,78,82)" stroke-width="1" />
+	</g>
+</svg>

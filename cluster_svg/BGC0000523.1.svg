@@ -1,0 +1,127 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="535" height="62">
+	<line x1="1" y1="31" x2="534" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>lasA</title>
+		<polygon class="lasA" points="220,16 220,16 220,1 226,31 220,61 220,46 220,46" fill="rgb(251,208,204)" fill-opacity="1.0" stroke="rgb(100,83,81)" stroke-width="1" />
+	</g>
+	<g>
+		<title>lasM</title>
+		<polygon class="lasM" points="230,16 292,16 292,1 322,31 292,61 292,46 230,46" fill="rgb(207,252,194)" fill-opacity="1.0" stroke="rgb(82,100,77)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<rect class="PF13575" x="240" y="18" stroke-linejoin="round" width="36" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="288,18 306,18 319,31 306,44 288,44" stroke-linejoin="round" width="33" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasN</title>
+		<polygon class="lasN" points="323,16 323,16 323,1 347,31 323,61 323,46 323,46" fill="rgb(220,254,211)" fill-opacity="1.0" stroke="rgb(88,101,84)" stroke-width="1" />
+		<g>
+			<title>PF03358</title>
+			<polygon class="PF03358" points="323,18 334,18 338,23 338,39 334,44 323,44" stroke-linejoin="round" width="15" height="26" fill="rgb(90,228,61)" stroke="rgb(72,182,48)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasT</title>
+		<polygon class="lasT" points="347,16 370,16 370,1 400,31 370,61 370,46 347,46" fill="rgb(253,208,247)" fill-opacity="1.0" stroke="rgb(101,83,98)" stroke-width="1" />
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="348" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="381,18 384,18 394,28 394,34 384,44 381,44" stroke-linejoin="round" width="13" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasU</title>
+		<polygon class="lasU" points="401,16 401,16 401,1 410,31 401,61 401,46 401,46" fill="rgb(193,253,200)" fill-opacity="1.0" stroke="rgb(77,101,80)" stroke-width="1" />
+	</g>
+	<g>
+		<title>lasV</title>
+		<polygon class="lasV" points="410,16 410,16 410,1 422,31 410,61 410,46 410,46" fill="rgb(251,203,195)" fill-opacity="1.0" stroke="rgb(100,81,78)" stroke-width="1" />
+	</g>
+	<g>
+		<title>lasP</title>
+		<polygon class="lasP" points="423,16 423,16 423,1 449,31 423,61 423,46 423,46" fill="rgb(250,209,244)" fill-opacity="1.0" stroke="rgb(100,83,97)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<polygon class="PF00082" points="425,18 435,18 446,31 435,44 425,44" stroke-linejoin="round" width="22" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasJ</title>
+		<polygon class="lasJ" points="450,16 450,16 450,1 455,31 450,61 450,46 450,46" fill="rgb(223,188,252)" fill-opacity="1.0" stroke="rgb(89,75,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>lasW</title>
+		<polygon class="lasW" points="457,16 468,16 468,1 498,31 468,61 468,46 457,46" fill="rgb(251,197,224)" fill-opacity="1.0" stroke="rgb(100,78,89)" stroke-width="1" />
+		<g>
+			<title>PF12698</title>
+			<polygon class="PF12698" points="458,18 482,18 494,30 494,32 482,44 458,44" stroke-linejoin="round" width="36" height="26" fill="rgb(151,189,55)" stroke="rgb(120,151,44)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tnp1519R</title>
+		<polygon class="tnp1519R" points="503,16 503,16 503,1 525,31 503,61 503,46 503,46" fill="rgb(213,184,254)" fill-opacity="1.0" stroke="rgb(85,73,101)" stroke-width="1" />
+		<g>
+			<title>PF13610</title>
+			<polygon class="PF13610" points="510,18 512,18 522,31 512,44 510,44" stroke-linejoin="round" width="13" height="26" fill="rgb(200,202,77)" stroke="rgb(160,161,61)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="1,16 1,16 1,1 8,31 1,61 1,46 1,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="8,16 8,16 8,1 19,31 8,61 8,46 8,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="40,16 40,16 40,1 27,31 40,61 40,46 40,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="49,16 49,16 49,1 41,31 49,61 49,46 49,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<title>tnp1519L</title>
+		<polygon class="tnp1519L" points="52,16 52,16 52,1 74,31 52,61 52,46 52,46" fill="rgb(253,200,184)" fill-opacity="1.0" stroke="rgb(101,80,73)" stroke-width="1" />
+		<g>
+			<title>PF13610</title>
+			<polygon class="PF13610" points="59,18 61,18 71,31 61,44 59,44" stroke-linejoin="round" width="13" height="26" fill="rgb(200,202,77)" stroke="rgb(160,161,61)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tnp1516delC</title>
+		<polygon class="tnp1516delC" points="97,16 97,16 97,1 112,31 97,61 97,46 97,46" fill="rgb(203,203,251)" fill-opacity="1.0" stroke="rgb(81,81,100)" stroke-width="1" />
+		<g>
+			<title>PF14690</title>
+			<polygon class="PF14690" points="100,18 103,18 104,20 104,42 103,44 100,44" stroke-linejoin="round" width="4" height="26" fill="rgb(94,212,144)" stroke="rgb(75,169,115)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tnp1516delN</title>
+		<polygon class="tnp1516delN" points="112,16 112,16 112,1 139,31 112,61 112,46 112,46" fill="rgb(212,254,198)" fill-opacity="1.0" stroke="rgb(84,101,79)" stroke-width="1" />
+		<g>
+			<title>PF01610</title>
+			<polygon class="PF01610" points="112,18 124,18 136,31 136,31 124,44 112,44" stroke-linejoin="round" width="24" height="26" fill="rgb(227,129,58)" stroke="rgb(181,103,46)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasY</title>
+		<polygon class="lasY" points="183,16 183,16 183,1 153,31 183,61 183,46 183,46" fill="rgb(241,250,180)" fill-opacity="1.0" stroke="rgb(96,100,72)" stroke-width="1" />
+		<g>
+			<title>PF13732</title>
+			<polygon class="PF13732" points="155,31 161,25 161,36" stroke-linejoin="round" width="8" height="26" fill="rgb(100,223,143)" stroke="rgb(80,178,114)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="167,19 168,18 181,18 181,44 168,44 167,42" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>lasX</title>
+		<polygon class="lasX" points="213,16 213,16 213,1 185,31 213,61 213,46 213,46" fill="rgb(210,240,250)" fill-opacity="1.0" stroke="rgb(84,96,100)" stroke-width="1" />
+	</g>
+</svg>

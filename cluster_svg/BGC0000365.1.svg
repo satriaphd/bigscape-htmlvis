@@ -1,0 +1,398 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="2242" height="62">
+	<line x1="1" y1="31" x2="2241" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>gtf1</title>
+		<polygon class="gtf1" points="427,16 439,16 439,1 469,31 439,61 439,46 427,46" fill="rgb(186,224,254)" fill-opacity="1.0" stroke="rgb(74,89,101)" stroke-width="1" />
+		<g>
+			<title>PF03033</title>
+			<rect class="PF03033" x="427" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(157,218,79)" stroke="rgb(125,174,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>atf1</title>
+		<polygon class="atf1" points="472,16 481,16 481,1 511,31 481,61 481,46 472,46" fill="rgb(228,206,251)" fill-opacity="1.0" stroke="rgb(91,82,100)" stroke-width="1" />
+		<g>
+			<title>PF01757</title>
+			<polygon class="PF01757" points="476,18 495,18 507,30 507,32 495,44 476,44" stroke-linejoin="round" width="31" height="26" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>rmt3</title>
+		<polygon class="rmt3" points="514,16 514,16 514,1 543,31 514,61 514,46 514,46" fill="rgb(251,252,180)" fill-opacity="1.0" stroke="rgb(100,100,72)" stroke-width="1" />
+		<g>
+			<title>PF05711</title>
+			<polygon class="PF05711" points="525,18 527,18 540,31 527,44 525,44" stroke-linejoin="round" width="17" height="26" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gtf2</title>
+		<polygon class="gtf2" points="586,16 575,16 575,1 545,31 575,61 575,46 586,46" fill="rgb(251,246,201)" fill-opacity="1.0" stroke="rgb(100,98,80)" stroke-width="1" />
+		<g>
+			<title>PF03033</title>
+			<rect class="PF03033" x="576" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(157,218,79)" stroke="rgb(125,174,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>fmt</title>
+		<polygon class="fmt" points="594,16 594,16 594,1 621,31 594,61 594,46 594,46" fill="rgb(253,194,245)" fill-opacity="1.0" stroke="rgb(101,77,98)" stroke-width="1" />
+		<g>
+			<title>PF08241</title>
+			<polygon class="PF08241" points="602,18 606,18 611,23 611,39 606,44 602,44" stroke-linejoin="round" width="9" height="26" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tnpA</title>
+		<polygon class="tnpA" points="669,16 680,16 680,1 710,31 680,61 680,46 669,46" fill="rgb(193,246,253)" fill-opacity="1.0" stroke="rgb(77,98,101)" stroke-width="1" />
+		<g>
+			<title>PF14690</title>
+			<rect class="PF14690" x="671" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(94,212,144)" stroke="rgb(75,169,115)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13542</title>
+			<rect class="PF13542" x="676" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(203,97,164)" stroke="rgb(162,77,131)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01610</title>
+			<polygon class="PF01610" points="683,18 694,18 707,31 694,44 683,44" stroke-linejoin="round" width="25" height="26" fill="rgb(227,129,58)" stroke="rgb(181,103,46)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tnpR</title>
+		<polygon class="tnpR" points="734,16 734,16 734,1 710,31 734,61 734,46 734,46" fill="rgb(214,238,252)" fill-opacity="1.0" stroke="rgb(85,95,100)" stroke-width="1" />
+		<g>
+			<title>PF07929</title>
+			<polygon class="PF07929" points="712,31 722,18 729,18 729,44 722,44" stroke-linejoin="round" width="18" height="26" fill="rgb(199,73,132)" stroke="rgb(159,58,105)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mbtH</title>
+		<polygon class="mbtH" points="744,16 744,16 744,1 751,31 744,61 744,46 744,46" fill="rgb(252,188,206)" fill-opacity="1.0" stroke="rgb(100,75,82)" stroke-width="1" />
+		<g>
+			<title>PF03621</title>
+			<polygon class="PF03621" points="744,18 745,18 748,31 745,44 744,44" stroke-linejoin="round" width="5" height="26" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mps1</title>
+		<polygon class="mps1" points="752,16 1065,16 1065,1 1095,31 1065,61 1065,46 752,46" fill="rgb(211,241,250)" fill-opacity="1.0" stroke="rgb(84,96,100)" stroke-width="1" />
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="752" y="18" stroke-linejoin="round" width="43" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="798" y="18" stroke-linejoin="round" width="38" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="837" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="847" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="856" y="18" stroke-linejoin="round" width="43" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="902" y="18" stroke-linejoin="round" width="43" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="948" y="18" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="989" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="998" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="1007" y="18" stroke-linejoin="round" width="43" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<polygon class="PF00668" points="1053,18 1079,18 1092,31 1079,44 1053,44" stroke-linejoin="round" width="41" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mps2</title>
+		<polygon class="mps2" points="1095,16 1321,16 1321,1 1351,31 1321,61 1321,46 1095,46" fill="rgb(250,207,180)" fill-opacity="1.0" stroke="rgb(100,82,72)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="1099" y="18" stroke-linejoin="round" width="38" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="1139" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="1149" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="1157" y="18" stroke-linejoin="round" width="44" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="1203" y="18" stroke-linejoin="round" width="43" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="1249" y="18" stroke-linejoin="round" width="38" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="1288" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="1298" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF07993</title>
+			<polygon class="PF07993" points="1310,18 1335,18 1336,19 1336,43 1335,44 1310,44" stroke-linejoin="round" width="26" height="26" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mmpS4</title>
+		<polygon class="mmpS4" points="1,16 1,16 1,1 15,31 1,61 1,46 1,46" fill="rgb(250,200,210)" fill-opacity="1.0" stroke="rgb(100,80,84)" stroke-width="1" />
+		<g>
+			<title>PF05423</title>
+			<polygon class="PF05423" points="1,18 6,18 12,31 6,44 1,44" stroke-linejoin="round" width="13" height="26" fill="rgb(64,97,225)" stroke="rgb(51,77,180)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gap</title>
+		<polygon class="gap" points="1352,16 1352,16 1352,1 1379,31 1352,61 1352,46 1352,46" fill="rgb(252,195,239)" fill-opacity="1.0" stroke="rgb(100,77,95)" stroke-width="1" />
+		<g>
+			<title>PF11139</title>
+			<polygon class="PF11139" points="1352,18 1364,18 1376,31 1364,44 1352,44" stroke-linejoin="round" width="26" height="26" fill="rgb(86,70,182)" stroke="rgb(68,56,145)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>sap</title>
+		<polygon class="sap" points="1383,16 1383,16 1383,1 1396,31 1383,61 1383,46 1383,46" fill="rgb(253,189,203)" fill-opacity="1.0" stroke="rgb(101,75,81)" stroke-width="1" />
+		<g>
+			<title>PF03795</title>
+			<polygon class="PF03795" points="1383,18 1387,18 1393,31 1387,44 1383,44" stroke-linejoin="round" width="12" height="26" fill="rgb(54,71,186)" stroke="rgb(43,56,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ecf</title>
+		<polygon class="ecf" points="1397,16 1406,16 1406,1 1436,31 1406,61 1406,46 1397,46" fill="rgb(251,202,231)" fill-opacity="1.0" stroke="rgb(100,80,92)" stroke-width="1" />
+		<g>
+			<title>PF04542</title>
+			<rect class="PF04542" x="1397" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(184,59,197)" stroke="rgb(147,47,157)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08281</title>
+			<rect class="PF08281" x="1406" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(222,103,144)" stroke="rgb(177,82,115)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>fadE5</title>
+		<polygon class="fadE5" points="1498,16 1467,16 1467,1 1437,31 1467,61 1467,46 1498,46" fill="rgb(252,187,239)" fill-opacity="1.0" stroke="rgb(100,74,95)" stroke-width="1" />
+		<g>
+			<title>PF12806</title>
+			<polygon class="PF12806" points="1439,31 1450,20 1450,41" stroke-linejoin="round" width="13" height="26" fill="rgb(208,149,57)" stroke="rgb(166,119,45)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00441</title>
+			<polygon class="PF00441" points="1452,18 1452,18 1469,18 1469,44 1452,44 1452,43" stroke-linejoin="round" width="17" height="26" fill="rgb(85,191,117)" stroke="rgb(68,152,93)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02770</title>
+			<rect class="PF02770" x="1470" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF12418</title>
+			<rect class="PF12418" x="1494" y="18" stroke-linejoin="round" width="3" height="26" fill="rgb(209,59,129)" stroke="rgb(167,47,103)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Rv0926c</title>
+		<polygon class="Rv0926c" points="1506,16 1512,16 1512,1 1542,31 1512,61 1512,46 1506,46" fill="rgb(185,188,250)" fill-opacity="1.0" stroke="rgb(73,75,100)" stroke-width="1" />
+		<g>
+			<title>PF01113</title>
+			<rect class="PF01113" x="1506" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(220,76,108)" stroke="rgb(176,60,86)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pks</title>
+		<polygon class="pks" points="1908,16 1573,16 1573,1 1543,31 1573,61 1573,46 1908,46" fill="rgb(203,246,254)" fill-opacity="1.0" stroke="rgb(81,98,101)" stroke-width="1" />
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="1545,31 1550,26 1550,35" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08659</title>
+			<rect class="PF08659" x="1560" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13602</title>
+			<rect class="PF13602" x="1580" y="18" stroke-linejoin="round" width="13" height="26" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14765</title>
+			<rect class="PF14765" x="1633" y="18" stroke-linejoin="round" width="28" height="26" fill="rgb(173,56,182)" stroke="rgb(138,44,145)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="1666" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<rect class="PF16197" x="1701" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="1714" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="1727" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="1754" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08659</title>
+			<rect class="PF08659" x="1771" y="18" stroke-linejoin="round" width="18" height="26" fill="rgb(66,209,188)" stroke="rgb(52,167,150)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="1821" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<rect class="PF16197" x="1857" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="1869" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="1882" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>papA3</title>
+		<polygon class="papA3" points="1910,16 1933,16 1933,1 1963,31 1933,61 1933,46 1910,46" fill="rgb(251,211,251)" fill-opacity="1.0" stroke="rgb(100,84,100)" stroke-width="1" />
+		<g>
+			<title>PF00668</title>
+			<polygon class="PF00668" points="1920,18 1947,18 1960,31 1947,44 1920,44" stroke-linejoin="round" width="42" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mmpL</title>
+		<polygon class="mmpL" points="1965,16 2035,16 2035,1 2065,31 2035,61 2035,46 1965,46" fill="rgb(217,215,254)" fill-opacity="1.0" stroke="rgb(86,86,101)" stroke-width="1" />
+		<g>
+			<title>PF03176</title>
+			<rect class="PF03176" x="1969" y="18" stroke-linejoin="round" width="33" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03176</title>
+			<polygon class="PF03176" points="2030,18 2049,18 2062,31 2049,44 2030,44" stroke-linejoin="round" width="34" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>fadD28</title>
+		<polygon class="fadD28" points="2069,16 2096,16 2096,1 2126,31 2096,61 2096,46 2069,46" fill="rgb(250,253,178)" fill-opacity="1.0" stroke="rgb(100,101,71)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="2069,18 2110,18 2114,22 2114,40 2110,44 2069,44" stroke-linejoin="round" width="45" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>pE</title>
+		<polygon class="pE" points="2128,16 2136,16 2136,1 2166,31 2136,61 2136,46 2128,46" fill="rgb(202,251,219)" fill-opacity="1.0" stroke="rgb(80,100,87)" stroke-width="1" />
+		<g>
+			<title>PF08237</title>
+			<polygon class="PF08237" points="2136,18 2150,18 2160,28 2160,34 2150,44 2136,44" stroke-linejoin="round" width="24" height="26" fill="rgb(205,84,227)" stroke="rgb(164,67,181)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mmpl4a</title>
+		<polygon class="mmpl4a" points="14,16 80,16 80,1 110,31 80,61 80,46 14,46" fill="rgb(199,252,189)" fill-opacity="1.0" stroke="rgb(79,100,75)" stroke-width="1" />
+		<g>
+			<title>PF03176</title>
+			<rect class="PF03176" x="19" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03176</title>
+			<polygon class="PF03176" points="74,18 94,18 107,31 107,31 94,44 74,44" stroke-linejoin="round" width="33" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="2189,16 2189,16 2189,1 2166,31 2189,61 2189,46 2189,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF11139</title>
+			<polygon class="PF11139" points="2168,31 2178,18 2187,18 2187,44 2178,44" stroke-linejoin="round" width="21" height="26" fill="rgb(86,70,182)" stroke="rgb(68,56,145)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mmpL4b</title>
+		<polygon class="mmpL4b" points="111,16 180,16 180,1 210,31 180,61 180,46 111,46" fill="rgb(215,183,253)" fill-opacity="1.0" stroke="rgb(86,73,101)" stroke-width="1" />
+		<g>
+			<title>PF03176</title>
+			<rect class="PF03176" x="117" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03176</title>
+			<polygon class="PF03176" points="172,18 194,18 205,29 205,33 194,44 172,44" stroke-linejoin="round" width="33" height="26" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>rv1174c</title>
+		<polygon class="rv1174c" points="224,16 224,16 224,1 213,31 224,61 224,46 224,46" fill="rgb(190,253,181)" fill-opacity="1.0" stroke="rgb(76,101,72)" stroke-width="1" />
+	</g>
+	<g>
+		<title>rmlA</title>
+		<polygon class="rmlA" points="258,16 258,16 258,1 230,31 258,61 258,46 258,46" fill="rgb(192,178,253)" fill-opacity="1.0" stroke="rgb(76,71,101)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="235,28 244,18 258,18 258,44 244,44 235,33" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gtf3</title>
+		<polygon class="gtf3" points="276,16 288,16 288,1 318,31 288,61 288,46 276,46" fill="rgb(192,251,248)" fill-opacity="1.0" stroke="rgb(76,100,99)" stroke-width="1" />
+		<g>
+			<title>PF03033</title>
+			<rect class="PF03033" x="276" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(157,218,79)" stroke="rgb(125,174,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>rmlB</title>
+		<polygon class="rmlB" points="320,16 327,16 327,1 357,31 327,61 327,46 320,46" fill="rgb(178,254,197)" fill-opacity="1.0" stroke="rgb(71,101,78)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="322,18 341,18 349,26 349,36 341,44 322,44" stroke-linejoin="round" width="27" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>rmt2</title>
+		<polygon class="rmt2" points="360,16 360,16 360,1 390,31 360,61 360,46 360,46" fill="rgb(243,249,177)" fill-opacity="1.0" stroke="rgb(97,99,70)" stroke-width="1" />
+		<g>
+			<title>PF13578</title>
+			<polygon class="PF13578" points="371,18 374,18 381,25 381,37 374,44 371,44" stroke-linejoin="round" width="10" height="26" fill="rgb(106,221,159)" stroke="rgb(84,176,127)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>rmt4</title>
+		<polygon class="rmt4" points="399,16 399,16 399,1 425,31 399,61 399,46 399,46" fill="rgb(253,231,195)" fill-opacity="1.0" stroke="rgb(101,92,78)" stroke-width="1" />
+		<g>
+			<title>PF05711</title>
+			<polygon class="PF05711" points="399,18 411,18 422,31 411,44 399,44" stroke-linejoin="round" width="25" height="26" fill="rgb(175,228,98)" stroke="rgb(139,182,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

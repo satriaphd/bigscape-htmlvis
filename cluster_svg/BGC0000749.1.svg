@@ -1,0 +1,21 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="172" height="62">
+	<line x1="1" y1="31" x2="171" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>galF</title>
+		<polygon class="galF" points="14,16 14,16 14,1 43,31 14,61 14,46 14,46" fill="rgb(253,238,199)" fill-opacity="1.0" stroke="rgb(101,95,79)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="14,18 27,18 40,31 27,44 14,44" stroke-linejoin="round" width="27" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="57,16 57,16 57,1 60,31 57,61 57,46 57,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="123,16 141,16 141,1 171,31 141,61 141,46 123,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF14052</title>
+			<polygon class="PF14052" points="126,18 155,18 168,31 155,44 126,44" stroke-linejoin="round" width="43" height="26" fill="rgb(58,137,189)" stroke="rgb(46,109,151)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

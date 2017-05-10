@@ -1,0 +1,31 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="84" height="62">
+	<line x1="1" y1="31" x2="83" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>sabR</title>
+		<polygon class="sabR" points="22,16 22,16 22,1 1,31 22,61 22,46 22,46" fill="rgb(250,181,210)" fill-opacity="1.0" stroke="rgb(100,72,84)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="16" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>sabA</title>
+		<polygon class="sabA" points="25,16 28,16 28,1 58,31 28,61 28,46 25,46" fill="rgb(212,251,228)" fill-opacity="1.0" stroke="rgb(84,100,91)" stroke-width="1" />
+		<g>
+			<title>PF03756</title>
+			<polygon class="PF03756" points="30,18 42,18 43,19 43,43 42,44 30,44" stroke-linejoin="round" width="13" height="26" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03756</title>
+			<polygon class="PF03756" points="46,22 55,31 46,40" stroke-linejoin="round" width="10" height="26" fill="rgb(178,81,93)" stroke="rgb(142,64,74)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>sabS</title>
+		<polygon class="sabS" points="60,16 60,16 60,1 83,31 60,61 60,46 60,46" fill="rgb(211,199,250)" fill-opacity="1.0" stroke="rgb(84,79,100)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="62" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

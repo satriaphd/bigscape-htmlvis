@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="205" height="62">
+	<line x1="1" y1="31" x2="204" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>skfA</title>
+		<polygon class="skfA" points="1,16 1,16 1,1 6,31 1,61 1,46 1,46" fill="rgb(199,208,250)" fill-opacity="1.0" stroke="rgb(79,83,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>skfB</title>
+		<polygon class="skfB" points="8,16 19,16 19,1 49,31 19,61 19,46 8,46" fill="rgb(214,253,249)" fill-opacity="1.0" stroke="rgb(85,101,99)" stroke-width="1" />
+		<g>
+			<title>PF04055</title>
+			<polygon class="PF04055" points="19,18 33,18 34,19 34,43 33,44 19,44" stroke-linejoin="round" width="15" height="26" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>skfC</title>
+		<polygon class="skfC" points="49,16 68,16 68,1 98,31 68,61 68,46 49,46" fill="rgb(234,252,183)" fill-opacity="1.0" stroke="rgb(93,100,73)" stroke-width="1" />
+		<g>
+			<title>PF02517</title>
+			<polygon class="PF02517" points="85,21 95,31 95,31 85,41" stroke-linejoin="round" width="10" height="26" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>skfE</title>
+		<polygon class="skfE" points="100,16 100,16 100,1 124,31 100,61 100,46 100,46" fill="rgb(250,222,180)" fill-opacity="1.0" stroke="rgb(100,88,72)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="101,18 111,18 115,23 115,39 111,44 101,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>skfF</title>
+		<polygon class="skfF" points="126,16 140,16 140,1 170,31 140,61 140,46 126,46" fill="rgb(204,253,237)" fill-opacity="1.0" stroke="rgb(81,101,94)" stroke-width="1" />
+	</g>
+	<g>
+		<title>skfG</title>
+		<polygon class="skfG" points="172,16 172,16 172,1 189,31 172,61 172,46 172,46" fill="rgb(203,249,205)" fill-opacity="1.0" stroke="rgb(81,99,82)" stroke-width="1" />
+	</g>
+	<g>
+		<title>skfH</title>
+		<polygon class="skfH" points="189,16 189,16 189,1 203,31 189,61 189,46 189,46" fill="rgb(192,210,250)" fill-opacity="1.0" stroke="rgb(76,83,100)" stroke-width="1" />
+		<g>
+			<title>PF13905</title>
+			<polygon class="PF13905" points="191,18 194,18 200,30 200,32 194,44 191,44" stroke-linejoin="round" width="9" height="26" fill="rgb(180,174,87)" stroke="rgb(144,139,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

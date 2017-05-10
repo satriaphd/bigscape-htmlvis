@@ -1,0 +1,51 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="372" height="62">
+	<line x1="1" y1="31" x2="371" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>subA</title>
+		<polygon class="subA" points="35,16 35,16 35,1 40,31 35,61 35,46 35,46" fill="rgb(185,217,250)" fill-opacity="1.0" stroke="rgb(73,86,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>subP</title>
+		<polygon class="subP" points="44,16 46,16 46,1 76,31 46,61 46,46 44,46" fill="rgb(251,210,194)" fill-opacity="1.0" stroke="rgb(100,84,77)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<polygon class="PF00082" points="47,18 60,18 73,31 60,44 47,44" stroke-linejoin="round" width="27" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>subB</title>
+		<polygon class="subB" points="76,16 149,16 149,1 179,31 149,61 149,46 76,46" fill="rgb(250,233,189)" fill-opacity="1.0" stroke="rgb(100,93,75)" stroke-width="1" />
+		<g>
+			<title>PF04738</title>
+			<rect class="PF04738" x="80" y="18" stroke-linejoin="round" width="64" height="26" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14028</title>
+			<polygon class="PF14028" points="152,18 163,18 176,31 163,44 152,44" stroke-linejoin="round" width="25" height="26" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>subC</title>
+		<polygon class="subC" points="181,16 195,16 195,1 225,31 195,61 195,46 181,46" fill="rgb(224,185,254)" fill-opacity="1.0" stroke="rgb(89,74,101)" stroke-width="1" />
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="185,18 209,18 222,31 209,44 185,44" stroke-linejoin="round" width="39" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>subI</title>
+		<polygon class="subI" points="225,16 225,16 225,1 244,31 225,61 225,46 225,46" fill="rgb(253,245,182)" fill-opacity="1.0" stroke="rgb(101,98,72)" stroke-width="1" />
+	</g>
+	<g>
+		<title>subT</title>
+		<polygon class="subT" points="245,16 273,16 273,1 303,31 273,61 273,46 245,46" fill="rgb(250,189,177)" fill-opacity="1.0" stroke="rgb(100,75,70)" stroke-width="1" />
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="247" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="280,18 287,18 295,26 295,36 287,44 280,44" stroke-linejoin="round" width="15" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,66 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="356" height="62">
+	<line x1="1" y1="31" x2="355" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>tleB</title>
+		<polygon class="tleB" points="40,16 31,16 31,1 1,31 31,61 31,46 40,46" fill="rgb(254,199,204)" fill-opacity="1.0" stroke="rgb(101,79,81)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="3,31 16,18 24,18 24,44 16,44" stroke-linejoin="round" width="21" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="47,16 47,16 47,1 40,31 47,61 47,46 47,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF03621</title>
+			<polygon class="PF03621" points="42,31 45,18 47,18 47,44 45,44" stroke-linejoin="round" width="5" height="26" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tleA</title>
+		<polygon class="tleA" points="300,16 80,16 80,1 50,31 80,61 80,46 300,46" fill="rgb(250,223,188)" fill-opacity="1.0" stroke="rgb(100,89,75)" stroke-width="1" />
+		<g>
+			<title>PF07993</title>
+			<polygon class="PF07993" points="63,20 65,18 87,18 87,44 65,44 63,41" stroke-linejoin="round" width="24" height="26" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="92" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="101" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="109" y="18" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<rect class="PF00668" x="151" y="18" stroke-linejoin="round" width="45" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="198" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08241</title>
+			<rect class="PF08241" x="234" y="18" stroke-linejoin="round" width="10" height="26" fill="rgb(106,219,159)" stroke="rgb(84,175,127)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<rect class="PF13193" x="248" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="256" y="18" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tleC</title>
+		<polygon class="tleC" points="316,16 325,16 325,1 355,31 325,61 325,46 316,46" fill="rgb(215,245,254)" fill-opacity="1.0" stroke="rgb(86,97,101)" stroke-width="1" />
+		<g>
+			<title>PF11991</title>
+			<polygon class="PF11991" points="322,18 339,18 350,29 350,33 339,44 322,44" stroke-linejoin="round" width="28" height="26" fill="rgb(197,197,93)" stroke="rgb(157,157,74)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="179" height="62">
+	<line x1="1" y1="31" x2="178" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>algE</title>
+		<polygon class="algE" points="1,16 1,16 1,1 7,31 1,61 1,46 1,46" fill="rgb(199,250,236)" fill-opacity="1.0" stroke="rgb(79,100,94)" stroke-width="1" />
+		<g>
+			<title>PF13372</title>
+			<polygon class="PF13372" points="1,18 1,18 4,31 1,44 1,44" stroke-linejoin="round" width="5" height="26" fill="rgb(128,200,52)" stroke="rgb(102,160,41)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>algG</title>
+		<polygon class="algG" points="7,16 29,16 29,1 59,31 29,61 29,46 7,46" fill="rgb(251,251,185)" fill-opacity="1.0" stroke="rgb(100,100,74)" stroke-width="1" />
+		<g>
+			<title>PF13229</title>
+			<polygon class="PF13229" points="34,18 43,18 49,24 49,38 43,44 34,44" stroke-linejoin="round" width="15" height="26" fill="rgb(197,72,157)" stroke="rgb(157,57,125)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>algX</title>
+		<polygon class="algX" points="60,16 78,16 78,1 108,31 78,61 78,46 60,46" fill="rgb(254,201,183)" fill-opacity="1.0" stroke="rgb(101,80,73)" stroke-width="1" />
+		<g>
+			<title>PF16822</title>
+			<rect class="PF16822" x="66" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(104,217,140)" stroke="rgb(83,173,112)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16824</title>
+			<polygon class="PF16824" points="94,20 105,31 94,42" stroke-linejoin="round" width="12" height="26" fill="rgb(71,213,188)" stroke="rgb(56,170,150)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>algL</title>
+		<polygon class="algL" points="108,16 114,16 114,1 144,31 114,61 114,46 108,46" fill="rgb(227,252,200)" fill-opacity="1.0" stroke="rgb(90,100,80)" stroke-width="1" />
+		<g>
+			<title>PF05426</title>
+			<polygon class="PF05426" points="113,18 128,18 137,27 137,35 128,44 113,44" stroke-linejoin="round" width="24" height="26" fill="rgb(209,93,208)" stroke="rgb(167,74,166)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>algI</title>
+		<polygon class="algI" points="152,16 152,16 152,1 178,31 152,61 152,46 152,46" fill="rgb(210,250,254)" fill-opacity="1.0" stroke="rgb(84,100,101)" stroke-width="1" />
+		<g>
+			<title>PF03062</title>
+			<polygon class="PF03062" points="152,18 164,18 175,31 164,44 152,44" stroke-linejoin="round" width="26" height="26" fill="rgb(116,79,215)" stroke="rgb(92,63,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

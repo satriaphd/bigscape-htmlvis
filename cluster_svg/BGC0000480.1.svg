@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="396" height="62">
+	<line x1="1" y1="31" x2="395" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>tenA</title>
+		<polygon class="tenA" points="1,16 37,16 37,1 67,31 37,61 37,46 1,46" fill="rgb(199,185,249)" fill-opacity="1.0" stroke="rgb(79,74,99)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<rect class="PF00082" x="2" y="18" stroke-linejoin="round" width="28" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tenB</title>
+		<polygon class="tenB" points="70,16 70,16 70,1 78,31 70,61 70,46 70,46" fill="rgb(251,180,208)" fill-opacity="1.0" stroke="rgb(100,72,83)" stroke-width="1" />
+	</g>
+	<g>
+		<title>tenC</title>
+		<polygon class="tenC" points="79,16 79,16 79,1 103,31 79,61 79,46 79,46" fill="rgb(253,183,177)" fill-opacity="1.0" stroke="rgb(101,73,70)" stroke-width="1" />
+	</g>
+	<g>
+		<title>tenD</title>
+		<polygon class="tenD" points="117,16 164,16 164,1 194,31 164,61 164,46 117,46" fill="rgb(252,195,246)" fill-opacity="1.0" stroke="rgb(100,77,98)" stroke-width="1" />
+		<g>
+			<title>PF02624</title>
+			<polygon class="PF02624" points="157,18 178,18 190,30 190,32 178,44 157,44" stroke-linejoin="round" width="33" height="26" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tenE</title>
+		<polygon class="tenE" points="199,16 199,16 199,1 208,31 199,61 199,46 199,46" fill="rgb(252,209,226)" fill-opacity="1.0" stroke="rgb(100,83,90)" stroke-width="1" />
+	</g>
+	<g>
+		<title>tenF</title>
+		<polygon class="tenF" points="221,16 223,16 223,1 253,31 223,61 223,46 221,46" fill="rgb(208,233,250)" fill-opacity="1.0" stroke="rgb(83,93,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>tenG</title>
+		<polygon class="tenG" points="264,16 364,16 364,1 394,31 364,61 364,46 264,46" fill="rgb(253,201,214)" fill-opacity="1.0" stroke="rgb(101,80,85)" stroke-width="1" />
+		<g>
+			<title>PF00881</title>
+			<rect class="PF00881" x="291" y="18" stroke-linejoin="round" width="20" height="26" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00082</title>
+			<rect class="PF00082" x="319" y="18" stroke-linejoin="round" width="39" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

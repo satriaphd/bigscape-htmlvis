@@ -1,0 +1,90 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="503" height="62">
+	<line x1="1" y1="31" x2="502" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>poyG</title>
+		<polygon class="poyG" points="416,16 416,16 416,1 427,31 416,61 416,46 416,46" fill="rgb(193,250,190)" fill-opacity="1.0" stroke="rgb(77,100,76)" stroke-width="1" />
+		<g>
+			<title>PF09394</title>
+			<polygon class="PF09394" points="417,18 419,18 424,31 419,44 417,44" stroke-linejoin="round" width="9" height="26" fill="rgb(131,225,100)" stroke="rgb(104,180,80)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyH</title>
+		<polygon class="poyH" points="429,16 431,16 431,1 461,31 431,61 431,46 429,46" fill="rgb(183,205,251)" fill-opacity="1.0" stroke="rgb(73,82,100)" stroke-width="1" />
+		<g>
+			<title>PF00112</title>
+			<polygon class="PF00112" points="437,18 445,18 458,31 458,31 445,44 437,44" stroke-linejoin="round" width="21" height="26" fill="rgb(78,125,201)" stroke="rgb(62,99,160)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyI</title>
+		<polygon class="poyI" points="463,16 472,16 472,1 502,31 472,61 472,46 463,46" fill="rgb(250,204,193)" fill-opacity="1.0" stroke="rgb(100,81,77)" stroke-width="1" />
+		<g>
+			<title>PF13621</title>
+			<rect class="PF13621" x="464" y="18" stroke-linejoin="round" width="22" height="26" fill="rgb(91,167,190)" stroke="rgb(72,133,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyK</title>
+		<polygon class="poyK" points="1,16 1,16 1,1 12,31 1,61 1,46 1,46" fill="rgb(206,253,202)" fill-opacity="1.0" stroke="rgb(82,101,80)" stroke-width="1" />
+	</g>
+	<g>
+		<title>poyJ</title>
+		<polygon class="poyJ" points="73,16 46,16 46,1 16,31 46,61 46,46 73,46" fill="rgb(254,232,205)" fill-opacity="1.0" stroke="rgb(101,92,82)" stroke-width="1" />
+		<g>
+			<title>PF12146</title>
+			<polygon class="PF12146" points="19,30 31,18 42,18 42,44 31,44 19,31" stroke-linejoin="round" width="23" height="26" fill="rgb(140,98,205)" stroke="rgb(112,78,164)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="80,16 80,16 80,1 102,31 80,61 80,46 80,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF13610</title>
+			<polygon class="PF13610" points="87,18 89,18 99,31 89,44 87,44" stroke-linejoin="round" width="13" height="26" fill="rgb(200,202,77)" stroke="rgb(160,161,61)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyB</title>
+		<polygon class="poyB" points="111,16 147,16 147,1 177,31 147,61 147,46 111,46" fill="rgb(189,228,253)" fill-opacity="1.0" stroke="rgb(75,91,101)" stroke-width="1" />
+		<g>
+			<title>PF02310</title>
+			<rect class="PF02310" x="119" y="18" stroke-linejoin="round" width="10" height="26" fill="rgb(145,190,60)" stroke="rgb(115,152,48)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF04055</title>
+			<rect class="PF04055" x="137" y="18" stroke-linejoin="round" width="16" height="26" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyC</title>
+		<polygon class="poyC" points="179,16 216,16 216,1 246,31 216,61 216,46 179,46" fill="rgb(254,200,211)" fill-opacity="1.0" stroke="rgb(101,80,84)" stroke-width="1" />
+		<g>
+			<title>PF04055</title>
+			<rect class="PF04055" x="205" y="18" stroke-linejoin="round" width="16" height="26" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyA</title>
+		<polygon class="poyA" points="247,16 247,16 247,1 261,31 247,61 247,46 247,46" fill="rgb(187,252,196)" fill-opacity="1.0" stroke="rgb(74,100,78)" stroke-width="1" />
+	</g>
+	<g>
+		<title>poyD</title>
+		<polygon class="poyD" points="264,16 287,16 287,1 317,31 287,61 287,46 264,46" fill="rgb(210,181,250)" fill-opacity="1.0" stroke="rgb(84,72,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>poyE</title>
+		<polygon class="poyE" points="318,16 328,16 328,1 358,31 328,61 328,46 318,46" fill="rgb(210,253,238)" fill-opacity="1.0" stroke="rgb(84,101,95)" stroke-width="1" />
+		<g>
+			<title>PF05175</title>
+			<polygon class="PF05175" points="332,18 342,18 348,24 348,38 342,44 332,44" stroke-linejoin="round" width="16" height="26" fill="rgb(99,227,110)" stroke="rgb(79,181,88)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>poyF</title>
+		<polygon class="poyF" points="357,16 385,16 385,1 415,31 385,61 385,46 357,46" fill="rgb(252,188,192)" fill-opacity="1.0" stroke="rgb(100,75,76)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<polygon class="PF13575" points="371,18 399,18 407,26 407,36 399,44 371,44" stroke-linejoin="round" width="36" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

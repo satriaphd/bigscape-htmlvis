@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="416" height="62">
+	<line x1="1" y1="31" x2="415" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>desVIII</title>
+		<polygon class="desVIII" points="4,16 14,16 14,1 44,31 14,61 14,46 4,46" fill="rgb(235,203,250)" fill-opacity="1.0" stroke="rgb(94,81,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="29,19 38,28 38,34 29,43" stroke-linejoin="round" width="9" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desVII</title>
+		<polygon class="desVII" points="50,16 62,16 62,1 92,31 62,61 62,46 50,46" fill="rgb(250,197,216)" fill-opacity="1.0" stroke="rgb(100,78,86)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="70,18 76,18 79,21 79,41 76,44 70,44" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desVI</title>
+		<polygon class="desVI" points="95,16 95,16 95,1 118,31 95,61 95,46 95,46" fill="rgb(252,213,233)" fill-opacity="1.0" stroke="rgb(100,85,93)" stroke-width="1" />
+		<g>
+			<title>PF13649</title>
+			<polygon class="PF13649" points="99,18 105,18 108,22 108,40 105,44 99,44" stroke-linejoin="round" width="9" height="26" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desR</title>
+		<polygon class="desR" points="121,16 172,16 172,1 202,31 172,61 172,46 121,46" fill="rgb(230,184,252)" fill-opacity="1.0" stroke="rgb(92,73,100)" stroke-width="1" />
+		<g>
+			<title>PF00933</title>
+			<rect class="PF00933" x="126" y="18" stroke-linejoin="round" width="28" height="26" fill="rgb(179,79,172)" stroke="rgb(143,63,137)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01915</title>
+			<polygon class="PF01915" points="158,18 186,18 191,23 191,39 186,44 158,44" stroke-linejoin="round" width="33" height="26" fill="rgb(181,96,75)" stroke="rgb(144,76,59)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14310</title>
+			<polygon class="PF14310" points="195,27 199,31 195,35" stroke-linejoin="round" width="5" height="26" fill="rgb(206,58,194)" stroke="rgb(164,46,155)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desV</title>
+		<polygon class="desV" points="243,16 235,16 235,1 205,31 235,61 235,46 243,46" fill="rgb(204,226,253)" fill-opacity="1.0" stroke="rgb(81,90,101)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="207,31 220,18 240,18 240,44 220,44" stroke-linejoin="round" width="34" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desIV</title>
+		<polygon class="desIV" points="276,16 273,16 273,1 243,31 273,61 273,46 276,46" fill="rgb(235,251,183)" fill-opacity="1.0" stroke="rgb(93,100,73)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="246,30 258,18 276,18 276,44 258,44 246,31" stroke-linejoin="round" width="30" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desIII</title>
+		<polygon class="desIII" points="310,16 310,16 310,1 281,31 310,61 310,46 310,46" fill="rgb(208,252,219)" fill-opacity="1.0" stroke="rgb(83,100,87)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="286,28 296,18 309,18 309,44 296,44 286,33" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>desII</title>
+		<polygon class="desII" points="365,16 347,16 347,1 317,31 347,61 347,46 365,46" fill="rgb(198,252,239)" fill-opacity="1.0" stroke="rgb(79,100,95)" stroke-width="1" />
+	</g>
+	<g>
+		<title>desI</title>
+		<polygon class="desI" points="406,16 395,16 395,1 365,31 395,61 395,46 406,46" fill="rgb(240,254,193)" fill-opacity="1.0" stroke="rgb(95,101,77)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="368,30 380,18 403,18 403,44 380,44 368,31" stroke-linejoin="round" width="35" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

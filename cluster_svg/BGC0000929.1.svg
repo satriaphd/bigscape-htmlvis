@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="258" height="62">
+	<line x1="1" y1="31" x2="257" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>toxR</title>
+		<polygon class="toxR" points="10,16 10,16 10,1 40,31 10,61 10,46 10,46" fill="rgb(181,205,254)" fill-opacity="1.0" stroke="rgb(72,81,101)" stroke-width="1" />
+		<g>
+			<title>PF00126</title>
+			<rect class="PF00126" x="10" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03466</title>
+			<polygon class="PF03466" points="19,18 24,18 37,31 24,44 19,44" stroke-linejoin="round" width="20" height="26" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>toxA</title>
+		<polygon class="toxA" points="60,16 60,16 60,1 84,31 60,61 60,46 60,46" fill="rgb(242,252,212)" fill-opacity="1.0" stroke="rgb(96,100,84)" stroke-width="1" />
+		<g>
+			<title>PF13649</title>
+			<polygon class="PF13649" points="64,18 71,18 73,21 73,41 71,44 64,44" stroke-linejoin="round" width="9" height="26" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>toxB</title>
+		<polygon class="toxB" points="89,16 89,16 89,1 110,31 89,61 89,46 89,46" fill="rgb(254,181,184)" fill-opacity="1.0" stroke="rgb(101,72,73)" stroke-width="1" />
+		<g>
+			<title>PF00925</title>
+			<polygon class="PF00925" points="91,18 98,18 107,31 107,31 98,44 91,44" stroke-linejoin="round" width="16" height="26" fill="rgb(50,54,188)" stroke="rgb(40,43,150)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>toxC</title>
+		<polygon class="toxC" points="110,16 136,16 136,1 166,31 136,61 136,46 110,46" fill="rgb(179,250,224)" fill-opacity="1.0" stroke="rgb(71,100,89)" stroke-width="1" />
+		<g>
+			<title>PF00400</title>
+			<rect class="PF00400" x="110" y="18" stroke-linejoin="round" width="3" height="26" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00400</title>
+			<rect class="PF00400" x="114" y="18" stroke-linejoin="round" width="3" height="26" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00400</title>
+			<rect class="PF00400" x="117" y="18" stroke-linejoin="round" width="3" height="26" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00400</title>
+			<rect class="PF00400" x="121" y="18" stroke-linejoin="round" width="3" height="26" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00400</title>
+			<polygon class="PF00400" points="158,26 161,29 161,33 158,36" stroke-linejoin="round" width="3" height="26" fill="rgb(190,108,62)" stroke="rgb(152,86,49)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>toxD</title>
+		<polygon class="toxD" points="170,16 172,16 172,1 202,31 172,61 172,46 170,46" fill="rgb(250,179,185)" fill-opacity="1.0" stroke="rgb(100,71,73)" stroke-width="1" />
+		<g>
+			<title>PF03781</title>
+			<polygon class="PF03781" points="180,18 186,18 199,31 186,44 180,44" stroke-linejoin="round" width="21" height="26" fill="rgb(206,81,170)" stroke="rgb(164,64,136)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>toxE</title>
+		<polygon class="toxE" points="203,16 211,16 211,1 241,31 211,61 211,46 203,46" fill="rgb(253,231,193)" fill-opacity="1.0" stroke="rgb(101,92,77)" stroke-width="1" />
+		<g>
+			<title>PF00383</title>
+			<rect class="PF00383" x="204" y="18" stroke-linejoin="round" width="10" height="26" fill="rgb(91,149,216)" stroke="rgb(72,119,172)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01872</title>
+			<polygon class="PF01872" points="219,18 225,18 238,31 225,44 219,44" stroke-linejoin="round" width="20" height="26" fill="rgb(225,80,120)" stroke="rgb(180,64,95)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

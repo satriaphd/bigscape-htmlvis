@@ -1,0 +1,223 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1089" height="62">
+	<line x1="1" y1="31" x2="1088" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>salL</title>
+		<polygon class="salL" points="402,16 402,16 402,1 430,31 402,61 402,46 402,46" fill="rgb(179,251,212)" fill-opacity="1.0" stroke="rgb(71,100,84)" stroke-width="1" />
+		<g>
+			<title>PF01887</title>
+			<polygon class="PF01887" points="402,18 415,18 427,31 415,44 402,44" stroke-linejoin="round" width="26" height="26" fill="rgb(103,77,209)" stroke="rgb(82,61,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salK</title>
+		<polygon class="salK" points="470,16 470,16 470,1 442,31 470,61 470,46 470,46" fill="rgb(200,253,185)" fill-opacity="1.0" stroke="rgb(80,101,74)" stroke-width="1" />
+	</g>
+	<g>
+		<title>salA</title>
+		<polygon class="salA" points="483,16 658,16 658,1 688,31 658,61 658,46 483,46" fill="rgb(210,216,254)" fill-opacity="1.0" stroke="rgb(84,86,101)" stroke-width="1" />
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="484" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="493" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="519" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<rect class="PF16197" x="531" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="545" y="18" stroke-linejoin="round" width="32" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00698</title>
+			<rect class="PF00698" x="589" y="18" stroke-linejoin="round" width="31" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<rect class="PF00550" x="627" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00668</title>
+			<polygon class="PF00668" points="641,18 672,18 685,31 672,44 641,44" stroke-linejoin="round" width="46" height="26" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salB</title>
+		<polygon class="salB" points="688,16 721,16 721,1 751,31 721,61 721,46 688,46" fill="rgb(242,188,250)" fill-opacity="1.0" stroke="rgb(96,75,100)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<rect class="PF00501" x="689" y="18" stroke-linejoin="round" width="38" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="728,18 735,18 736,19 736,43 735,44 728,44" stroke-linejoin="round" width="8" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="739,22 745,28 745,34 739,40" stroke-linejoin="round" width="6" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salC</title>
+		<polygon class="salC" points="752,16 781,16 781,1 811,31 781,61 781,46 752,46" fill="rgb(253,214,194)" fill-opacity="1.0" stroke="rgb(101,85,77)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="753" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<rect class="PF02801" x="778" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16197</title>
+			<polygon class="PF16197" points="790,18 795,18 801,24 801,38 795,44 790,44" stroke-linejoin="round" width="11" height="26" fill="rgb(68,179,89)" stroke="rgb(54,143,71)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salD</title>
+		<polygon class="salD" points="812,16 823,16 823,1 853,31 823,61 823,46 812,46" fill="rgb(249,197,253)" fill-opacity="1.0" stroke="rgb(99,78,101)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="839,20 850,31 839,42" stroke-linejoin="round" width="12" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salE</title>
+		<polygon class="salE" points="854,16 854,16 854,1 861,31 854,61 854,46 854,46" fill="rgb(250,199,216)" fill-opacity="1.0" stroke="rgb(100,79,86)" stroke-width="1" />
+		<g>
+			<title>PF03621</title>
+			<polygon class="PF03621" points="854,18 855,18 858,31 855,44 854,44" stroke-linejoin="round" width="5" height="26" fill="rgb(212,165,97)" stroke="rgb(169,132,77)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salF</title>
+		<polygon class="salF" points="861,16 861,16 861,1 889,31 861,61 861,46 861,46" fill="rgb(249,245,208)" fill-opacity="1.0" stroke="rgb(99,98,83)" stroke-width="1" />
+		<g>
+			<title>PF12697</title>
+			<polygon class="PF12697" points="863,18 874,18 886,31 886,31 874,44 863,44" stroke-linejoin="round" width="23" height="26" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salG</title>
+		<polygon class="salG" points="889,16 905,16 905,1 935,31 905,61 905,46 889,46" fill="rgb(180,253,233)" fill-opacity="1.0" stroke="rgb(72,101,93)" stroke-width="1" />
+		<g>
+			<title>PF08240</title>
+			<rect class="PF08240" x="895" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00107</title>
+			<polygon class="PF00107" points="912,18 919,18 926,25 926,37 919,44 912,44" stroke-linejoin="round" width="14" height="26" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salH</title>
+		<polygon class="salH" points="935,16 964,16 964,1 994,31 964,61 964,46 935,46" fill="rgb(195,251,206)" fill-opacity="1.0" stroke="rgb(78,100,82)" stroke-width="1" />
+		<g>
+			<title>PF00920</title>
+			<polygon class="PF00920" points="938,18 978,18 989,29 989,33 978,44 938,44" stroke-linejoin="round" width="51" height="26" fill="rgb(58,79,190)" stroke="rgb(46,63,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salU</title>
+		<polygon class="salU" points="1,16 1,16 1,1 11,31 1,61 1,46 1,46" fill="rgb(204,254,209)" fill-opacity="1.0" stroke="rgb(81,101,83)" stroke-width="1" />
+		<g>
+			<title>PF01474</title>
+			<polygon class="PF01474" points="1,18 4,18 8,31 4,44 1,44" stroke-linejoin="round" width="9" height="26" fill="rgb(126,217,84)" stroke="rgb(100,173,67)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salI</title>
+		<polygon class="salI" points="1036,16 1036,16 1036,1 1009,31 1036,61 1036,46 1036,46" fill="rgb(251,224,183)" fill-opacity="1.0" stroke="rgb(100,89,73)" stroke-width="1" />
+		<g>
+			<title>PF00227</title>
+			<polygon class="PF00227" points="1013,29 1023,18 1032,18 1032,44 1023,44 1013,32" stroke-linejoin="round" width="19" height="26" fill="rgb(195,133,71)" stroke="rgb(156,106,56)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salJ</title>
+		<polygon class="salJ" points="1078,16 1078,16 1078,1 1088,31 1078,61 1078,46 1078,46" fill="rgb(211,249,251)" fill-opacity="1.0" stroke="rgb(84,99,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>salT</title>
+		<polygon class="salT" points="12,16 12,16 12,1 38,31 12,61 12,46 12,46" fill="rgb(180,207,254)" fill-opacity="1.0" stroke="rgb(72,82,101)" stroke-width="1" />
+		<g>
+			<title>PF01048</title>
+			<polygon class="PF01048" points="12,18 24,18 35,31 35,31 24,44 12,44" stroke-linejoin="round" width="23" height="26" fill="rgb(75,186,148)" stroke="rgb(60,148,118)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salS</title>
+		<polygon class="salS" points="46,16 46,16 46,1 61,31 46,61 46,46 46,46" fill="rgb(228,250,175)" fill-opacity="1.0" stroke="rgb(91,100,69)" stroke-width="1" />
+		<g>
+			<title>PF01575</title>
+			<polygon class="PF01575" points="47,18 52,18 58,31 52,44 47,44" stroke-linejoin="round" width="12" height="26" fill="rgb(218,129,86)" stroke="rgb(174,103,68)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salRIII</title>
+		<polygon class="salRIII" points="98,16 102,16 102,1 132,31 102,61 102,46 98,46" fill="rgb(215,252,208)" fill-opacity="1.0" stroke="rgb(86,100,83)" stroke-width="1" />
+		<g>
+			<title>PF00126</title>
+			<rect class="PF00126" x="98" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03466</title>
+			<polygon class="PF03466" points="107,18 116,18 128,30 128,32 116,44 107,44" stroke-linejoin="round" width="21" height="26" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salQ</title>
+		<polygon class="salQ" points="274,16 189,16 189,1 159,31 189,61 189,46 274,46" fill="rgb(250,208,179)" fill-opacity="1.0" stroke="rgb(100,83,71)" stroke-width="1" />
+		<g>
+			<title>PF01558</title>
+			<rect class="PF01558" x="183" y="18" stroke-linejoin="round" width="18" height="26" fill="rgb(89,196,208)" stroke="rgb(71,156,166)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02775</title>
+			<rect class="PF02775" x="217" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salRII</title>
+		<polygon class="salRII" points="287,16 287,16 287,1 309,31 287,61 287,46 287,46" fill="rgb(192,251,253)" fill-opacity="1.0" stroke="rgb(76,100,101)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="288,18 296,18 299,21 299,41 296,44 288,44" stroke-linejoin="round" width="11" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00196</title>
+			<polygon class="PF00196" points="302,25 306,31 302,37" stroke-linejoin="round" width="5" height="26" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salO</title>
+		<polygon class="salO" points="337,16 337,16 337,1 310,31 337,61 337,46 337,46" fill="rgb(198,208,250)" fill-opacity="1.0" stroke="rgb(79,83,100)" stroke-width="1" />
+		<g>
+			<title>PF04199</title>
+			<polygon class="PF04199" points="316,27 324,18 335,18 335,44 324,44 316,34" stroke-linejoin="round" width="19" height="26" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salN</title>
+		<polygon class="salN" points="364,16 364,16 364,1 338,31 364,61 364,46 364,46" fill="rgb(185,252,252)" fill-opacity="1.0" stroke="rgb(74,100,100)" stroke-width="1" />
+		<g>
+			<title>PF13277</title>
+			<polygon class="PF13277" points="340,31 351,18 363,18 363,44 351,44" stroke-linejoin="round" width="25" height="26" fill="rgb(95,186,86)" stroke="rgb(76,148,68)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salM</title>
+		<polygon class="salM" points="372,16 372,16 372,1 397,31 372,61 372,46 372,46" fill="rgb(185,195,250)" fill-opacity="1.0" stroke="rgb(73,77,100)" stroke-width="1" />
+		<g>
+			<title>PF13561</title>
+			<polygon class="PF13561" points="373,18 383,18 394,31 383,44 373,44" stroke-linejoin="round" width="23" height="26" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

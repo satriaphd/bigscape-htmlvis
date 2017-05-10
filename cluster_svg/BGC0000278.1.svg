@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="182" height="62">
+	<line x1="1" y1="31" x2="181" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>urdZ3</title>
+		<polygon class="urdZ3" points="1,16 5,16 5,1 35,31 5,61 5,46 1,46" fill="rgb(237,251,209)" fill-opacity="1.0" stroke="rgb(94,100,83)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="1,18 19,18 25,24 25,38 19,44 1,44" stroke-linejoin="round" width="24" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>urdQ</title>
+		<polygon class="urdQ" points="36,16 49,16 49,1 79,31 49,61 49,46 36,46" fill="rgb(247,254,207)" fill-opacity="1.0" stroke="rgb(98,101,82)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="39,18 63,18 76,31 63,44 39,44" stroke-linejoin="round" width="38" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>urdR</title>
+		<polygon class="urdR" points="81,16 81,16 81,1 105,31 81,61 81,46 81,46" fill="rgb(250,225,207)" fill-opacity="1.0" stroke="rgb(100,90,82)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="82,18 92,18 98,26 98,36 92,44 82,44" stroke-linejoin="round" width="16" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>urdS</title>
+		<polygon class="urdS" points="107,16 124,16 124,1 154,31 124,61 124,46 107,46" fill="rgb(190,196,254)" fill-opacity="1.0" stroke="rgb(76,78,101)" stroke-width="1" />
+		<g>
+			<title>PF03559</title>
+			<rect class="PF03559" x="110" y="18" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03559</title>
+			<polygon class="PF03559" points="132,18 138,18 151,31 138,44 132,44" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>urdT</title>
+		<polygon class="urdT" points="154,16 154,16 154,1 180,31 154,61 154,46 154,46" fill="rgb(227,251,205)" fill-opacity="1.0" stroke="rgb(90,100,82)" stroke-width="1" />
+		<g>
+			<title>PF01408</title>
+			<rect class="PF01408" x="154" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

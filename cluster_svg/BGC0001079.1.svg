@@ -1,0 +1,262 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1449" height="62">
+	<line x1="1" y1="31" x2="1448" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>napB2</title>
+		<polygon class="napB2" points="352,16 352,16 352,1 370,31 352,61 352,46 352,46" fill="rgb(254,178,179)" fill-opacity="1.0" stroke="rgb(101,71,71)" stroke-width="1" />
+		<g>
+			<title>PF07883</title>
+			<polygon class="PF07883" points="355,18 359,18 363,24 363,38 359,44 355,44" stroke-linejoin="round" width="8" height="26" fill="rgb(211,192,74)" stroke="rgb(168,153,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napB4</title>
+		<polygon class="napB4" points="415,16 438,16 438,1 468,31 438,61 438,46 415,46" fill="rgb(250,227,209)" fill-opacity="1.0" stroke="rgb(100,90,83)" stroke-width="1" />
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="417,18 452,18 458,24 458,38 452,44 417,44" stroke-linejoin="round" width="41" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT7</title>
+		<polygon class="napT7" points="471,16 476,16 476,1 506,31 476,61 476,46 471,46" fill="rgb(217,179,252)" fill-opacity="1.0" stroke="rgb(86,71,100)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="476,18 490,18 501,29 501,33 490,44 476,44" stroke-linejoin="round" width="25" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR1</title>
+		<polygon class="napR1" points="516,16 520,16 520,1 550,31 520,61 520,46 516,46" fill="rgb(253,224,201)" fill-opacity="1.0" stroke="rgb(101,89,80)" stroke-width="1" />
+		<g>
+			<title>PF12833</title>
+			<rect class="PF12833" x="518" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR2</title>
+		<polygon class="napR2" points="547,16 559,16 559,1 589,31 559,61 559,46 547,46" fill="rgb(253,199,246)" fill-opacity="1.0" stroke="rgb(101,79,98)" stroke-width="1" />
+		<g>
+			<title>PF00999</title>
+			<polygon class="PF00999" points="548,18 573,18 586,31 586,31 573,44 548,44" stroke-linejoin="round" width="38" height="26" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR3</title>
+		<polygon class="napR3" points="595,16 595,16 595,1 617,31 595,61 595,46 595,46" fill="rgb(192,215,250)" fill-opacity="1.0" stroke="rgb(76,86,100)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="598" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napH1</title>
+		<polygon class="napH1" points="674,16 652,16 652,1 622,31 652,61 652,46 674,46" fill="rgb(184,253,252)" fill-opacity="1.0" stroke="rgb(73,101,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>napU3</title>
+		<polygon class="napU3" points="693,16 693,16 693,1 713,31 693,61 693,46 693,46" fill="rgb(194,183,254)" fill-opacity="1.0" stroke="rgb(77,73,101)" stroke-width="1" />
+		<g>
+			<title>PF07681</title>
+			<polygon class="PF07681" points="694,18 701,18 703,20 703,42 701,44 694,44" stroke-linejoin="round" width="9" height="26" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napH2</title>
+		<polygon class="napH2" points="724,16 738,16 738,1 768,31 738,61 738,46 724,46" fill="rgb(251,193,237)" fill-opacity="1.0" stroke="rgb(100,77,94)" stroke-width="1" />
+		<g>
+			<title>PF04820</title>
+			<polygon class="PF04820" points="736,18 752,18 765,31 752,44 736,44" stroke-linejoin="round" width="31" height="26" fill="rgb(179,74,194)" stroke="rgb(143,59,155)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT8</title>
+		<polygon class="napT8" points="829,16 829,16 829,1 800,31 829,61 829,46 829,46" fill="rgb(254,213,186)" fill-opacity="1.0" stroke="rgb(101,85,74)" stroke-width="1" />
+		<g>
+			<title>PF11468</title>
+			<polygon class="PF11468" points="802,31 815,18 829,18 829,44 815,44" stroke-linejoin="round" width="28" height="26" fill="rgb(121,52,185)" stroke="rgb(96,41,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT1</title>
+		<polygon class="napT1" points="40,16 31,16 31,1 1,31 31,61 31,46 40,46" fill="rgb(213,252,210)" fill-opacity="1.0" stroke="rgb(85,100,84)" stroke-width="1" />
+		<g>
+			<title>PF08540</title>
+			<polygon class="PF08540" points="3,31 14,20 14,41" stroke-linejoin="round" width="13" height="26" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01154</title>
+			<rect class="PF01154" x="23" y="18" stroke-linejoin="round" width="16" height="26" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT9</title>
+		<polygon class="napT9" points="837,16 839,16 839,1 869,31 839,61 839,46 837,46" fill="rgb(191,229,254)" fill-opacity="1.0" stroke="rgb(76,91,101)" stroke-width="1" />
+		<g>
+			<title>PF11468</title>
+			<polygon class="PF11468" points="839,18 853,18 866,31 853,44 839,44" stroke-linejoin="round" width="29" height="26" fill="rgb(121,52,185)" stroke="rgb(96,41,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napH3</title>
+		<polygon class="napH3" points="874,16 888,16 888,1 918,31 888,61 888,46 874,46" fill="rgb(254,178,219)" fill-opacity="1.0" stroke="rgb(101,71,87)" stroke-width="1" />
+	</g>
+	<g>
+		<title>napH4</title>
+		<polygon class="napH4" points="924,16 946,16 946,1 976,31 946,61 946,46 924,46" fill="rgb(187,253,196)" fill-opacity="1.0" stroke="rgb(74,101,78)" stroke-width="1" />
+	</g>
+	<g>
+		<title>napB5</title>
+		<polygon class="napB5" points="991,16 996,16 996,1 1026,31 996,61 996,46 991,46" fill="rgb(253,235,210)" fill-opacity="1.0" stroke="rgb(101,94,84)" stroke-width="1" />
+		<g>
+			<title>PF00891</title>
+			<polygon class="PF00891" points="1000,18 1010,18 1023,31 1023,31 1010,44 1000,44" stroke-linejoin="round" width="23" height="26" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR4</title>
+		<polygon class="napR4" points="1038,16 1054,16 1054,1 1084,31 1054,61 1054,46 1038,46" fill="rgb(194,251,218)" fill-opacity="1.0" stroke="rgb(77,100,87)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<rect class="PF07690" x="1041" y="18" stroke-linejoin="round" width="27" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="1067,18 1068,18 1081,31 1068,44 1067,44" stroke-linejoin="round" width="17" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR5</title>
+		<polygon class="napR5" points="1100,16 1123,16 1123,1 1153,31 1123,61 1123,46 1100,46" fill="rgb(251,204,205)" fill-opacity="1.0" stroke="rgb(100,81,82)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="1103,18 1137,18 1142,23 1142,39 1137,44 1103,44" stroke-linejoin="round" width="39" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR6</title>
+		<polygon class="napR6" points="1163,16 1186,16 1186,1 1216,31 1186,61 1186,46 1163,46" fill="rgb(236,252,190)" fill-opacity="1.0" stroke="rgb(94,100,76)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="1164,18 1200,18 1203,21 1203,41 1200,44 1164,44" stroke-linejoin="round" width="39" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR7</title>
+		<polygon class="napR7" points="1217,16 1217,16 1217,1 1239,31 1217,61 1217,46 1217,46" fill="rgb(202,254,205)" fill-opacity="1.0" stroke="rgb(80,101,82)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="1220" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR8</title>
+		<polygon class="napR8" points="1313,16 1305,16 1305,1 1275,31 1305,61 1305,46 1313,46" fill="rgb(254,246,203)" fill-opacity="1.0" stroke="rgb(101,98,81)" stroke-width="1" />
+		<g>
+			<title>PF01047</title>
+			<polygon class="PF01047" points="1280,28 1285,23 1285,38 1280,33" stroke-linejoin="round" width="5" height="26" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01047</title>
+			<rect class="PF01047" x="1294" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napU4</title>
+		<polygon class="napU4" points="1334,16 1334,16 1334,1 1311,31 1334,61 1334,46 1334,46" fill="rgb(202,197,253)" fill-opacity="1.0" stroke="rgb(80,78,101)" stroke-width="1" />
+		<g>
+			<title>PF01814</title>
+			<polygon class="PF01814" points="1318,25 1323,18 1331,18 1331,44 1323,44 1318,36" stroke-linejoin="round" width="13" height="26" fill="rgb(120,91,227)" stroke="rgb(95,72,181)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT2</title>
+		<polygon class="napT2" points="75,16 70,16 70,1 40,31 70,61 70,46 75,46" fill="rgb(178,228,252)" fill-opacity="1.0" stroke="rgb(71,91,100)" stroke-width="1" />
+		<g>
+			<title>PF00368</title>
+			<polygon class="PF00368" points="42,31 55,18 75,18 75,44 55,44" stroke-linejoin="round" width="34" height="26" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="1345,16 1359,16 1359,1 1389,31 1359,61 1359,46 1345,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF01548</title>
+			<rect class="PF01548" x="1350" y="18" stroke-linejoin="round" width="15" height="26" fill="rgb(59,200,207)" stroke="rgb(47,160,165)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02371</title>
+			<polygon class="PF02371" points="1376,21 1384,29 1384,33 1376,41" stroke-linejoin="round" width="8" height="26" fill="rgb(104,204,65)" stroke="rgb(83,163,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napR9</title>
+		<polygon class="napR9" points="1407,16 1417,16 1417,1 1447,31 1417,61 1417,46 1407,46" fill="rgb(198,254,182)" fill-opacity="1.0" stroke="rgb(79,101,72)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="1408,18 1431,18 1435,22 1435,40 1431,44 1408,44" stroke-linejoin="round" width="27" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT3</title>
+		<polygon class="napT3" points="113,16 105,16 105,1 75,31 105,61 105,46 113,46" fill="rgb(205,254,203)" fill-opacity="1.0" stroke="rgb(82,101,81)" stroke-width="1" />
+		<g>
+			<title>PF01070</title>
+			<polygon class="PF01070" points="80,28 90,18 101,18 101,44 90,44 80,33" stroke-linejoin="round" width="21" height="26" fill="rgb(59,82,204)" stroke="rgb(47,65,163)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT4</title>
+		<polygon class="napT4" points="154,16 143,16 143,1 113,31 143,61 143,46 154,46" fill="rgb(175,202,250)" fill-opacity="1.0" stroke="rgb(69,80,100)" stroke-width="1" />
+		<g>
+			<title>PF08544</title>
+			<polygon class="PF08544" points="115,31 122,24 122,37" stroke-linejoin="round" width="8" height="26" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00288</title>
+			<rect class="PF00288" x="132" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT5</title>
+		<polygon class="napT5" points="191,16 184,16 184,1 154,31 184,61 184,46 191,46" fill="rgb(254,207,236)" fill-opacity="1.0" stroke="rgb(101,82,94)" stroke-width="1" />
+		<g>
+			<title>PF08544</title>
+			<polygon class="PF08544" points="156,31 165,22 165,39" stroke-linejoin="round" width="9" height="26" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00288</title>
+			<rect class="PF00288" x="172" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napT6</title>
+		<polygon class="napT6" points="224,16 222,16 222,1 192,31 222,61 222,46 224,46" fill="rgb(211,208,251)" fill-opacity="1.0" stroke="rgb(84,83,100)" stroke-width="1" />
+		<g>
+			<title>PF08544</title>
+			<polygon class="PF08544" points="194,31 201,24 201,37" stroke-linejoin="round" width="8" height="26" fill="rgb(95,112,219)" stroke="rgb(76,89,175)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00288</title>
+			<rect class="PF00288" x="208" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(190,54,91)" stroke="rgb(152,43,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>napU1</title>
+		<polygon class="napU1" points="277,16 277,16 277,1 255,31 277,61 277,46 277,46" fill="rgb(249,206,250)" fill-opacity="1.0" stroke="rgb(99,82,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>napU2</title>
+		<polygon class="napU2" points="285,16 285,16 285,1 311,31 285,61 285,46 285,46" fill="rgb(252,197,232)" fill-opacity="1.0" stroke="rgb(100,78,92)" stroke-width="1" />
+	</g>
+	<g>
+		<title>napB1</title>
+		<polygon class="napB1" points="314,16 319,16 319,1 349,31 319,61 319,46 314,46" fill="rgb(253,184,190)" fill-opacity="1.0" stroke="rgb(101,73,76)" stroke-width="1" />
+		<g>
+			<title>PF00195</title>
+			<polygon class="PF00195" points="318,18 333,18 334,19 334,43 333,44 318,44" stroke-linejoin="round" width="16" height="26" fill="rgb(60,181,161)" stroke="rgb(47,144,128)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02797</title>
+			<polygon class="PF02797" points="334,19 346,31 334,43" stroke-linejoin="round" width="13" height="26" fill="rgb(139,212,63)" stroke="rgb(111,169,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

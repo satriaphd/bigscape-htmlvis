@@ -1,0 +1,20 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="182" height="62">
+	<line x1="1" y1="31" x2="181" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="48,16 31,16 31,1 1,31 31,61 31,46 48,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00027</title>
+			<rect class="PF00027" x="27" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="102,16 85,16 85,1 55,31 85,61 85,46 102,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00027</title>
+			<rect class="PF00027" x="81" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(138,95,204)" stroke="rgb(110,76,163)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="181,16 136,16 136,1 106,31 136,61 136,46 181,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+</svg>

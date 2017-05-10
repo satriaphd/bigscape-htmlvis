@@ -1,0 +1,50 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="297" height="62">
+	<line x1="1" y1="31" x2="296" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>ccbE</title>
+		<polygon class="ccbE" points="13,16 38,16 38,1 68,31 38,61 38,46 13,46" fill="rgb(254,216,248)" fill-opacity="1.0" stroke="rgb(101,86,99)" stroke-width="1" />
+	</g>
+	<g>
+		<title>ccbF1</title>
+		<polygon class="ccbF1" points="69,16 90,16 90,1 120,31 90,61 90,46 69,46" fill="rgb(178,252,191)" fill-opacity="1.0" stroke="rgb(71,100,76)" stroke-width="1" />
+		<g>
+			<title>PF00535</title>
+			<polygon class="PF00535" points="95,18 104,18 110,24 110,38 104,44 95,44" stroke-linejoin="round" width="15" height="26" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ccbF2</title>
+		<polygon class="ccbF2" points="120,16 120,16 120,1 144,31 120,61 120,46 120,46" fill="rgb(195,211,251)" fill-opacity="1.0" stroke="rgb(78,84,100)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="153,16 153,16 153,1 174,31 153,61 153,46 153,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF12762</title>
+			<polygon class="PF12762" points="158,18 162,18 171,31 171,31 162,44 158,44" stroke-linejoin="round" width="13" height="26" fill="rgb(211,88,85)" stroke="rgb(168,70,68)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ccbC</title>
+		<polygon class="ccbC" points="181,16 190,16 190,1 220,31 190,61 190,46 181,46" fill="rgb(228,253,185)" fill-opacity="1.0" stroke="rgb(91,101,74)" stroke-width="1" />
+		<g>
+			<title>PF03721</title>
+			<rect class="PF03721" x="181" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00984</title>
+			<polygon class="PF00984" points="200,18 204,18 209,23 209,39 204,44 200,44" stroke-linejoin="round" width="9" height="26" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03720</title>
+			<polygon class="PF03720" points="211,25 217,31 211,37" stroke-linejoin="round" width="8" height="26" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ccbB</title>
+		<polygon class="ccbB" points="237,16 238,16 238,1 268,31 238,61 238,46 237,46" fill="rgb(182,253,218)" fill-opacity="1.0" stroke="rgb(72,101,87)" stroke-width="1" />
+		<g>
+			<title>PF00535</title>
+			<polygon class="PF00535" points="241,18 252,18 258,24 258,38 252,44 241,44" stroke-linejoin="round" width="17" height="26" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

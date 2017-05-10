@@ -1,0 +1,7 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="12" height="62">
+	<line x1="1" y1="31" x2="11" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>lcyQ</title>
+		<polygon class="lcyQ" points="2,16 2,16 2,1 8,31 2,61 2,46 2,46" fill="rgb(198,250,242)" fill-opacity="1.0" stroke="rgb(79,100,96)" stroke-width="1" />
+	</g>
+</svg>

@@ -1,0 +1,83 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="312" height="62">
+	<line x1="1" y1="31" x2="311" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>tuaA</title>
+		<polygon class="tuaA" points="8,16 8,16 8,1 26,31 8,61 8,46 8,46" fill="rgb(182,175,249)" fill-opacity="1.0" stroke="rgb(72,70,99)" stroke-width="1" />
+		<g>
+			<title>PF02397</title>
+			<polygon class="PF02397" points="11,18 15,18 23,31 15,44 11,44" stroke-linejoin="round" width="14" height="26" fill="rgb(57,165,209)" stroke="rgb(45,131,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaB</title>
+		<polygon class="tuaB" points="31,16 49,16 49,1 79,31 49,61 49,46 31,46" fill="rgb(224,252,208)" fill-opacity="1.0" stroke="rgb(89,100,83)" stroke-width="1" />
+		<g>
+			<title>PF01943</title>
+			<rect class="PF01943" x="31" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(71,213,101)" stroke="rgb(56,170,80)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14667</title>
+			<polygon class="PF14667" points="63,18 63,18 76,31 63,44 63,44" stroke-linejoin="round" width="14" height="26" fill="rgb(222,92,150)" stroke="rgb(177,73,120)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaC</title>
+		<polygon class="tuaC" points="79,16 88,16 88,1 118,31 88,61 88,46 79,46" fill="rgb(252,252,200)" fill-opacity="1.0" stroke="rgb(100,100,80)" stroke-width="1" />
+		<g>
+			<title>PF13439</title>
+			<rect class="PF13439" x="80" y="18" stroke-linejoin="round" width="18" height="26" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00534</title>
+			<polygon class="PF00534" points="99,18 102,18 115,31 115,31 102,44 99,44" stroke-linejoin="round" width="16" height="26" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaD</title>
+		<polygon class="tuaD" points="120,16 136,16 136,1 166,31 136,61 136,46 120,46" fill="rgb(235,250,189)" fill-opacity="1.0" stroke="rgb(93,100,75)" stroke-width="1" />
+		<g>
+			<title>PF03721</title>
+			<rect class="PF03721" x="120" y="18" stroke-linejoin="round" width="18" height="26" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00984</title>
+			<rect class="PF00984" x="139" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03720</title>
+			<polygon class="PF03720" points="151,19 161,29 161,33 151,43" stroke-linejoin="round" width="10" height="26" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaE</title>
+		<polygon class="tuaE" points="169,16 187,16 187,1 217,31 187,61 187,46 169,46" fill="rgb(212,197,251)" fill-opacity="1.0" stroke="rgb(84,78,100)" stroke-width="1" />
+		<g>
+			<title>PF04932</title>
+			<polygon class="PF04932" points="194,18 201,18 209,26 209,36 201,44 194,44" stroke-linejoin="round" width="15" height="26" fill="rgb(106,219,107)" stroke="rgb(84,175,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaF</title>
+		<polygon class="tuaF" points="219,16 219,16 219,1 241,31 219,61 219,46 219,46" fill="rgb(253,253,202)" fill-opacity="1.0" stroke="rgb(101,101,80)" stroke-width="1" />
+		<g>
+			<title>PF02706</title>
+			<polygon class="PF02706" points="219,18 228,18 231,21 231,41 228,44 219,44" stroke-linejoin="round" width="12" height="26" fill="rgb(184,132,90)" stroke="rgb(147,105,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaG</title>
+		<polygon class="tuaG" points="243,16 243,16 243,1 268,31 243,61 243,46 243,46" fill="rgb(250,175,244)" fill-opacity="1.0" stroke="rgb(100,69,97)" stroke-width="1" />
+		<g>
+			<title>PF00535</title>
+			<polygon class="PF00535" points="243,18 254,18 257,21 257,41 254,44 243,44" stroke-linejoin="round" width="14" height="26" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>tuaH</title>
+		<polygon class="tuaH" points="269,16 278,16 278,1 308,31 278,61 278,46 269,46" fill="rgb(250,180,182)" fill-opacity="1.0" stroke="rgb(100,72,72)" stroke-width="1" />
+		<g>
+			<title>PF13692</title>
+			<polygon class="PF13692" points="291,18 292,18 305,31 305,31 292,44 291,44" stroke-linejoin="round" width="14" height="26" fill="rgb(85,182,142)" stroke="rgb(68,145,113)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

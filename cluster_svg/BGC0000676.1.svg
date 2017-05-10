@@ -1,0 +1,43 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="522" height="62">
+	<line x1="1" y1="31" x2="521" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>PbGGS</title>
+		<polygon class="PbGGS" points="55,16 51,16 51,1 21,31 51,61 51,46 55,46" fill="rgb(251,190,211)" fill-opacity="1.0" stroke="rgb(100,76,84)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="25,29 36,18 49,18 49,44 36,44 25,32" stroke-linejoin="round" width="24" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ACS</title>
+		<polygon class="ACS" points="110,16 180,16 180,1 210,31 180,61 180,46 110,46" fill="rgb(203,252,211)" fill-opacity="1.0" stroke="rgb(81,100,84)" stroke-width="1" />
+	</g>
+	<g>
+		<title>PbP450-1</title>
+		<polygon class="PbP450-1" points="224,16 251,16 251,1 281,31 251,61 251,46 224,46" fill="rgb(213,181,252)" fill-opacity="1.0" stroke="rgb(85,72,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="227,18 265,18 271,24 271,38 265,44 227,44" stroke-linejoin="round" width="44" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>PbTP</title>
+		<polygon class="PbTP" points="362,16 329,16 329,1 299,31 329,61 329,46 362,46" fill="rgb(252,207,227)" fill-opacity="1.0" stroke="rgb(100,82,90)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="314,18 314,18 354,18 354,44 314,44 314,43" stroke-linejoin="round" width="40" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>PbP450-2</title>
+		<polygon class="PbP450-2" points="383,16 411,16 411,1 441,31 411,61 411,46 383,46" fill="rgb(184,249,229)" fill-opacity="1.0" stroke="rgb(73,99,91)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="389,18 425,18 434,27 434,35 425,44 389,44" stroke-linejoin="round" width="45" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>PbTF</title>
+		<polygon class="PbTF" points="495,16 479,16 479,1 449,31 479,61 479,46 495,46" fill="rgb(190,197,251)" fill-opacity="1.0" stroke="rgb(76,78,100)" stroke-width="1" />
+	</g>
+</svg>

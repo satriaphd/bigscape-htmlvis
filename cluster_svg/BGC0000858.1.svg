@@ -1,0 +1,35 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="143" height="62">
+	<line x1="1" y1="31" x2="142" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>ectA</title>
+		<polygon class="ectA" points="8,16 8,16 8,1 24,31 8,61 8,46 8,46" fill="rgb(244,191,254)" fill-opacity="1.0" stroke="rgb(97,76,101)" stroke-width="1" />
+		<g>
+			<title>PF00583</title>
+			<polygon class="PF00583" points="8,18 14,18 19,26 19,36 14,44 8,44" stroke-linejoin="round" width="11" height="26" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ectB</title>
+		<polygon class="ectB" points="23,16 35,16 35,1 65,31 35,61 35,46 23,46" fill="rgb(180,250,227)" fill-opacity="1.0" stroke="rgb(72,100,90)" stroke-width="1" />
+		<g>
+			<title>PF00202</title>
+			<polygon class="PF00202" points="24,18 49,18 62,31 49,44 24,44" stroke-linejoin="round" width="39" height="26" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ectC</title>
+		<polygon class="ectC" points="66,16 66,16 66,1 79,31 66,61 66,46 66,46" fill="rgb(252,179,192)" fill-opacity="1.0" stroke="rgb(100,71,76)" stroke-width="1" />
+		<g>
+			<title>PF06339</title>
+			<polygon class="PF06339" points="66,18 70,18 76,31 70,44 66,44" stroke-linejoin="round" width="12" height="26" fill="rgb(225,176,81)" stroke="rgb(180,140,64)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ssf</title>
+		<polygon class="ssf" points="82,16 97,16 97,1 127,31 97,61 97,46 82,46" fill="rgb(205,201,253)" fill-opacity="1.0" stroke="rgb(82,80,101)" stroke-width="1" />
+		<g>
+			<title>PF00474</title>
+			<polygon class="PF00474" points="83,18 111,18 122,29 122,33 111,44 83,44" stroke-linejoin="round" width="39" height="26" fill="rgb(49,186,178)" stroke="rgb(39,148,142)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

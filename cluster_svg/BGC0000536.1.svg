@@ -1,0 +1,91 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="453" height="62">
+	<line x1="1" y1="31" x2="452" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>niqE</title>
+		<polygon class="niqE" points="406,16 406,16 406,1 430,31 406,61 406,46 406,46" fill="rgb(217,252,204)" fill-opacity="1.0" stroke="rgb(86,100,81)" stroke-width="1" />
+	</g>
+	<g>
+		<title>niqG</title>
+		<polygon class="niqG" points="430,16 430,16 430,1 451,31 430,61 430,46 430,46" fill="rgb(206,219,254)" fill-opacity="1.0" stroke="rgb(82,87,101)" stroke-width="1" />
+	</g>
+	<g>
+		<title>nisQ</title>
+		<polygon class="nisQ" points="6,16 6,16 6,1 11,31 6,61 6,46 6,46" fill="rgb(190,213,251)" fill-opacity="1.0" stroke="rgb(76,85,100)" stroke-width="1" />
+		<g>
+			<title>PF02052</title>
+			<polygon class="PF02052" points="6,18 6,18 8,31 6,44 6,44" stroke-linejoin="round" width="4" height="26" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqB</title>
+		<polygon class="niqB" points="16,16 85,16 85,1 115,31 85,61 85,46 16,46" fill="rgb(204,251,219)" fill-opacity="1.0" stroke="rgb(81,100,87)" stroke-width="1" />
+		<g>
+			<title>PF04738</title>
+			<rect class="PF04738" x="19" y="18" stroke-linejoin="round" width="62" height="26" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14028</title>
+			<polygon class="PF14028" points="89,18 99,18 112,31 99,44 89,44" stroke-linejoin="round" width="25" height="26" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqT</title>
+		<polygon class="niqT" points="115,16 145,16 145,1 175,31 145,61 145,46 115,46" fill="rgb(250,213,193)" fill-opacity="1.0" stroke="rgb(100,85,77)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="151,18 159,18 166,25 166,37 159,44 151,44" stroke-linejoin="round" width="15" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqC</title>
+		<polygon class="niqC" points="175,16 186,16 186,1 216,31 186,61 186,46 175,46" fill="rgb(222,252,179)" fill-opacity="1.0" stroke="rgb(88,100,71)" stroke-width="1" />
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="177,18 200,18 213,31 200,44 177,44" stroke-linejoin="round" width="37" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqI</title>
+		<polygon class="niqI" points="216,16 216,16 216,1 240,31 216,61 216,46 216,46" fill="rgb(250,177,190)" fill-opacity="1.0" stroke="rgb(100,70,76)" stroke-width="1" />
+	</g>
+	<g>
+		<title>niqP</title>
+		<polygon class="niqP" points="241,16 280,16 280,1 310,31 280,61 280,46 241,46" fill="rgb(253,214,186)" fill-opacity="1.0" stroke="rgb(101,85,74)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<polygon class="PF00082" points="266,18 294,18 298,22 298,40 294,44 266,44" stroke-linejoin="round" width="32" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqR</title>
+		<polygon class="niqR" points="313,16 313,16 313,1 335,31 313,61 313,46 313,46" fill="rgb(223,252,191)" fill-opacity="1.0" stroke="rgb(89,100,76)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="313,18 322,18 323,19 323,43 322,44 313,44" stroke-linejoin="round" width="10" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00486</title>
+			<polygon class="PF00486" points="328,25 332,31 328,37" stroke-linejoin="round" width="7" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqK</title>
+		<polygon class="niqK" points="335,16 349,16 349,1 379,31 349,61 349,46 335,46" fill="rgb(179,254,252)" fill-opacity="1.0" stroke="rgb(71,101,100)" stroke-width="1" />
+		<g>
+			<title>PF00512</title>
+			<rect class="PF00512" x="357" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02518</title>
+			<polygon class="PF02518" points="368,23 376,31 368,39" stroke-linejoin="round" width="10" height="26" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>niqF</title>
+		<polygon class="niqF" points="383,16 383,16 383,1 405,31 383,61 383,46 383,46" fill="rgb(192,178,250)" fill-opacity="1.0" stroke="rgb(76,71,100)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="384,18 392,18 397,24 397,38 392,44 384,44" stroke-linejoin="round" width="13" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

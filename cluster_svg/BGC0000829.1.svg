@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="338" height="62">
+	<line x1="1" y1="31" x2="337" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="5,16 29,16 29,1 59,31 29,61 29,46 5,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF03372</title>
+			<rect class="PF03372" x="7" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(76,66,180)" stroke="rgb(60,52,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>vioA</title>
+		<polygon class="vioA" points="66,16 77,16 77,1 107,31 77,61 77,46 66,46" fill="rgb(226,185,253)" fill-opacity="1.0" stroke="rgb(90,74,101)" stroke-width="1" />
+		<g>
+			<title>PF01593</title>
+			<polygon class="PF01593" points="67,18 91,18 104,31 91,44 67,44" stroke-linejoin="round" width="39" height="26" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>vioB</title>
+		<polygon class="vioB" points="110,16 179,16 179,1 209,31 179,61 179,46 110,46" fill="rgb(194,222,251)" fill-opacity="1.0" stroke="rgb(77,88,100)" stroke-width="1" />
+		<g>
+			<title>PF12902</title>
+			<rect class="PF12902" x="170" y="18" stroke-linejoin="round" width="22" height="26" fill="rgb(159,71,195)" stroke="rgb(127,56,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>vioC</title>
+		<polygon class="vioC" points="210,16 223,16 223,1 253,31 223,61 223,46 210,46" fill="rgb(204,182,252)" fill-opacity="1.0" stroke="rgb(81,72,100)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<polygon class="PF01494" points="210,18 237,18 243,24 243,38 237,44 210,44" stroke-linejoin="round" width="33" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>vioD</title>
+		<polygon class="vioD" points="253,16 260,16 260,1 290,31 260,61 260,46 253,46" fill="rgb(253,239,204)" fill-opacity="1.0" stroke="rgb(101,95,81)" stroke-width="1" />
+	</g>
+</svg>

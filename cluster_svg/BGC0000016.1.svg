@@ -1,0 +1,24 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="195" height="62">
+	<line x1="1" y1="31" x2="194" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="8,16 8,16 8,1 36,31 8,61 8,46 8,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00975</title>
+			<polygon class="PF00975" points="13,18 21,18 33,31 21,44 13,44" stroke-linejoin="round" width="22" height="26" fill="rgb(207,80,138)" stroke="rgb(165,63,110)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="50,16 109,16 109,1 139,31 109,61 109,46 50,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF13191</title>
+			<rect class="PF13191" x="50" y="18" stroke-linejoin="round" width="16" height="26" fill="rgb(186,102,77)" stroke="rgb(148,81,61)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="191,16 172,16 172,1 142,31 172,61 172,46 191,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00324</title>
+			<polygon class="PF00324" points="144,31 157,18 187,18 187,44 157,44" stroke-linejoin="round" width="44" height="26" fill="rgb(82,225,201)" stroke="rgb(65,180,160)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

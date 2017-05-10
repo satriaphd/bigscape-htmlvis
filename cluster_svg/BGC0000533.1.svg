@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="337" height="62">
+	<line x1="1" y1="31" x2="336" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>mutR</title>
+		<polygon class="mutR" points="7,16 7,16 7,1 35,31 7,61 7,46 7,46" fill="rgb(238,251,207)" fill-opacity="1.0" stroke="rgb(95,100,82)" stroke-width="1" />
+	</g>
+	<g>
+		<title>mutA</title>
+		<polygon class="mutA" points="55,16 55,16 55,1 61,31 55,61 55,46 55,46" fill="rgb(194,203,252)" fill-opacity="1.0" stroke="rgb(77,81,100)" stroke-width="1" />
+		<g>
+			<title>PF02052</title>
+			<polygon class="PF02052" points="56,17 58,31 56,45" stroke-linejoin="round" width="5" height="26" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutA_</title>
+		<polygon class="mutA_" points="64,16 64,16 64,1 70,31 64,61 64,46 64,46" fill="rgb(185,252,203)" fill-opacity="1.0" stroke="rgb(74,100,81)" stroke-width="1" />
+		<g>
+			<title>PF02052</title>
+			<polygon class="PF02052" points="65,17 67,31 65,45" stroke-linejoin="round" width="5" height="26" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutB</title>
+		<polygon class="mutB" points="76,16 145,16 145,1 175,31 145,61 145,46 76,46" fill="rgb(253,249,189)" fill-opacity="1.0" stroke="rgb(101,99,75)" stroke-width="1" />
+		<g>
+			<title>PF04738</title>
+			<rect class="PF04738" x="79" y="18" stroke-linejoin="round" width="62" height="26" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14028</title>
+			<polygon class="PF14028" points="148,18 159,18 172,31 159,44 148,44" stroke-linejoin="round" width="25" height="26" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutC</title>
+		<polygon class="mutC" points="174,16 186,16 186,1 216,31 186,61 186,46 174,46" fill="rgb(251,241,211)" fill-opacity="1.0" stroke="rgb(100,96,84)" stroke-width="1" />
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="177,18 200,18 213,31 200,44 177,44" stroke-linejoin="round" width="38" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutD</title>
+		<polygon class="mutD" points="217,16 217,16 217,1 235,31 217,61 217,46 217,46" fill="rgb(252,215,194)" fill-opacity="1.0" stroke="rgb(100,86,77)" stroke-width="1" />
+		<g>
+			<title>PF02441</title>
+			<polygon class="PF02441" points="217,18 224,18 232,31 224,44 217,44" stroke-linejoin="round" width="17" height="26" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutP</title>
+		<polygon class="mutP" points="236,16 250,16 250,1 280,31 250,61 250,46 236,46" fill="rgb(192,252,194)" fill-opacity="1.0" stroke="rgb(76,100,77)" stroke-width="1" />
+		<g>
+			<title>PF00082</title>
+			<polygon class="PF00082" points="248,18 264,18 277,31 264,44 248,44" stroke-linejoin="round" width="31" height="26" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mutT</title>
+		<polygon class="mutT" points="281,16 305,16 305,1 335,31 305,61 305,46 281,46" fill="rgb(187,248,254)" fill-opacity="1.0" stroke="rgb(74,99,101)" stroke-width="1" />
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="282" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="314,18 319,18 328,27 328,35 319,44 314,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

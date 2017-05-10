@@ -1,0 +1,75 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1007" height="62">
+	<line x1="1" y1="31" x2="1006" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>Tri8</title>
+		<polygon class="Tri8" points="130,16 116,16 116,1 86,31 116,61 116,46 130,46" fill="rgb(175,224,249)" fill-opacity="1.0" stroke="rgb(70,89,99)" stroke-width="1" />
+		<g>
+			<title>PF03583</title>
+			<polygon class="PF03583" points="89,30 101,18 117,18 117,44 101,44 89,31" stroke-linejoin="round" width="28" height="26" fill="rgb(197,59,135)" stroke="rgb(157,47,107)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri7</title>
+		<polygon class="Tri7" points="154,16 169,16 169,1 199,31 169,61 169,46 154,46" fill="rgb(196,250,202)" fill-opacity="1.0" stroke="rgb(78,100,80)" stroke-width="1" />
+		<g>
+			<title>PF13813</title>
+			<polygon class="PF13813" points="179,18 183,18 188,23 188,39 183,44 179,44" stroke-linejoin="round" width="9" height="26" fill="rgb(96,197,109)" stroke="rgb(76,157,87)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri3</title>
+		<polygon class="Tri3" points="227,16 255,16 255,1 285,31 255,61 255,46 227,46" fill="rgb(226,202,250)" fill-opacity="1.0" stroke="rgb(90,80,100)" stroke-width="1" />
+		<g>
+			<title>PF07428</title>
+			<rect class="PF07428" x="227" y="18" stroke-linejoin="round" width="40" height="26" fill="rgb(194,209,91)" stroke="rgb(155,167,72)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri4</title>
+		<polygon class="Tri4" points="382,16 354,16 354,1 324,31 354,61 354,46 382,46" fill="rgb(208,250,193)" fill-opacity="1.0" stroke="rgb(83,100,77)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="331,26 339,18 376,18 376,44 339,44 331,35" stroke-linejoin="round" width="45" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri6</title>
+		<polygon class="Tri6" points="421,16 421,16 421,1 442,31 421,61 421,46 421,46" fill="rgb(250,178,250)" fill-opacity="1.0" stroke="rgb(100,71,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>Tri5</title>
+		<polygon class="Tri5" points="541,16 550,16 550,1 580,31 550,61 550,46 541,46" fill="rgb(253,245,206)" fill-opacity="1.0" stroke="rgb(101,98,82)" stroke-width="1" />
+		<g>
+			<title>PF06330</title>
+			<polygon class="PF06330" points="541,18 564,18 577,31 577,31 564,44 541,44" stroke-linejoin="round" width="36" height="26" fill="rgb(66,189,108)" stroke="rgb(52,151,86)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri11</title>
+		<polygon class="Tri11" points="772,16 744,16 744,1 714,31 744,61 744,46 772,46" fill="rgb(238,208,250)" fill-opacity="1.0" stroke="rgb(95,83,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="723,24 729,18 768,18 768,44 729,44 723,37" stroke-linejoin="round" width="45" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri102</title>
+		<polygon class="Tri102" points="856,16 823,16 823,1 793,31 823,61 823,46 856,46" fill="rgb(207,254,241)" fill-opacity="1.0" stroke="rgb(82,101,96)" stroke-width="1" />
+		<g>
+			<title>PF06609</title>
+			<polygon class="PF06609" points="797,29 808,18 855,18 855,44 808,44 797,32" stroke-linejoin="round" width="58" height="26" fill="rgb(125,190,81)" stroke="rgb(99,152,64)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>Tri13</title>
+		<polygon class="Tri13" points="941,16 911,16 911,1 881,31 911,61 911,46 941,46" fill="rgb(226,206,251)" fill-opacity="1.0" stroke="rgb(90,82,100)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="884,30 894,20 894,41 884,31" stroke-linejoin="round" width="10" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="896,18 896,18 936,18 936,44 896,44 896,43" stroke-linejoin="round" width="40" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

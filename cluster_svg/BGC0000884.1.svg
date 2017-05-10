@@ -1,0 +1,23 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="102" height="62">
+	<line x1="1" y1="31" x2="101" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>mrsC</title>
+		<polygon class="mrsC" points="22,16 22,16 22,1 1,31 22,61 22,46 22,46" fill="rgb(227,253,184)" fill-opacity="1.0" stroke="rgb(90,101,73)" stroke-width="1" />
+		<g>
+			<title>PF01810</title>
+			<polygon class="PF01810" points="3,31 12,18 20,18 20,44 12,44" stroke-linejoin="round" width="19" height="26" fill="rgb(198,75,167)" stroke="rgb(158,60,133)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mrsB</title>
+		<polygon class="mrsB" points="62,16 54,16 54,1 24,31 54,61 54,46 62,46" fill="rgb(219,254,200)" fill-opacity="1.0" stroke="rgb(87,101,80)" stroke-width="1" />
+		<g>
+			<title>PF00155</title>
+			<polygon class="PF00155" points="26,31 39,18 59,18 59,44 39,44" stroke-linejoin="round" width="34" height="26" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>mrsA</title>
+		<polygon class="mrsA" points="97,16 92,16 92,1 62,31 92,61 92,46 97,46" fill="rgb(225,253,189)" fill-opacity="1.0" stroke="rgb(90,101,75)" stroke-width="1" />
+	</g>
+</svg>

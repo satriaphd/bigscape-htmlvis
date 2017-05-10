@@ -1,0 +1,51 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="209" height="62">
+	<line x1="1" y1="31" x2="208" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>crtW</title>
+		<polygon class="crtW" points="13,16 13,16 13,1 37,31 13,61 13,46 13,46" fill="rgb(207,251,180)" fill-opacity="1.0" stroke="rgb(82,100,72)" stroke-width="1" />
+		<g>
+			<title>PF00487</title>
+			<polygon class="PF00487" points="26,21 34,31 26,41" stroke-linejoin="round" width="10" height="26" fill="rgb(104,51,205)" stroke="rgb(83,40,164)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>crtZ</title>
+		<polygon class="crtZ" points="38,16 38,16 38,1 54,31 38,61 38,46 38,46" fill="rgb(249,175,206)" fill-opacity="1.0" stroke="rgb(99,70,82)" stroke-width="1" />
+		<g>
+			<title>PF04116</title>
+			<polygon class="PF04116" points="38,18 44,18 51,30 51,32 44,44 38,44" stroke-linejoin="round" width="13" height="26" fill="rgb(171,60,209)" stroke="rgb(136,48,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>crtY</title>
+		<polygon class="crtY" points="54,16 62,16 62,1 92,31 62,61 62,46 54,46" fill="rgb(248,250,209)" fill-opacity="1.0" stroke="rgb(99,100,83)" stroke-width="1" />
+		<g>
+			<title>PF05834</title>
+			<polygon class="PF05834" points="54,18 76,18 89,31 76,44 54,44" stroke-linejoin="round" width="37" height="26" fill="rgb(212,80,200)" stroke="rgb(169,64,160)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>crtI</title>
+		<polygon class="crtI" points="92,16 112,16 112,1 142,31 112,61 112,46 92,46" fill="rgb(212,252,247)" fill-opacity="1.0" stroke="rgb(84,100,98)" stroke-width="1" />
+		<g>
+			<title>PF01593</title>
+			<polygon class="PF01593" points="93,18 126,18 139,31 126,44 93,44" stroke-linejoin="round" width="47" height="26" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>crtB</title>
+		<polygon class="crtB" points="142,16 142,16 142,1 172,31 142,61 142,46 142,46" fill="rgb(203,237,254)" fill-opacity="1.0" stroke="rgb(81,94,101)" stroke-width="1" />
+		<g>
+			<title>PF00494</title>
+			<polygon class="PF00494" points="143,18 156,18 168,30 168,32 156,44 143,44" stroke-linejoin="round" width="25" height="26" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>crtE</title>
+		<polygon class="crtE" points="202,16 202,16 202,1 173,31 202,61 202,46 202,46" fill="rgb(254,225,185)" fill-opacity="1.0" stroke="rgb(101,90,74)" stroke-width="1" />
+		<g>
+			<title>PF00348</title>
+			<polygon class="PF00348" points="175,31 188,18 198,18 198,44 188,44" stroke-linejoin="round" width="25" height="26" fill="rgb(61,206,65)" stroke="rgb(48,164,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

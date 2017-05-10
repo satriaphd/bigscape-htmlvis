@@ -1,0 +1,15 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="78" height="62">
+	<line x1="1" y1="31" x2="77" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>cypA8</title>
+		<polygon class="cypA8" points="1,16 12,16 12,1 42,31 12,61 12,46 1,46" fill="rgb(246,211,249)" fill-opacity="1.0" stroke="rgb(98,84,99)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="17,18 26,18 38,30 38,32 26,44 17,44" stroke-linejoin="round" width="21" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>geoA</title>
+		<polygon class="geoA" points="44,16 47,16 47,1 77,31 47,61 47,46 44,46" fill="rgb(229,251,201)" fill-opacity="1.0" stroke="rgb(91,100,80)" stroke-width="1" />
+	</g>
+</svg>

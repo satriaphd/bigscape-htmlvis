@@ -1,0 +1,327 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1208" height="62">
+	<line x1="1" y1="31" x2="1207" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>med-ORF28</title>
+		<polygon class="med-ORF28" points="302,16 302,16 302,1 323,31 302,61 302,46 302,46" fill="rgb(254,214,216)" fill-opacity="1.0" stroke="rgb(101,85,86)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="303" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF27</title>
+		<polygon class="med-ORF27" points="359,16 355,16 355,1 325,31 355,61 355,46 359,46" fill="rgb(197,253,248)" fill-opacity="1.0" stroke="rgb(78,101,99)" stroke-width="1" />
+	</g>
+	<g>
+		<title>med-ORF23</title>
+		<polygon class="med-ORF23" points="374,16 374,16 374,1 383,31 374,61 374,46 374,46" fill="rgb(194,226,253)" fill-opacity="1.0" stroke="rgb(77,90,101)" stroke-width="1" />
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="375,18 376,18 380,31 376,44 375,44" stroke-linejoin="round" width="7" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF24</title>
+		<polygon class="med-ORF24" points="385,16 385,16 385,1 408,31 385,61 385,46 385,46" fill="rgb(192,183,251)" fill-opacity="1.0" stroke="rgb(76,73,100)" stroke-width="1" />
+		<g>
+			<title>PF01648</title>
+			<polygon class="PF01648" points="396,19 404,30 404,32 396,43" stroke-linejoin="round" width="8" height="26" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF22</title>
+		<polygon class="med-ORF22" points="410,16 433,16 433,1 463,31 433,61 433,46 410,46" fill="rgb(225,254,213)" fill-opacity="1.0" stroke="rgb(90,101,85)" stroke-width="1" />
+		<g>
+			<title>PF01039</title>
+			<polygon class="PF01039" points="415,18 447,18 460,31 447,44 415,44" stroke-linejoin="round" width="48" height="26" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF19</title>
+		<polygon class="med-ORF19" points="465,16 466,16 466,1 496,31 466,61 466,46 465,46" fill="rgb(175,196,250)" fill-opacity="1.0" stroke="rgb(69,78,100)" stroke-width="1" />
+		<g>
+			<title>PF10604</title>
+			<rect class="PF10604" x="465" y="18" stroke-linejoin="round" width="14" height="26" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF10604</title>
+			<polygon class="PF10604" points="481,19 493,31 481,43" stroke-linejoin="round" width="15" height="26" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF20</title>
+		<polygon class="med-ORF20" points="498,16 505,16 505,1 535,31 505,61 505,46 498,46" fill="rgb(182,252,254)" fill-opacity="1.0" stroke="rgb(72,100,101)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="499,18 519,18 532,31 519,44 499,44" stroke-linejoin="round" width="35" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF18</title>
+		<polygon class="med-ORF18" points="536,16 541,16 541,1 571,31 541,61 541,46 536,46" fill="rgb(210,251,203)" fill-opacity="1.0" stroke="rgb(84,100,81)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="536,18 555,18 559,22 559,40 555,44 536,44" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF17</title>
+		<polygon class="med-ORF17" points="571,16 574,16 574,1 604,31 574,61 574,46 571,46" fill="rgb(221,211,253)" fill-opacity="1.0" stroke="rgb(88,84,101)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="571,18 588,18 601,31 601,31 588,44 571,44" stroke-linejoin="round" width="30" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF16</title>
+		<polygon class="med-ORF16" points="605,16 623,16 623,1 653,31 623,61 623,46 605,46" fill="rgb(253,183,214)" fill-opacity="1.0" stroke="rgb(101,73,85)" stroke-width="1" />
+		<g>
+			<title>PF03559</title>
+			<rect class="PF03559" x="609" y="18" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03559</title>
+			<polygon class="PF03559" points="631,18 637,18 650,31 637,44 631,44" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ORF_P</title>
+		<polygon class="ORF_P" points="22,16 22,16 22,1 1,31 22,61 22,46 22,46" fill="rgb(176,251,231)" fill-opacity="1.0" stroke="rgb(70,100,92)" stroke-width="1" />
+		<g>
+			<title>PF01507</title>
+			<polygon class="PF01507" points="3,31 12,18 18,18 18,44 12,44" stroke-linejoin="round" width="17" height="26" fill="rgb(87,190,105)" stroke="rgb(69,152,83)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF15</title>
+		<polygon class="med-ORF15" points="654,16 654,16 654,1 678,31 654,61 654,46 654,46" fill="rgb(195,252,221)" fill-opacity="1.0" stroke="rgb(77,100,88)" stroke-width="1" />
+		<g>
+			<title>PF13649</title>
+			<polygon class="PF13649" points="658,18 665,18 667,21 667,41 665,44 658,44" stroke-linejoin="round" width="9" height="26" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF14</title>
+		<polygon class="med-ORF14" points="678,16 680,16 680,1 710,31 680,61 680,46 678,46" fill="rgb(247,253,215)" fill-opacity="1.0" stroke="rgb(98,101,86)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="679,18 694,18 702,26 702,36 694,44 679,44" stroke-linejoin="round" width="23" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF21</title>
+		<polygon class="med-ORF21" points="712,16 715,16 715,1 745,31 715,61 715,46 712,46" fill="rgb(230,194,252)" fill-opacity="1.0" stroke="rgb(92,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00294</title>
+			<polygon class="PF00294" points="713,18 729,18 741,30 741,32 729,44 713,44" stroke-linejoin="round" width="28" height="26" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF13</title>
+		<polygon class="med-ORF13" points="764,16 764,16 764,1 748,31 764,61 764,46 764,46" fill="rgb(186,253,229)" fill-opacity="1.0" stroke="rgb(74,101,91)" stroke-width="1" />
+		<g>
+			<title>PF01613</title>
+			<polygon class="PF01613" points="750,31 757,18 762,18 762,44 757,44" stroke-linejoin="round" width="14" height="26" fill="rgb(107,197,222)" stroke="rgb(85,157,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF12</title>
+		<polygon class="med-ORF12" points="798,16 796,16 796,1 766,31 796,61 796,46 798,46" fill="rgb(184,252,180)" fill-opacity="1.0" stroke="rgb(73,100,72)" stroke-width="1" />
+		<g>
+			<title>PF00725</title>
+			<polygon class="PF00725" points="770,29 779,20 779,41 770,32" stroke-linejoin="round" width="9" height="26" fill="rgb(180,78,60)" stroke="rgb(144,62,48)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02737</title>
+			<polygon class="PF02737" points="780,19 781,18 797,18 797,44 781,44 780,42" stroke-linejoin="round" width="17" height="26" fill="rgb(212,65,199)" stroke="rgb(169,52,159)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF11</title>
+		<polygon class="med-ORF11" points="805,16 805,16 805,1 830,31 805,61 805,46 805,46" fill="rgb(250,225,185)" fill-opacity="1.0" stroke="rgb(100,90,73)" stroke-width="1" />
+		<g>
+			<title>PF00486</title>
+			<rect class="PF00486" x="806" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03704</title>
+			<polygon class="PF03704" points="815,18 816,18 827,31 816,44 815,44" stroke-linejoin="round" width="14" height="26" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF10</title>
+		<polygon class="med-ORF10" points="831,16 831,16 831,1 845,31 831,61 831,46 831,46" fill="rgb(253,247,185)" fill-opacity="1.0" stroke="rgb(101,98,74)" stroke-width="1" />
+		<g>
+			<title>PF13577</title>
+			<polygon class="PF13577" points="832,18 836,18 842,31 836,44 832,44" stroke-linejoin="round" width="12" height="26" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF9</title>
+		<polygon class="med-ORF9" points="847,16 851,16 851,1 881,31 851,61 851,46 847,46" fill="rgb(186,251,176)" fill-opacity="1.0" stroke="rgb(74,100,70)" stroke-width="1" />
+		<g>
+			<title>PF00107</title>
+			<polygon class="PF00107" points="862,18 865,18 874,27 874,35 865,44 862,44" stroke-linejoin="round" width="12" height="26" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF8</title>
+		<polygon class="med-ORF8" points="881,16 888,16 888,1 918,31 888,61 888,46 881,46" fill="rgb(183,232,254)" fill-opacity="1.0" stroke="rgb(73,92,101)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="898,18 902,18 907,23 907,39 902,44 898,44" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF5</title>
+		<polygon class="med-ORF5" points="942,16 942,16 942,1 921,31 942,61 942,46 942,46" fill="rgb(213,232,253)" fill-opacity="1.0" stroke="rgb(85,92,101)" stroke-width="1" />
+	</g>
+	<g>
+		<title>ORF_Q</title>
+		<polygon class="ORF_Q" points="39,16 39,16 39,1 22,31 39,61 39,46 39,46" fill="rgb(233,252,206)" fill-opacity="1.0" stroke="rgb(93,100,82)" stroke-width="1" />
+		<g>
+			<title>PF01583</title>
+			<polygon class="PF01583" points="24,31 31,18 38,18 38,44 31,44" stroke-linejoin="round" width="15" height="26" fill="rgb(48,131,188)" stroke="rgb(38,104,150)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF6</title>
+		<polygon class="med-ORF6" points="952,16 952,16 952,1 978,31 952,61 952,46 952,46" fill="rgb(254,247,187)" fill-opacity="1.0" stroke="rgb(101,98,74)" stroke-width="1" />
+		<g>
+			<title>PF00106</title>
+			<polygon class="PF00106" points="952,18 964,18 971,26 971,36 964,44 952,44" stroke-linejoin="round" width="19" height="26" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF7</title>
+		<polygon class="med-ORF7" points="980,16 988,16 988,1 1018,31 988,61 988,46 980,46" fill="rgb(202,241,254)" fill-opacity="1.0" stroke="rgb(80,96,101)" stroke-width="1" />
+		<g>
+			<title>PF02771</title>
+			<rect class="PF02771" x="980" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08028</title>
+			<polygon class="PF08028" points="1003,19 1015,31 1003,43" stroke-linejoin="round" width="13" height="26" fill="rgb(106,185,56)" stroke="rgb(84,148,44)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF1</title>
+		<polygon class="med-ORF1" points="1022,16 1034,16 1034,1 1064,31 1034,61 1034,46 1022,46" fill="rgb(251,192,199)" fill-opacity="1.0" stroke="rgb(100,76,79)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="1022" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="1048,18 1048,18 1059,29 1059,33 1048,44 1048,44" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF2</title>
+		<polygon class="med-ORF2" points="1065,16 1075,16 1075,1 1105,31 1075,61 1075,46 1065,46" fill="rgb(236,192,251)" fill-opacity="1.0" stroke="rgb(94,76,100)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="1065" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="1090,19 1100,29 1100,33 1090,43" stroke-linejoin="round" width="10" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF3</title>
+		<polygon class="med-ORF3" points="1105,16 1105,16 1105,1 1135,31 1105,61 1105,46 1105,46" fill="rgb(217,251,210)" fill-opacity="1.0" stroke="rgb(86,100,84)" stroke-width="1" />
+		<g>
+			<title>PF00753</title>
+			<polygon class="PF00753" points="1107,18 1119,18 1125,24 1125,38 1119,44 1107,44" stroke-linejoin="round" width="18" height="26" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF4</title>
+		<polygon class="med-ORF4" points="1180,16 1169,16 1169,1 1139,31 1169,61 1169,46 1180,46" fill="rgb(196,249,235)" fill-opacity="1.0" stroke="rgb(78,99,94)" stroke-width="1" />
+		<g>
+			<title>PF01374</title>
+			<polygon class="PF01374" points="1141,31 1154,18 1160,18 1160,44 1154,44" stroke-linejoin="round" width="20" height="26" fill="rgb(208,68,106)" stroke="rgb(166,54,84)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00754</title>
+			<rect class="PF00754" x="1163" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(216,175,69)" stroke="rgb(172,140,55)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ORF_Z</title>
+		<polygon class="ORF_Z" points="1207,16 1207,16 1207,1 1191,31 1207,61 1207,46 1207,46" fill="rgb(189,253,193)" fill-opacity="1.0" stroke="rgb(75,101,77)" stroke-width="1" />
+	</g>
+	<g>
+		<title>ORF_R</title>
+		<polygon class="ORF_R" points="64,16 64,16 64,1 41,31 64,61 64,46 64,46" fill="rgb(225,250,207)" fill-opacity="1.0" stroke="rgb(90,100,82)" stroke-width="1" />
+		<g>
+			<title>PF01507</title>
+			<polygon class="PF01507" points="43,31 53,18 59,18 59,44 53,44" stroke-linejoin="round" width="16" height="26" fill="rgb(87,190,105)" stroke="rgb(69,152,83)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ORF_X</title>
+		<polygon class="ORF_X" points="126,16 100,16 100,1 70,31 100,61 100,46 126,46" fill="rgb(252,187,239)" fill-opacity="1.0" stroke="rgb(100,74,95)" stroke-width="1" />
+		<g>
+			<title>PF01077</title>
+			<polygon class="PF01077" points="72,31 84,19 84,42" stroke-linejoin="round" width="14" height="26" fill="rgb(96,208,89)" stroke="rgb(76,166,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03460</title>
+			<polygon class="PF03460" points="85,18 85,18 91,18 91,44 85,44 85,43" stroke-linejoin="round" width="6" height="26" fill="rgb(51,200,158)" stroke="rgb(40,160,126)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01077</title>
+			<rect class="PF01077" x="93" y="18" stroke-linejoin="round" width="15" height="26" fill="rgb(96,208,89)" stroke="rgb(76,166,71)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03460</title>
+			<rect class="PF03460" x="110" y="18" stroke-linejoin="round" width="6" height="26" fill="rgb(51,200,158)" stroke="rgb(40,160,126)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>ORF_Y</title>
+		<polygon class="ORF_Y" points="158,16 158,16 158,1 139,31 158,61 158,46 158,46" fill="rgb(224,253,209)" fill-opacity="1.0" stroke="rgb(89,101,83)" stroke-width="1" />
+		<g>
+			<title>PF00583</title>
+			<polygon class="PF00583" points="141,31 149,18 153,18 153,44 149,44" stroke-linejoin="round" width="12" height="26" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF30</title>
+		<polygon class="med-ORF30" points="167,16 167,16 167,1 189,31 167,61 167,46 167,46" fill="rgb(211,252,229)" fill-opacity="1.0" stroke="rgb(84,100,91)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="167,18 176,18 177,19 177,43 176,44 167,44" stroke-linejoin="round" width="10" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00486</title>
+			<polygon class="PF00486" points="181,24 186,31 181,38" stroke-linejoin="round" width="7" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF26</title>
+		<polygon class="med-ORF26" points="212,16 212,16 212,1 192,31 212,61 212,46 212,46" fill="rgb(195,198,254)" fill-opacity="1.0" stroke="rgb(77,79,101)" stroke-width="1" />
+		<g>
+			<title>PF01323</title>
+			<polygon class="PF01323" points="194,31 203,18 211,18 211,44 203,44" stroke-linejoin="round" width="19" height="26" fill="rgb(221,114,99)" stroke="rgb(176,91,79)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF25</title>
+		<polygon class="med-ORF25" points="265,16 243,16 243,1 213,31 243,61 243,46 265,46" fill="rgb(254,189,181)" fill-opacity="1.0" stroke="rgb(101,75,72)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="224,22 228,18 262,18 262,44 228,44 224,39" stroke-linejoin="round" width="38" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>med-ORF29</title>
+		<polygon class="med-ORF29" points="299,16 295,16 295,1 265,31 295,61 295,46 299,46" fill="rgb(241,251,212)" fill-opacity="1.0" stroke="rgb(96,100,84)" stroke-width="1" />
+		<g>
+			<title>PF00107</title>
+			<polygon class="PF00107" points="271,27 280,18 283,18 283,44 280,44 271,34" stroke-linejoin="round" width="12" height="26" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

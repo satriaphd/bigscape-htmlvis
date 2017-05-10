@@ -1,0 +1,111 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="495" height="62">
+	<line x1="1" y1="31" x2="494" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>aknW</title>
+		<polygon class="aknW" points="371,16 371,16 371,1 397,31 371,61 371,46 371,46" fill="rgb(227,195,252)" fill-opacity="1.0" stroke="rgb(90,77,100)" stroke-width="1" />
+		<g>
+			<title>PF04199</title>
+			<polygon class="PF04199" points="371,18 383,18 389,25 389,37 383,44 371,44" stroke-linejoin="round" width="18" height="26" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknX2</title>
+		<polygon class="aknX2" points="399,16 399,16 399,1 422,31 399,61 399,46 399,46" fill="rgb(252,213,249)" fill-opacity="1.0" stroke="rgb(100,85,99)" stroke-width="1" />
+		<g>
+			<title>PF13649</title>
+			<polygon class="PF13649" points="403,18 409,18 412,22 412,40 409,44 403,44" stroke-linejoin="round" width="9" height="26" fill="rgb(227,135,74)" stroke="rgb(181,108,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknY</title>
+		<polygon class="aknY" points="452,16 452,16 452,1 423,31 452,61 452,46 452,46" fill="rgb(253,217,185)" fill-opacity="1.0" stroke="rgb(101,86,74)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="428,28 438,18 451,18 451,44 438,44 428,33" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknZ</title>
+		<polygon class="aknZ" points="460,16 464,16 464,1 494,31 464,61 464,46 460,46" fill="rgb(251,185,203)" fill-opacity="1.0" stroke="rgb(100,74,81)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="461,18 478,18 491,31 478,44 461,44" stroke-linejoin="round" width="32" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknN</title>
+		<polygon class="aknN" points="67,16 31,16 31,1 1,31 31,61 31,46 67,46" fill="rgb(228,189,249)" fill-opacity="1.0" stroke="rgb(91,75,99)" stroke-width="1" />
+		<g>
+			<title>PF02624</title>
+			<polygon class="PF02624" points="3,31 16,18 31,18 31,44 16,44" stroke-linejoin="round" width="30" height="26" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknO</title>
+		<polygon class="aknO" points="85,16 85,16 85,1 112,31 85,61 85,46 85,46" fill="rgb(205,252,219)" fill-opacity="1.0" stroke="rgb(82,100,87)" stroke-width="1" />
+		<g>
+			<title>PF00486</title>
+			<rect class="PF00486" x="86" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03704</title>
+			<polygon class="PF03704" points="95,18 97,18 109,31 109,31 97,44 95,44" stroke-linejoin="round" width="14" height="26" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknP</title>
+		<polygon class="aknP" points="155,16 142,16 142,1 112,31 142,61 142,46 155,46" fill="rgb(227,251,187)" fill-opacity="1.0" stroke="rgb(90,100,74)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="114,31 127,18 150,18 150,44 127,44" stroke-linejoin="round" width="38" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknQ</title>
+		<polygon class="aknQ" points="161,16 164,16 164,1 194,31 164,61 164,46 161,46" fill="rgb(214,254,213)" fill-opacity="1.0" stroke="rgb(85,101,85)" stroke-width="1" />
+		<g>
+			<title>PF01408</title>
+			<rect class="PF01408" x="162" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(76,117,190)" stroke="rgb(60,93,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknR</title>
+		<polygon class="aknR" points="230,16 228,16 228,1 198,31 228,61 228,46 230,46" fill="rgb(197,254,238)" fill-opacity="1.0" stroke="rgb(78,101,95)" stroke-width="1" />
+		<g>
+			<title>PF16363</title>
+			<polygon class="PF16363" points="200,31 213,18 229,18 229,44 213,44" stroke-linejoin="round" width="30" height="26" fill="rgb(162,221,65)" stroke="rgb(129,176,51)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknS</title>
+		<polygon class="aknS" points="274,16 260,16 260,1 230,31 260,61 260,46 274,46" fill="rgb(250,188,213)" fill-opacity="1.0" stroke="rgb(100,75,85)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="243,20 245,18 252,18 252,44 245,44 243,41" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknT</title>
+		<polygon class="aknT" points="321,16 307,16 307,1 277,31 307,61 307,46 321,46" fill="rgb(205,252,237)" fill-opacity="1.0" stroke="rgb(82,100,94)" stroke-width="1" />
+		<g>
+			<title>PF00067</title>
+			<polygon class="PF00067" points="282,28 291,19 291,42 282,33" stroke-linejoin="round" width="9" height="26" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknU</title>
+		<polygon class="aknU" points="348,16 348,16 348,1 322,31 348,61 348,46 348,46" fill="rgb(201,214,253)" fill-opacity="1.0" stroke="rgb(80,85,101)" stroke-width="1" />
+		<g>
+			<title>PF13561</title>
+			<polygon class="PF13561" points="324,31 335,18 346,18 346,44 335,44" stroke-linejoin="round" width="24" height="26" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>aknV</title>
+		<polygon class="aknV" points="364,16 364,16 364,1 350,31 364,61 364,46 364,46" fill="rgb(250,176,179)" fill-opacity="1.0" stroke="rgb(100,70,71)" stroke-width="1" />
+		<g>
+			<title>PF13577</title>
+			<polygon class="PF13577" points="352,31 358,18 362,18 362,44 358,44" stroke-linejoin="round" width="12" height="26" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

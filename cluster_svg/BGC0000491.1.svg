@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="138" height="62">
+	<line x1="1" y1="31" x2="137" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>gaaB</title>
+		<polygon class="gaaB" points="13,16 13,16 13,1 30,31 13,61 13,46 13,46" fill="rgb(186,213,250)" fill-opacity="1.0" stroke="rgb(74,85,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>gaaC</title>
+		<polygon class="gaaC" points="32,16 32,16 32,1 38,31 32,61 32,46 32,46" fill="rgb(254,214,228)" fill-opacity="1.0" stroke="rgb(101,85,91)" stroke-width="1" />
+	</g>
+	<g>
+		<title>gaaA</title>
+		<polygon class="gaaA" points="41,16 41,16 41,1 50,31 41,61 41,46 41,46" fill="rgb(233,253,197)" fill-opacity="1.0" stroke="rgb(93,101,78)" stroke-width="1" />
+		<g>
+			<title>PF12173</title>
+			<polygon class="PF12173" points="41,18 43,18 47,31 43,44 41,44" stroke-linejoin="round" width="9" height="26" fill="rgb(121,181,84)" stroke="rgb(96,144,67)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gaaD</title>
+		<polygon class="gaaD" points="53,16 53,16 53,1 69,31 53,61 53,46 53,46" fill="rgb(215,199,253)" fill-opacity="1.0" stroke="rgb(85,79,101)" stroke-width="1" />
+		<g>
+			<title>PF01944</title>
+			<polygon class="PF01944" points="53,18 59,18 66,31 59,44 53,44" stroke-linejoin="round" width="14" height="26" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gaaI</title>
+		<polygon class="gaaI" points="70,16 70,16 70,1 75,31 70,61 70,46 70,46" fill="rgb(200,189,250)" fill-opacity="1.0" stroke="rgb(80,75,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>gaaT</title>
+		<polygon class="gaaT" points="76,16 76,16 76,1 98,31 76,61 76,46 76,46" fill="rgb(201,195,252)" fill-opacity="1.0" stroke="rgb(80,77,100)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="78,18 85,18 90,24 90,38 85,44 78,44" stroke-linejoin="round" width="12" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>gaaE</title>
+		<polygon class="gaaE" points="99,16 99,16 99,1 120,31 99,61 99,46 99,46" fill="rgb(254,192,186)" fill-opacity="1.0" stroke="rgb(101,76,74)" stroke-width="1" />
+		<g>
+			<title>PF13346</title>
+			<polygon class="PF13346" points="99,18 108,18 117,31 108,44 99,44" stroke-linejoin="round" width="20" height="26" fill="rgb(176,207,85)" stroke="rgb(140,165,67)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

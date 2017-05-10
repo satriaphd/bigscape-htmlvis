@@ -1,0 +1,375 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1691" height="62">
+	<line x1="1" y1="31" x2="1690" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>dacR3</title>
+		<polygon class="dacR3" points="511,16 498,16 498,1 468,31 498,61 498,46 511,46" fill="rgb(187,184,251)" fill-opacity="1.0" stroke="rgb(74,73,100)" stroke-width="1" />
+		<g>
+			<title>PF00999</title>
+			<polygon class="PF00999" points="470,31 483,18 508,18 508,44 483,44" stroke-linejoin="round" width="39" height="26" fill="rgb(229,67,191)" stroke="rgb(183,53,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacJ</title>
+		<polygon class="dacJ" points="531,16 531,16 531,1 512,31 531,61 531,46 531,46" fill="rgb(190,254,219)" fill-opacity="1.0" stroke="rgb(76,101,87)" stroke-width="1" />
+		<g>
+			<title>PF01613</title>
+			<polygon class="PF01613" points="514,31 522,18 527,18 527,44 522,44" stroke-linejoin="round" width="14" height="26" fill="rgb(107,197,222)" stroke="rgb(85,157,177)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacO1</title>
+		<polygon class="dacO1" points="581,16 562,16 562,1 532,31 562,61 562,46 581,46" fill="rgb(252,251,199)" fill-opacity="1.0" stroke="rgb(100,100,79)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<polygon class="PF01494" points="547,18 547,18 581,18 581,44 547,44 547,43" stroke-linejoin="round" width="34" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacM2</title>
+		<polygon class="dacM2" points="618,16 613,16 613,1 583,31 613,61 613,46 618,46" fill="rgb(254,186,220)" fill-opacity="1.0" stroke="rgb(101,74,88)" stroke-width="1" />
+		<g>
+			<title>PF00891</title>
+			<polygon class="PF00891" points="585,31 598,18 606,18 606,44 598,44" stroke-linejoin="round" width="22" height="26" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF16864</title>
+			<rect class="PF16864" x="608" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(84,199,85)" stroke="rgb(67,159,68)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacA</title>
+		<polygon class="dacA" points="625,16 637,16 637,1 667,31 637,61 637,46 625,46" fill="rgb(250,252,212)" fill-opacity="1.0" stroke="rgb(100,100,84)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="625" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="651,18 651,18 662,29 662,33 651,44 651,44" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacB</title>
+		<polygon class="dacB" points="668,16 678,16 678,1 708,31 678,61 678,46 668,46" fill="rgb(185,250,177)" fill-opacity="1.0" stroke="rgb(73,100,70)" stroke-width="1" />
+		<g>
+			<title>PF00109</title>
+			<rect class="PF00109" x="668" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(112,116,228)" stroke="rgb(89,92,182)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02801</title>
+			<polygon class="PF02801" points="692,18 692,18 703,29 703,33 692,44 692,44" stroke-linejoin="round" width="11" height="26" fill="rgb(215,78,102)" stroke="rgb(172,62,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacM3</title>
+		<polygon class="dacM3" points="732,16 732,16 732,1 710,31 732,61 732,46 732,46" fill="rgb(253,188,232)" fill-opacity="1.0" stroke="rgb(101,75,92)" stroke-width="1" />
+		<g>
+			<title>PF08242</title>
+			<polygon class="PF08242" points="716,26 722,18 725,18 725,44 722,44 716,35" stroke-linejoin="round" width="9" height="26" fill="rgb(187,59,115)" stroke="rgb(149,47,92)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacK</title>
+		<polygon class="dacK" points="764,16 763,16 763,1 733,31 763,61 763,46 764,46" fill="rgb(208,250,224)" fill-opacity="1.0" stroke="rgb(83,100,89)" stroke-width="1" />
+		<g>
+			<title>PF10604</title>
+			<rect class="PF10604" x="749" y="18" stroke-linejoin="round" width="14" height="26" fill="rgb(105,204,74)" stroke="rgb(84,163,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacG</title>
+		<polygon class="dacG" points="771,16 771,16 771,1 786,31 771,61 771,46 771,46" fill="rgb(216,250,211)" fill-opacity="1.0" stroke="rgb(86,100,84)" stroke-width="1" />
+		<g>
+			<title>PF13577</title>
+			<polygon class="PF13577" points="772,18 777,18 783,31 777,44 772,44" stroke-linejoin="round" width="12" height="26" fill="rgb(68,223,209)" stroke="rgb(54,178,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacP</title>
+		<polygon class="dacP" points="825,16 823,16 823,1 793,31 823,61 823,46 825,46" fill="rgb(252,194,190)" fill-opacity="1.0" stroke="rgb(100,77,76)" stroke-width="1" />
+		<g>
+			<title>PF00698</title>
+			<polygon class="PF00698" points="795,31 808,18 824,18 824,44 808,44" stroke-linejoin="round" width="31" height="26" fill="rgb(59,176,209)" stroke="rgb(47,140,167)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS9</title>
+		<polygon class="dacS9" points="101,16 94,16 94,1 64,31 94,61 94,46 101,46" fill="rgb(253,211,196)" fill-opacity="1.0" stroke="rgb(101,84,78)" stroke-width="1" />
+		<g>
+			<title>PF01370</title>
+			<polygon class="PF01370" points="77,20 79,18 98,18 98,44 79,44 77,41" stroke-linejoin="round" width="21" height="26" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacM1</title>
+		<polygon class="dacM1" points="860,16 855,16 855,1 825,31 855,61 855,46 860,46" fill="rgb(254,211,185)" fill-opacity="1.0" stroke="rgb(101,84,74)" stroke-width="1" />
+		<g>
+			<title>PF00891</title>
+			<polygon class="PF00891" points="827,31 840,18 848,18 848,44 840,44" stroke-linejoin="round" width="22" height="26" fill="rgb(50,51,190)" stroke="rgb(39,40,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacO5</title>
+		<polygon class="dacO5" points="871,16 871,16 871,1 861,31 871,61 871,46 871,46" fill="rgb(205,251,177)" fill-opacity="1.0" stroke="rgb(82,100,70)" stroke-width="1" />
+		<g>
+			<title>PF03992</title>
+			<polygon class="PF03992" points="863,31 867,18 870,18 870,44 867,44" stroke-linejoin="round" width="7" height="26" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacH</title>
+		<polygon class="dacH" points="924,16 902,16 902,1 872,31 902,61 902,46 924,46" fill="rgb(246,178,252)" fill-opacity="1.0" stroke="rgb(98,71,100)" stroke-width="1" />
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="874,31 880,25 880,36" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="882,23 887,18 921,18 921,44 887,44 882,38" stroke-linejoin="round" width="39" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacO2</title>
+		<polygon class="dacO2" points="931,16 957,16 957,1 987,31 957,61 957,46 931,46" fill="rgb(254,244,180)" fill-opacity="1.0" stroke="rgb(101,97,72)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="933" y="18" stroke-linejoin="round" width="34" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacN</title>
+		<polygon class="dacN" points="987,16 987,16 987,1 1012,31 987,61 987,46 987,46" fill="rgb(251,205,210)" fill-opacity="1.0" stroke="rgb(100,82,84)" stroke-width="1" />
+		<g>
+			<title>PF04199</title>
+			<polygon class="PF04199" points="987,18 998,18 1005,26 1005,36 998,44 987,44" stroke-linejoin="round" width="18" height="26" fill="rgb(140,47,181)" stroke="rgb(112,37,144)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacP1</title>
+		<polygon class="dacP1" points="1059,16 1045,16 1045,1 1015,31 1045,61 1045,46 1059,46" fill="rgb(242,250,199)" fill-opacity="1.0" stroke="rgb(96,100,79)" stroke-width="1" />
+		<g>
+			<title>PF02785</title>
+			<polygon class="PF02785" points="1017,31 1025,23 1025,38" stroke-linejoin="round" width="10" height="26" fill="rgb(82,186,211)" stroke="rgb(65,148,168)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02786</title>
+			<polygon class="PF02786" points="1027,21 1030,18 1047,18 1047,44 1030,44 1027,40" stroke-linejoin="round" width="20" height="26" fill="rgb(190,97,205)" stroke="rgb(151,77,164)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00289</title>
+			<rect class="PF00289" x="1048" y="18" stroke-linejoin="round" width="10" height="26" fill="rgb(59,114,187)" stroke="rgb(47,91,149)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacP2</title>
+		<polygon class="dacP2" points="1093,16 1089,16 1089,1 1059,31 1089,61 1089,46 1093,46" fill="rgb(233,253,184)" fill-opacity="1.0" stroke="rgb(93,101,73)" stroke-width="1" />
+		<g>
+			<title>PF00364</title>
+			<polygon class="PF00364" points="1061,31 1066,26 1066,35" stroke-linejoin="round" width="7" height="26" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacP3</title>
+		<polygon class="dacP3" points="1151,16 1123,16 1123,1 1093,31 1123,61 1123,46 1151,46" fill="rgb(194,224,253)" fill-opacity="1.0" stroke="rgb(77,89,101)" stroke-width="1" />
+		<g>
+			<title>PF03255</title>
+			<rect class="PF03255" x="1111" y="18" stroke-linejoin="round" width="9" height="26" fill="rgb(66,101,203)" stroke="rgb(52,80,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF01039</title>
+			<rect class="PF01039" x="1128" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(180,136,60)" stroke="rgb(144,108,48)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacC</title>
+		<polygon class="dacC" points="1160,16 1160,16 1160,1 1168,31 1160,61 1160,46 1160,46" fill="rgb(250,202,247)" fill-opacity="1.0" stroke="rgb(100,80,98)" stroke-width="1" />
+		<g>
+			<title>PF00550</title>
+			<polygon class="PF00550" points="1161,18 1162,18 1165,31 1162,44 1161,44" stroke-linejoin="round" width="7" height="26" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacD</title>
+		<polygon class="dacD" points="1169,16 1200,16 1200,1 1230,31 1200,61 1200,46 1169,46" fill="rgb(254,251,186)" fill-opacity="1.0" stroke="rgb(101,100,74)" stroke-width="1" />
+		<g>
+			<title>PF13537</title>
+			<rect class="PF13537" x="1173" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(200,63,57)" stroke="rgb(160,50,45)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00733</title>
+			<polygon class="PF00733" points="1193,18 1214,18 1227,31 1214,44 1193,44" stroke-linejoin="round" width="36" height="26" fill="rgb(97,201,176)" stroke="rgb(77,160,140)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS7</title>
+		<polygon class="dacS7" points="130,16 130,16 130,1 100,31 130,61 130,46 130,46" fill="rgb(194,210,252)" fill-opacity="1.0" stroke="rgb(77,84,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>dacT3</title>
+		<polygon class="dacT3" points="1240,16 1240,16 1240,1 1263,31 1240,61 1240,46 1240,46" fill="rgb(253,211,226)" fill-opacity="1.0" stroke="rgb(101,84,90)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="1241,18 1250,18 1252,20 1252,42 1250,44 1241,44" stroke-linejoin="round" width="11" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00196</title>
+			<polygon class="PF00196" points="1255,24 1260,31 1260,31 1255,38" stroke-linejoin="round" width="5" height="26" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS1</title>
+		<polygon class="dacS1" points="1265,16 1273,16 1273,1 1303,31 1273,61 1273,46 1265,46" fill="rgb(251,205,222)" fill-opacity="1.0" stroke="rgb(100,82,88)" stroke-width="1" />
+		<g>
+			<title>PF00483</title>
+			<polygon class="PF00483" points="1266,18 1287,18 1289,20 1289,42 1287,44 1266,44" stroke-linejoin="round" width="23" height="26" fill="rgb(198,101,87)" stroke="rgb(158,80,69)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacO4</title>
+		<polygon class="dacO4" points="1305,16 1305,16 1305,1 1318,31 1305,61 1305,46 1305,46" fill="rgb(253,194,233)" fill-opacity="1.0" stroke="rgb(101,77,93)" stroke-width="1" />
+		<g>
+			<title>PF01243</title>
+			<polygon class="PF01243" points="1305,18 1309,18 1314,27 1314,35 1309,44 1305,44" stroke-linejoin="round" width="9" height="26" fill="rgb(177,193,67)" stroke="rgb(141,154,53)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacQ</title>
+		<polygon class="dacQ" points="1318,16 1325,16 1325,1 1355,31 1325,61 1325,46 1318,46" fill="rgb(199,253,212)" fill-opacity="1.0" stroke="rgb(79,101,84)" stroke-width="1" />
+		<g>
+			<title>PF00155</title>
+			<polygon class="PF00155" points="1320,18 1339,18 1352,31 1339,44 1320,44" stroke-linejoin="round" width="33" height="26" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS2</title>
+		<polygon class="dacS2" points="1356,16 1363,16 1363,1 1393,31 1363,61 1363,46 1356,46" fill="rgb(254,191,234)" fill-opacity="1.0" stroke="rgb(101,76,93)" stroke-width="1" />
+		<g>
+			<title>PF01041</title>
+			<polygon class="PF01041" points="1357,18 1377,18 1390,31 1377,44 1357,44" stroke-linejoin="round" width="35" height="26" fill="rgb(59,139,191)" stroke="rgb(47,111,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS3</title>
+		<polygon class="dacS3" points="1394,16 1405,16 1405,1 1435,31 1405,61 1405,46 1394,46" fill="rgb(252,212,240)" fill-opacity="1.0" stroke="rgb(100,84,96)" stroke-width="1" />
+		<g>
+			<title>PF08421</title>
+			<rect class="PF08421" x="1395" y="18" stroke-linejoin="round" width="5" height="26" fill="rgb(209,96,160)" stroke="rgb(167,76,128)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF13489</title>
+			<rect class="PF13489" x="1402" y="18" stroke-linejoin="round" width="17" height="26" fill="rgb(188,189,66)" stroke="rgb(150,151,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08484</title>
+			<polygon class="PF08484" points="1419,18 1419,18 1432,31 1419,44 1419,44" stroke-linejoin="round" width="15" height="26" fill="rgb(229,72,107)" stroke="rgb(183,57,85)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS4</title>
+		<polygon class="dacS4" points="1435,16 1435,16 1435,1 1455,31 1435,61 1435,46 1435,46" fill="rgb(181,215,250)" fill-opacity="1.0" stroke="rgb(72,86,100)" stroke-width="1" />
+		<g>
+			<title>PF00908</title>
+			<polygon class="PF00908" points="1435,18 1443,18 1452,31 1452,31 1443,44 1435,44" stroke-linejoin="round" width="17" height="26" fill="rgb(184,89,121)" stroke="rgb(147,71,96)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS5</title>
+		<polygon class="dacS5" points="1459,16 1475,16 1475,1 1505,31 1475,61 1475,46 1459,46" fill="rgb(202,251,242)" fill-opacity="1.0" stroke="rgb(80,100,96)" stroke-width="1" />
+		<g>
+			<title>PF03559</title>
+			<rect class="PF03559" x="1462" y="18" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03559</title>
+			<polygon class="PF03559" points="1484,18 1489,18 1502,31 1489,44 1484,44" stroke-linejoin="round" width="20" height="26" fill="rgb(74,201,66)" stroke="rgb(59,160,52)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS6</title>
+		<polygon class="dacS6" points="1506,16 1518,16 1518,1 1548,31 1518,61 1518,46 1506,46" fill="rgb(194,250,186)" fill-opacity="1.0" stroke="rgb(77,100,74)" stroke-width="1" />
+		<g>
+			<title>PF02771</title>
+			<rect class="PF02771" x="1508" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(105,135,218)" stroke="rgb(84,108,174)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02770</title>
+			<rect class="PF02770" x="1520" y="18" stroke-linejoin="round" width="8" height="26" fill="rgb(225,186,97)" stroke="rgb(180,148,77)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF08028</title>
+			<polygon class="PF08028" points="1532,18 1532,18 1544,30 1544,32 1532,44 1532,44" stroke-linejoin="round" width="12" height="26" fill="rgb(106,185,56)" stroke="rgb(84,148,44)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacT1</title>
+		<polygon class="dacT1" points="160,16 160,16 160,1 135,31 160,61 160,46 160,46" fill="rgb(207,243,253)" fill-opacity="1.0" stroke="rgb(82,97,101)" stroke-width="1" />
+		<g>
+			<title>PF03704</title>
+			<polygon class="PF03704" points="137,31 148,18 150,18 150,44 148,44" stroke-linejoin="round" width="14" height="26" fill="rgb(217,89,196)" stroke="rgb(173,71,156)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00486</title>
+			<rect class="PF00486" x="151" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacR1</title>
+		<polygon class="dacR1" points="231,16 195,16 195,1 165,31 195,61 195,46 231,46" fill="rgb(185,254,214)" fill-opacity="1.0" stroke="rgb(74,101,85)" stroke-width="1" />
+		<g>
+			<title>PF00679</title>
+			<polygon class="PF00679" points="167,31 177,21 177,40" stroke-linejoin="round" width="10" height="26" fill="rgb(136,208,97)" stroke="rgb(108,166,77)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF03764</title>
+			<polygon class="PF03764" points="177,21 180,18 188,18 188,44 180,44 177,40" stroke-linejoin="round" width="11" height="26" fill="rgb(175,56,200)" stroke="rgb(140,44,160)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF14492</title>
+			<rect class="PF14492" x="189" y="18" stroke-linejoin="round" width="7" height="26" fill="rgb(217,213,86)" stroke="rgb(173,170,68)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00009</title>
+			<rect class="PF00009" x="207" y="18" stroke-linejoin="round" width="24" height="26" fill="rgb(196,118,83)" stroke="rgb(156,94,66)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacS8</title>
+		<polygon class="dacS8" points="240,16 250,16 250,1 280,31 250,61 250,46 240,46" fill="rgb(252,206,224)" fill-opacity="1.0" stroke="rgb(100,82,89)" stroke-width="1" />
+		<g>
+			<title>PF06722</title>
+			<polygon class="PF06722" points="258,18 264,18 267,21 267,41 264,44 258,44" stroke-linejoin="round" width="9" height="26" fill="rgb(200,129,88)" stroke="rgb(160,103,70)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacE</title>
+		<polygon class="dacE" points="282,16 305,16 305,1 335,31 305,61 305,46 282,46" fill="rgb(180,253,216)" fill-opacity="1.0" stroke="rgb(72,101,86)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="282" y="18" stroke-linejoin="round" width="25" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacO3</title>
+		<polygon class="dacO3" points="336,16 355,16 355,1 385,31 355,61 355,46 336,46" fill="rgb(254,227,199)" fill-opacity="1.0" stroke="rgb(101,90,79)" stroke-width="1" />
+		<g>
+			<title>PF01494</title>
+			<rect class="PF01494" x="336" y="18" stroke-linejoin="round" width="33" height="26" fill="rgb(182,175,59)" stroke="rgb(145,140,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacR2</title>
+		<polygon class="dacR2" points="442,16 420,16 420,1 390,31 420,61 420,46 442,46" fill="rgb(188,209,250)" fill-opacity="1.0" stroke="rgb(75,83,100)" stroke-width="1" />
+		<g>
+			<title>PF07690</title>
+			<polygon class="PF07690" points="399,24 405,18 438,18 438,44 405,44 399,37" stroke-linejoin="round" width="39" height="26" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>dacT2</title>
+		<polygon class="dacT2" points="463,16 463,16 463,1 444,31 463,61 463,46 463,46" fill="rgb(183,205,250)" fill-opacity="1.0" stroke="rgb(73,82,100)" stroke-width="1" />
+		<g>
+			<title>PF00440</title>
+			<rect class="PF00440" x="457" y="18" stroke-linejoin="round" width="4" height="26" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

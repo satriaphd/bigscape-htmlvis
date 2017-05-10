@@ -1,0 +1,10 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="22" height="62">
+	<line x1="1" y1="31" x2="21" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="1,16 1,16 1,1 21,31 1,61 1,46 1,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF08982</title>
+			<polygon class="PF08982" points="2,18 9,18 17,29 17,33 9,44 2,44" stroke-linejoin="round" width="15" height="26" fill="rgb(65,163,199)" stroke="rgb(52,130,159)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

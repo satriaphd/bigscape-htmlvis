@@ -1,0 +1,35 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="159" height="62">
+	<line x1="1" y1="31" x2="158" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>moeA4</title>
+		<polygon class="moeA4" points="52,16 31,16 31,1 1,31 31,61 31,46 52,46" fill="rgb(245,252,177)" fill-opacity="1.0" stroke="rgb(98,100,70)" stroke-width="1" />
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="3,31 9,25 9,36" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="11,23 16,18 51,18 51,44 16,44 11,38" stroke-linejoin="round" width="40" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>moeB4</title>
+		<polygon class="moeB4" points="104,16 82,16 82,1 52,31 82,61 82,46 104,46" fill="rgb(200,204,251)" fill-opacity="1.0" stroke="rgb(80,81,100)" stroke-width="1" />
+		<g>
+			<title>PF13193</title>
+			<polygon class="PF13193" points="54,31 60,25 60,36" stroke-linejoin="round" width="7" height="26" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00501</title>
+			<polygon class="PF00501" points="61,24 67,18 102,18 102,44 67,44 61,37" stroke-linejoin="round" width="41" height="26" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>moeC4</title>
+		<polygon class="moeC4" points="117,16 128,16 128,1 158,31 128,61 128,46 117,46" fill="rgb(247,210,254)" fill-opacity="1.0" stroke="rgb(98,84,101)" stroke-width="1" />
+		<g>
+			<title>PF00155</title>
+			<polygon class="PF00155" points="121,18 142,18 155,31 155,31 142,44 121,44" stroke-linejoin="round" width="34" height="26" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

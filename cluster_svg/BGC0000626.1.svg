@@ -1,0 +1,59 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="256" height="62">
+	<line x1="1" y1="31" x2="255" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>thuA</title>
+		<polygon class="thuA" points="1,16 1,16 1,1 6,31 1,61 1,46 1,46" fill="rgb(198,228,254)" fill-opacity="1.0" stroke="rgb(79,91,101)" stroke-width="1" />
+		<g>
+			<title>PF04604</title>
+			<polygon class="PF04604" points="1,18 1,18 3,31 1,44 1,44" stroke-linejoin="round" width="4" height="26" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thuM</title>
+		<polygon class="thuM" points="9,16 73,16 73,1 103,31 73,61 73,46 9,46" fill="rgb(204,193,253)" fill-opacity="1.0" stroke="rgb(81,77,101)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<rect class="PF13575" x="23" y="18" stroke-linejoin="round" width="36" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="69,18 87,18 100,31 87,44 69,44" stroke-linejoin="round" width="33" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thuT</title>
+		<polygon class="thuT" points="104,16 144,16 144,1 174,31 144,61 144,46 104,46" fill="rgb(233,250,211)" fill-opacity="1.0" stroke="rgb(93,100,84)" stroke-width="1" />
+		<g>
+			<title>PF03412</title>
+			<rect class="PF03412" x="104" y="18" stroke-linejoin="round" width="13" height="26" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="120" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="153,18 158,18 167,27 167,35 158,44 153,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thuF</title>
+		<polygon class="thuF" points="176,16 176,16 176,1 206,31 176,61 176,46 176,46" fill="rgb(209,215,253)" fill-opacity="1.0" stroke="rgb(83,86,101)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="178,18 190,18 192,20 192,42 190,44 178,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thuE</title>
+		<polygon class="thuE" points="207,16 207,16 207,1 231,31 207,61 207,46 207,46" fill="rgb(193,250,183)" fill-opacity="1.0" stroke="rgb(77,100,73)" stroke-width="1" />
+		<g>
+			<title>PF12730</title>
+			<polygon class="PF12730" points="207,18 218,18 224,26 224,36 218,44 207,44" stroke-linejoin="round" width="17" height="26" fill="rgb(203,161,59)" stroke="rgb(162,128,47)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thuG</title>
+		<polygon class="thuG" points="231,16 231,16 231,1 254,31 231,61 231,46 231,46" fill="rgb(212,252,247)" fill-opacity="1.0" stroke="rgb(84,100,98)" stroke-width="1" />
+	</g>
+</svg>

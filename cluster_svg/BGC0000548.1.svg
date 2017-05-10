@@ -1,0 +1,79 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="355" height="62">
+	<line x1="1" y1="31" x2="354" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>salA</title>
+		<polygon class="salA" points="20,16 20,16 20,1 24,31 20,61 20,46 20,46" fill="rgb(210,216,254)" fill-opacity="1.0" stroke="rgb(84,86,101)" stroke-width="1" />
+		<g>
+			<title>PF04604</title>
+			<polygon class="PF04604" points="20,17 21,31 20,45" stroke-linejoin="round" width="4" height="26" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salB</title>
+		<polygon class="salB" points="28,16 52,16 52,1 82,31 52,61 52,46 28,46" fill="rgb(242,188,250)" fill-opacity="1.0" stroke="rgb(96,75,100)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<polygon class="PF13575" points="38,18 66,18 74,26 74,36 66,44 38,44" stroke-linejoin="round" width="36" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salC</title>
+		<polygon class="salC" points="91,16 92,16 92,1 122,31 92,61 92,46 91,46" fill="rgb(253,214,194)" fill-opacity="1.0" stroke="rgb(101,85,77)" stroke-width="1" />
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="91,18 106,18 119,31 106,44 91,44" stroke-linejoin="round" width="29" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salT</title>
+		<polygon class="salT" points="121,16 163,16 163,1 193,31 163,61 163,46 121,46" fill="rgb(180,207,254)" fill-opacity="1.0" stroke="rgb(72,82,101)" stroke-width="1" />
+		<g>
+			<title>PF03412</title>
+			<rect class="PF03412" x="122" y="18" stroke-linejoin="round" width="11" height="26" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="137" y="18" stroke-linejoin="round" width="26" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="170,18 177,18 184,25 184,37 177,44 170,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salX</title>
+		<polygon class="salX" points="193,16 193,16 193,1 217,31 193,61 193,46 193,46" fill="rgb(234,212,254)" fill-opacity="1.0" stroke="rgb(93,84,101)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="195,18 204,18 209,25 209,37 204,44 195,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salY</title>
+		<polygon class="salY" points="218,16 251,16 251,1 281,31 251,61 251,46 218,46" fill="rgb(250,198,178)" fill-opacity="1.0" stroke="rgb(100,79,71)" stroke-width="1" />
+		<g>
+			<title>PF02687</title>
+			<rect class="PF02687" x="223" y="18" stroke-linejoin="round" width="12" height="26" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02687</title>
+			<polygon class="PF02687" points="269,22 278,31 269,40" stroke-linejoin="round" width="11" height="26" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>salK</title>
+		<polygon class="salK" points="283,16 305,16 305,1 335,31 305,61 305,46 283,46" fill="rgb(200,253,185)" fill-opacity="1.0" stroke="rgb(80,101,74)" stroke-width="1" />
+	</g>
+	<g>
+		<title>salR</title>
+		<polygon class="salR" points="334,16 334,16 334,1 354,31 334,61 334,46 334,46" fill="rgb(236,253,197)" fill-opacity="1.0" stroke="rgb(94,101,78)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="334,18 342,18 345,22 345,40 342,44 334,44" stroke-linejoin="round" width="11" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00196</title>
+			<polygon class="PF00196" points="347,25 351,31 347,37" stroke-linejoin="round" width="5" height="26" fill="rgb(219,94,82)" stroke="rgb(175,75,65)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

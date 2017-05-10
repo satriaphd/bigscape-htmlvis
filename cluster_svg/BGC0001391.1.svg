@@ -1,0 +1,71 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="348" height="62">
+	<line x1="1" y1="31" x2="347" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>thsA1</title>
+		<polygon class="thsA1" points="1,16 1,16 1,1 8,31 1,61 1,46 1,46" fill="rgb(214,249,190)" fill-opacity="1.0" stroke="rgb(85,99,76)" stroke-width="1" />
+		<g>
+			<title>PF14867</title>
+			<polygon class="PF14867" points="5,27 5,31 5,35" stroke-linejoin="round" width="2" height="26" fill="rgb(140,86,183)" stroke="rgb(111,68,146)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thsT</title>
+		<polygon class="thsT" points="10,16 51,16 51,1 81,31 51,61 51,46 10,46" fill="rgb(189,250,199)" fill-opacity="1.0" stroke="rgb(75,100,79)" stroke-width="1" />
+		<g>
+			<title>PF03412</title>
+			<rect class="PF03412" x="10" y="18" stroke-linejoin="round" width="13" height="26" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00664</title>
+			<rect class="PF00664" x="25" y="18" stroke-linejoin="round" width="27" height="26" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="59,18 65,18 73,26 73,36 65,44 59,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thsM1</title>
+		<polygon class="thsM1" points="81,16 151,16 151,1 181,31 151,61 151,46 81,46" fill="rgb(191,251,221)" fill-opacity="1.0" stroke="rgb(76,100,88)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<rect class="PF13575" x="98" y="18" stroke-linejoin="round" width="37" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="147,18 165,18 178,31 165,44 147,44" stroke-linejoin="round" width="34" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thsA2</title>
+		<polygon class="thsA2" points="183,16 183,16 183,1 189,31 183,61 183,46 183,46" fill="rgb(250,211,216)" fill-opacity="1.0" stroke="rgb(100,84,86)" stroke-width="1" />
+	</g>
+	<g>
+		<title>thsA2_</title>
+		<polygon class="thsA2_" points="192,16 192,16 192,1 198,31 192,61 192,46 192,46" fill="rgb(207,250,242)" fill-opacity="1.0" stroke="rgb(82,100,96)" stroke-width="1" />
+	</g>
+	<g>
+		<title>thsM2</title>
+		<polygon class="thsM2" points="200,16 262,16 262,1 292,31 262,61 262,46 200,46" fill="rgb(208,254,197)" fill-opacity="1.0" stroke="rgb(83,101,78)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<rect class="PF13575" x="210" y="18" stroke-linejoin="round" width="36" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF05147</title>
+			<polygon class="PF05147" points="259,18 276,18 289,31 276,44 259,44" stroke-linejoin="round" width="33" height="26" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thsF</title>
+		<polygon class="thsF" points="294,16 294,16 294,1 323,31 294,61 294,46 294,46" fill="rgb(254,224,197)" fill-opacity="1.0" stroke="rgb(101,89,78)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="296,18 307,18 309,20 309,42 307,44 296,44" stroke-linejoin="round" width="13" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>thsE</title>
+		<polygon class="thsE" points="323,16 323,16 323,1 347,31 323,61 323,46 323,46" fill="rgb(175,250,244)" fill-opacity="1.0" stroke="rgb(69,100,97)" stroke-width="1" />
+	</g>
+</svg>

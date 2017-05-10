@@ -1,0 +1,91 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="406" height="62">
+	<line x1="1" y1="31" x2="405" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>cclF</title>
+		<polygon class="cclF" points="197,16 207,16 207,1 237,31 207,61 207,46 197,46" fill="rgb(213,226,253)" fill-opacity="1.0" stroke="rgb(85,90,101)" stroke-width="1" />
+		<g>
+			<title>PF13437</title>
+			<polygon class="PF13437" points="218,18 221,18 230,27 230,35 221,44 218,44" stroke-linejoin="round" width="12" height="26" fill="rgb(82,200,102)" stroke="rgb(65,160,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cclG</title>
+		<polygon class="cclG" points="237,16 237,16 237,1 259,31 237,61 237,46 237,46" fill="rgb(218,254,191)" fill-opacity="1.0" stroke="rgb(87,101,76)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="239,18 246,18 253,27 253,35 246,44 239,44" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cclH</title>
+		<polygon class="cclH" points="259,16 268,16 268,1 298,31 268,61 268,46 259,46" fill="rgb(249,199,253)" fill-opacity="1.0" stroke="rgb(99,79,101)" stroke-width="1" />
+		<g>
+			<title>PF12704</title>
+			<polygon class="PF12704" points="261,18 282,18 283,19 283,43 282,44 261,44" stroke-linejoin="round" width="22" height="26" fill="rgb(79,76,190)" stroke="rgb(63,60,152)" stroke-width="1" opacity="0.75" />
+		</g>
+		<g>
+			<title>PF02687</title>
+			<polygon class="PF02687" points="286,22 295,31 286,40" stroke-linejoin="round" width="11" height="26" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="307,16 307,16 307,1 311,31 307,61 307,46 307,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="355,16 355,16 355,1 341,31 355,61 355,46 355,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<title>trxA</title>
+		<polygon class="trxA" points="376,16 376,16 376,1 390,31 376,61 376,46 376,46" fill="rgb(191,193,251)" fill-opacity="1.0" stroke="rgb(76,77,100)" stroke-width="1" />
+		<g>
+			<title>PF13728</title>
+			<polygon class="PF13728" points="379,18 381,18 387,31 381,44 379,44" stroke-linejoin="round" width="10" height="26" fill="rgb(99,217,102)" stroke="rgb(79,173,81)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="3,16 3,16 3,1 9,31 3,61 3,46 3,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<polygon class="NoName" points="19,16 19,16 19,1 27,31 19,61 19,46 19,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+	</g>
+	<g>
+		<title>cclB</title>
+		<polygon class="cclB" points="41,16 59,16 59,1 89,31 59,61 59,46 41,46" fill="rgb(210,209,250)" fill-opacity="1.0" stroke="rgb(84,83,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>cclI</title>
+		<polygon class="cclI" points="92,16 92,16 92,1 98,31 92,61 92,46 92,46" fill="rgb(249,184,241)" fill-opacity="1.0" stroke="rgb(99,73,96)" stroke-width="1" />
+	</g>
+	<g>
+		<title>cclT</title>
+		<polygon class="cclT" points="99,16 99,16 99,1 119,31 99,61 99,46 99,46" fill="rgb(191,197,252)" fill-opacity="1.0" stroke="rgb(76,78,100)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="101,18 107,18 114,28 114,34 107,44 101,44" stroke-linejoin="round" width="13" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cclC</title>
+		<polygon class="cclC" points="119,16 119,16 119,1 138,31 119,61 119,46 119,46" fill="rgb(218,203,253)" fill-opacity="1.0" stroke="rgb(87,81,101)" stroke-width="1" />
+		<g>
+			<title>PF01944</title>
+			<polygon class="PF01944" points="120,18 127,18 135,31 127,44 120,44" stroke-linejoin="round" width="17" height="26" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cclD</title>
+		<polygon class="cclD" points="142,16 142,16 142,1 158,31 142,61 142,46 142,46" fill="rgb(253,230,184)" fill-opacity="1.0" stroke="rgb(101,92,73)" stroke-width="1" />
+	</g>
+	<g>
+		<title>cclA</title>
+		<polygon class="cclA" points="160,16 160,16 160,1 166,31 160,61 160,46 160,46" fill="rgb(252,232,202)" fill-opacity="1.0" stroke="rgb(100,92,80)" stroke-width="1" />
+		<g>
+			<title>PF09221</title>
+			<polygon class="PF09221" points="160,18 160,18 163,31 160,44 160,44" stroke-linejoin="round" width="5" height="26" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>cclE</title>
+		<polygon class="cclE" points="181,16 181,16 181,1 196,31 181,61 181,46 181,46" fill="rgb(177,180,250)" fill-opacity="1.0" stroke="rgb(70,72,100)" stroke-width="1" />
+	</g>
+</svg>

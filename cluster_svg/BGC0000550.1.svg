@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="81" height="62">
+	<line x1="1" y1="31" x2="80" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<polygon class="NoName" points="17,16 17,16 17,1 1,31 17,61 17,46 17,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF00072</title>
+			<polygon class="PF00072" points="4,29 10,18 15,18 15,44 10,44 4,32" stroke-linejoin="round" width="11" height="26" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="25,16 25,16 25,1 30,31 25,61 25,46 25,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF04604</title>
+			<polygon class="PF04604" points="25,18 25,18 27,31 25,44 25,44" stroke-linejoin="round" width="4" height="26" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="31,16 31,16 31,1 36,31 31,61 31,46 31,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF04604</title>
+			<polygon class="PF04604" points="31,18 31,18 33,31 31,44 31,44" stroke-linejoin="round" width="4" height="26" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="44,16 44,16 44,1 49,31 44,61 44,46 44,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF04604</title>
+			<polygon class="PF04604" points="44,18 44,18 46,31 44,44 44,44" stroke-linejoin="round" width="5" height="26" fill="rgb(206,129,75)" stroke="rgb(164,103,60)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<polygon class="NoName" points="50,16 50,16 50,1 80,31 50,61 50,46 50,46" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(50,50,50)" stroke-width="1" />
+		<g>
+			<title>PF13575</title>
+			<polygon class="PF13575" points="59,18 64,18 77,31 64,44 59,44" stroke-linejoin="round" width="20" height="26" fill="rgb(228,84,217)" stroke="rgb(182,67,173)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+</svg>

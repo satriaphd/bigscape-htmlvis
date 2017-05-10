@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BiG-SCAPE Result</title>
+  </head>
+  <body style="margin: 0px;">
+    <div type="phylotree">test</div>
+  </body>
+  <!-- javascripts -->
+  <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="js/clusterfck-0.1.js"></script>
+  <script type="text/javascript" src="all_mix.json"></script>
+  <script type="text/javascript">
+  function fixBGCSimMatrix() {
+    var tempMatrix = [];
+    for (var i = 0; i < bs_data.length; i++) {
+      var row = [];
+      for (var j = 0; j <= i; j++) {
+        row.push(bs_similarity[j][i - j]);
+      }
+      tempMatrix.push(row);
+    }
+    bs_similarity = tempMatrix;
+  }
+  </script>
+  <script type="text/javascript">
+  var bgcs = [];
+  fixBGCSimMatrix();
+  for (var i = 0; i < bs_data.length; i++) {
+    bgcs.push(i);
+  }
+  var threshold = 1000;
+  var getDist = (function(a, b) {
+    if (a > b) {
+      return (1 - bs_similarity[a][b]) * 100;
+    } else {
+      return (1 - bs_similarity[b][a]) * 100;
+    }
+  });
+  var clusters = clusterfck.hcluster(bgcs, getDist, clusterfck.COMPLETE_LINKAGE, threshold);
+  console.log(clusters);
+  </script>
+</html>

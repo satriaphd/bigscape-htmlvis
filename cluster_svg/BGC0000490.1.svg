@@ -1,0 +1,39 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="128" height="62">
+	<line x1="1" y1="31" x2="127" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
+	<g>
+		<title>garE</title>
+		<polygon class="garE" points="17,16 17,16 17,1 1,31 17,61 17,46 17,46" fill="rgb(202,244,253)" fill-opacity="1.0" stroke="rgb(80,97,101)" stroke-width="1" />
+	</g>
+	<g>
+		<title>garD</title>
+		<polygon class="garD" points="33,16 33,16 33,1 17,31 33,61 33,46 33,46" fill="rgb(192,250,243)" fill-opacity="1.0" stroke="rgb(76,100,97)" stroke-width="1" />
+		<g>
+			<title>PF01944</title>
+			<polygon class="PF01944" points="19,31 26,18 32,18 32,44 26,44" stroke-linejoin="round" width="15" height="26" fill="rgb(96,132,207)" stroke="rgb(76,105,165)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>garC</title>
+		<polygon class="garC" points="54,16 54,16 54,1 33,31 54,61 54,46 54,46" fill="rgb(201,207,253)" fill-opacity="1.0" stroke="rgb(80,82,101)" stroke-width="1" />
+		<g>
+			<title>PF00005</title>
+			<polygon class="PF00005" points="38,27 44,18 52,18 52,44 44,44 38,34" stroke-linejoin="round" width="14" height="26" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>garB</title>
+		<polygon class="garB" points="60,16 60,16 60,1 55,31 60,61 60,46 60,46" fill="rgb(203,208,252)" fill-opacity="1.0" stroke="rgb(81,83,100)" stroke-width="1" />
+	</g>
+	<g>
+		<title>garA</title>
+		<polygon class="garA" points="71,16 71,16 71,1 77,31 71,61 71,46 71,46" fill="rgb(252,220,182)" fill-opacity="1.0" stroke="rgb(100,88,72)" stroke-width="1" />
+		<g>
+			<title>PF09221</title>
+			<polygon class="PF09221" points="71,18 71,18 74,31 71,44 71,44" stroke-linejoin="round" width="5" height="26" fill="rgb(200,220,70)" stroke="rgb(160,176,56)" stroke-width="1" opacity="0.75" />
+		</g>
+	</g>
+	<g>
+		<title>garX</title>
+		<polygon class="garX" points="79,16 96,16 96,1 126,31 96,61 96,46 79,46" fill="rgb(229,198,253)" fill-opacity="1.0" stroke="rgb(91,79,101)" stroke-width="1" />
+	</g>
+</svg>
