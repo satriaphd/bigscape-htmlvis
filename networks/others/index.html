@@ -5,9 +5,13 @@
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
   </head>
   <body style="margin: 0px;">
-    <div class="page"><h3>Network : PKS</h3></div>
-    <div id="network-container" style="height: 500px; width: 49%; float: left;">
-      <div class="loadingtext">Network loading might take a while, depending on the number of BGCs and links...</div>
+    <div class="page"><h3>Network : Others</h3></div>
+    <div style="width: 49%; float: left;">
+      <div id="info-container" style="margin: 0.5em; height: 50px; position: fixed; background-color: white;">
+      </div>
+      <div id="network-container" style="height: 500px;">
+        <div class="loadingtext">Network loading might take a while, depending on the number of BGCs and links...</div>
+      </div>
     </div>
     <div id="legend-container" style="height: 500px; width: 45%; float: left;">
       <div class="page">
@@ -61,15 +65,6 @@
     function highlightNode(id, isOn) {
       var nodeUI = graphics.getNodeUI(id);
       nodeUI.attr('r', isOn ? '20' : '10');
-      /*
-      graph.forEachLinkedNode(id, function(node, link){
-           var linkUI = graphics.getLinkUI(link.id);
-           if (linkUI) {
-               linkUI.attr('stroke', isOn ? 'red' : 'gray');
-               linkUI.attr('stroke-width', isOn ? link["data"]["weight"] * 20 : link["data"]["weight"] * 10 );
-           }
-       });
-       */
        $("#network-container svg line").attr("stroke", "gray");
        if (isOn) {
          $("#network-container svg line").addClass("hidden");
@@ -88,6 +83,9 @@
   </script>
   <script type="text/javascript">
   function fixBGCSimMatrix() {
+    if (typeof(bs_similarity) === "undefined") {
+      bs_similarity = bs_distances;
+    }
     var tempMatrix = [];
     for (var i = 0; i < bs_data.length; i++) {
       var row = [];
@@ -141,7 +139,7 @@
       for (var a = 0; a < nodes.length; a++) {
         for (var b = 0; b < nodes.length; b++) {
           if ((a > b) && (bs_similarity[a][b] > cutoff)) {
-            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < 0.2)) {
+            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < inter_cutoff)) {
               continue;
             }
             edge_count++;
@@ -169,7 +167,7 @@
             } else {
               weight = 1;
             }*/
-            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < 0.2)) {
+            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < inter_cutoff)) {
               continue;
             }
             graph.addLink(a, b, {weight: weight});
@@ -237,8 +235,6 @@
         graphics : graphics
       });
 
-      $("#network-container").before("<div>Total nodes: " + nodes.length + " (" + (nodes.length - nodes_with_edges.length) + " singleton/s), Total links: " + edge_count + "</div>");
-      $("#network-container").before("<div><input type='checkbox' onchange='javascript: showSingletons(this.checked);' /> Show singletons</div>");
       renderer.run();
       showSingletons(false);
       // some quick hacks to resize the svg, need to know how to properly pass the config
@@ -248,7 +244,7 @@
       var countDown = 5 + parseInt(edge_count / 1000);
       var perZoom = 5;
       var zoomCount = 0;
-      $("#network-container").before("<div>Adjusting network layout for... <span id='network-layout-counter'>" + countDown + "</span> second(s) </div>");
+      $("#info-container").append("<div>Adjusting network layout for... <span id='network-layout-counter'>" + countDown + "</span> second(s) </div>");
       var interval = setInterval(function(){
         countDown--;
         if (countDown > 0) {
@@ -265,6 +261,8 @@
           }
         } else {
           $("#network-layout-counter").parent().addClass("hidden");
+          $("#info-container").append("<div>Total nodes: " + nodes.length + " (" + (nodes.length - nodes_with_edges.length) + " singleton/s), Total links: " + edge_count + "</div>");
+          $("#info-container").append("<div><input type='checkbox' onchange='javascript: showSingletons(this.checked);' /> Show singletons</div>");
           renderer.pause();
           clearInterval(interval);
         }}, 1000);

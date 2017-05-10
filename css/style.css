@@ -1,6 +1,6 @@
 body {
   font-family: Verdana, Tahoma, Sans-Serif;
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
   background-color: white;
   text-align: left;
   margin: 0;
@@ -10,7 +10,7 @@ a {
   text-decoration: none;
 }
 a:active {
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
 }
 a:hover {
   text-decoration: underline;
@@ -36,33 +36,32 @@ a:visited {
 .top-header {
   display: block;
   overflow: hidden;
-  background-color: #444444;
+  background-color: rgba(234, 234, 233, 1);
   padding-bottom: 0.25em;
-  border-bottom: 2px solid #aa0000;
 }
 .footer {
   padding-top: 0.25em;
   border-top: 1px solid #aa0000;
 }
-.antismash-logo {
+.bigscape-logo {
   float: left;
 }
-.antismash-title {
-  margin: 1em 1em 0px 1em;
+.bigscape-title {
+  margin: 2em 1em 0px 1em;
   float: left;
 }
-.antismash-title a {
-  color: white;
+.bigscape-title a {
+  color: rgba(129, 129, 127, 1);
   font-size: 120%;
   font-weight: bold;
 }
-.antismash-title a:hover {
+.bigscape-title a:hover {
   text-decoration: none;
 }
 #header {
   margin: 0px auto;
   display: block;
-  border-bottom: 2px solid #810e15;
+  border-bottom: 2px solid rgba(129, 129, 127, 1);
 }
 #header img {
   border: 0px;
@@ -104,7 +103,7 @@ a:visited {
 }
 .page h3 {
   font-size: 90%;
-  background-color: #810e15;
+  background-color: rgba(83, 151, 145, 1);
   color: white;
   margin: 0.1em 0 0.4em 0.1em;
   padding-left: 0.5em;
@@ -112,7 +111,7 @@ a:visited {
 .sidepanel {
   display: block;
   float: right;
-  border-left: 2px solid #810e15;
+  border-left: 2px solid rgba(129, 129, 127, 1);
   width: 20%;
 }
 .structure img {
@@ -590,7 +589,7 @@ table {
   position: absolute;
   font-size: 80%;
   padding: 0.5em;
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
 }
 .svgene-type-other {
   fill: gray;
@@ -598,8 +597,8 @@ table {
   stroke-width: 1;
 }
 .svgene-type-biosynthetic {
-  fill: #810e15;
-  stroke: #810e15;
+  fill: rgba(129, 129, 127, 1);
+  stroke: rgba(129, 129, 127, 1);
   stroke-width: 1;
 }
 .svgene-type-transport {
@@ -617,7 +616,7 @@ table {
   stroke: #888;
 }
 .svgene-locustag {
-  fill: #810e15;
+  fill: rgba(129, 129, 127, 1);
   display: none;
   font-size: 80%;
 }
@@ -628,7 +627,7 @@ table {
   position: absolute;
   font-size: 80%;
   padding: 0.5em;
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
 }
 .svgene-tooltip-bold {
   font-weight: bold;
@@ -638,7 +637,7 @@ table {
   border: 2px solid gray;
 }
 .legend-type-biosynthetic {
-  border: 2px solid #810e15;
+  border: 2px solid rgba(129, 129, 127, 1);
 }
 .legend-type-transport {
   border: 2px solid cornflowerblue;
@@ -690,7 +689,7 @@ table {
   stroke: #888;
 }
 .jsdomain-orflabel {
-  fill: #810e15;
+  fill: rgba(129, 129, 127, 1);
 }
 .jsdomain-tooltip {
   border: 2px solid slategray;
@@ -699,10 +698,10 @@ table {
   position: absolute;
   font-size: 80%;
   padding: 0.5em;
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
 }
 .clusterblast-locustag {
-  fill: #810e15;
+  fill: rgba(129, 129, 127, 1);
   display: none;
   font-size: 80%;
   position: absolute;
@@ -714,15 +713,15 @@ table {
   position: absolute;
   font-size: 80%;
   padding: 0.5em;
-  color: #810e15;
+  color: rgba(129, 129, 127, 1);
 }
 .clusterblast-acc {
-  fill: #810e15;
+  fill: rgba(129, 129, 127, 1);
   font-size: 80%;
   font-family: Verdana, Tahoma, Sans-Serif;
 }
 .clusterblast-desc {
-  fill: #810e15;
+  fill: rgba(129, 129, 127, 1);
   font-size: 80%;
   font-family: Verdana, Tahoma, Sans-Serif;
   font-size: 75%;
@@ -743,7 +742,7 @@ table {
 }
 /* end geoblast */
 #footer {
-  border-top: 2px solid #810e15;
+  border-top: 2px solid rgba(129, 129, 127, 1);
 }
 #logos {
   float: left;
