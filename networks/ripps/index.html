@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
   </head>
   <body style="margin: 0px;">
-    <div class="page"><h3>Network : RiPPS</h3></div>
+    <div class="page"><h3>Network : RiPPs</h3></div>
     <div style="width: 49%; float: left;">
       <div id="info-container" style="margin: 0.5em; height: 50px; position: fixed; background-color: white;">
       </div>
@@ -17,14 +17,7 @@
       <div class="page">
         <div style="margin-left: 0.5em;">
           <h3>Biosynthetic Gene Cluster</h3>
-          <div class="bgc_pleaseclick">
-            Click one of the node to see its description
-          </div>
-          <div class="bgc_desc hidden">
-            <h2 id="bgc_label"></h2>
-            <div style="margin: 1em 0;" id="bgc_pic"></div>
-            <div>Family: <span id="bgc_fam"></span></div>
-          </div>
+          <div id="desc-container"></div>
         </div>
       </div>
     </div>
@@ -32,60 +25,11 @@
   <!-- javascripts -->
   <script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
   <script type="text/javascript" src="../../js/vivagraph.js"></script>
+  <script type="text/javascript" src="../../js/bigscape.js"></script>
   <script type="text/javascript" src="network_data.js"></script>
   <script type="text/javascript">
-    function showSingletons(isOn) {
-      if (!isOn) {
-        graph.forEachNode(function(node){
-          if (node.links.length < 1) {
-            var nodeUI = graphics.getNodeUI(node.id);
-            $(nodeUI).addClass("hidden");
-          }
-        });
-      } else {
-        $("#network-container svg circle").removeClass("hidden");
-      }
-    }
-    function showDescription(id, isOn) {
-      if (isOn) {
-        $("#bgc_label").text(bs_data[id]["id"]);
-        $("#bgc_fam").text(bs_families[nodes[id]["cl"]]["id"]);
-        //$("#bgc_pic").html("<object data='../../cluster_svg/" + bs_data[id]["id"] + ".svg' type='image/svg+xml'></object>");
-        $("#bgc_pic").html("<img style='max-width: 100%;' src='../../cluster_svg/" + bs_data[id]["id"] + ".svg' />");
-        $(".bgc_pleaseclick").addClass("hidden");
-        $(".bgc_desc").removeClass("hidden");
-      } else {
-        $("#bgc_label").text("");
-        $("#bgc_fam").text("");
-        $("#bgc_pic").text("");
-        $(".bgc_desc").addClass("hidden");
-        $(".bgc_pleaseclick").removeClass("hidden");
-      }
-    }
-    function highlightNode(id, isOn) {
-      var nodeUI = graphics.getNodeUI(id);
-      nodeUI.attr('r', isOn ? '20' : '10');
-       $("#network-container svg line").attr("stroke", "gray");
-       if (isOn) {
-         $("#network-container svg line").addClass("hidden");
-         graph.forEachLinkedNode(id, function(node, link){
-              var linkUI = graphics.getLinkUI(link.id);
-              if (linkUI) {
-                $(linkUI).removeClass("hidden");
-                $(linkUI).attr("stroke", "red");
-              }
-          });
-       } else {
-         $("#network-container svg line").removeClass("hidden");
-       }
-      showDescription(id, isOn);
-    }
-  </script>
-  <script type="text/javascript">
   function fixBGCSimMatrix() {
-    if (typeof(bs_similarity) === "undefined") {
-      bs_similarity = bs_distances;
-    }
+    bs_similarity = bs_distances;
     var tempMatrix = [];
     for (var i = 0; i < bs_data.length; i++) {
       var row = [];
@@ -98,174 +42,12 @@
   }
   </script>
   <script type="text/javascript">
-    var nodes = [];
-    var edges = [];
-    var clusters = [];
-    var graph = Viva.Graph.graph();
-    var graphics = Viva.Graph.View.svgGraphics();
-    var hoverLocked = false;
-    var highlightedNode = -1;
-    var edge_count = 0;
-    var cutoff = 0;
-    var inter_cutoff = 0.25;
-    fixBGCSimMatrix();
-
+    if (typeof(bs_similarity) === "undefined") {
+      fixBGCSimMatrix();
+    }
     $(document).ready(function(){
-
-      for (var i = 0; i < bs_data.length; i++) {
-        nodes.push({});
-      }
-
-      for (var c = 0; c < bs_families.length; c++) {
-        var cluster = {
-          id: c,
-          nodes: bs_families[c]["members"],
-          color: 'rgb('+Math.round(Math.random()*256)+','+
-                          Math.round(Math.random()*256)+','+
-                          Math.round(Math.random()*256)+')'
-        };
-        clusters.push(cluster);
-        for (var i = 0; i < cluster["nodes"].length; i++) {
-          var a = cluster["nodes"][i];
-          nodes[a]["cl"] = c;
-        };
-      }
-
-      for (var i = 0; i < nodes.length; i++) {
-        graph.addNode(i, {id: "BGC_" + i, cl: nodes[i]["cl"]});
-      }
-
-      var sims = [];
-      for (var a = 0; a < nodes.length; a++) {
-        for (var b = 0; b < nodes.length; b++) {
-          if ((a > b) && (bs_similarity[a][b] > cutoff)) {
-            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < inter_cutoff)) {
-              continue;
-            }
-            edge_count++;
-            sims.push(bs_similarity[a][b]);
-          }
-        }
-      }
-      sims = sims.sort();
-      var sims_dist = [sims[0], sims[parseInt(sims.length / 10)], sims[parseInt(sims.length / 2)], sims[parseInt(sims.length * 9 / 10)], sims[sims.length - 1]];
-      //console.log(sims_dist);
-
-      var weights = [];
-      var nodes_with_edges = [];
-      for (var a = 0; a < nodes.length; a++) {
-        for (var b = 0; b < nodes.length; b++) {
-          if ((a > b) && (bs_similarity[a][b] > cutoff)) {
-          //if ((a > b) && (nodes[a]["cl"] == nodes[b]["cl"]) && (bs_similarity[a][b] > 0)) {
-            var weight = bs_similarity[a][b];
-            /*if (weight < sims_dist[1]) {
-              weight = 0;
-            } else if (weight < sims_dist[2]) {
-              weight = (weight - sims_dist[1]) / (sims_dist[2] - sims_dist[1]) * 0.5;
-            } else if (weight < sims_dist[3]) {
-              weight = 0.5 + ((weight - sims_dist[2]) / (sims_dist[3] - sims_dist[2]) * 0.5);
-            } else {
-              weight = 1;
-            }*/
-            if ((nodes[a]["cl"] !== nodes[b]["cl"]) && (bs_similarity[a][b] < inter_cutoff)) {
-              continue;
-            }
-            graph.addLink(a, b, {weight: weight});
-            weights.push(weight);
-            if (nodes_with_edges.indexOf(a) < 0) {
-              nodes_with_edges.push(a);
-            }
-            if (nodes_with_edges.indexOf(b) < 0) {
-              nodes_with_edges.push(b);
-            }
-          }
-        }
-      }
-      weights = weights.sort();
-      //console.log(weights);
-      //console.log([weights[0], weights[parseInt(weights.length / 10)], weights[parseInt(weights.length / 2)], weights[parseInt(weights.length * 9 / 10)], weights[weights.length - 1]]);
-
-      graphics.node(function(node) {
-       // The function is called every time renderer needs a ui to display node
-       var ui = Viva.Graph.svg('circle')
-             .attr('r', 10)
-             .attr('fill', (clusters[nodes[node["id"]]["cl"]]["color"]))
-       $(ui).hover(function() { // mouse over
-          if (!hoverLocked) {
-            highlightNode(node.id, true);
-            highlightedNode = node.id;
-          }
-        }, function() { // mouse out
-          if (!hoverLocked) {
-            highlightNode(node.id, false);
-            highlightedNode = -1;
-          }
-        });
-        $(ui).click(function(){
-          if ((hoverLocked) && (highlightedNode === node.id)) {
-            highlightNode(highlightedNode, false);
-            hoverLocked = false;
-          } else {
-            hoverLocked = true;
-          }
-        });
-       return ui;
-      }).placeNode(function(nodeUI, pos){
-        nodeUI.attr('cx', pos.x).attr('cy', pos.y);
-      });
-      graphics.link(function(link) {
-        return Viva.Graph.svg('line')
-                .attr("stroke", "#777")
-                .attr("stroke-width", link["data"]["weight"] * 10);
-      });
-
-      var sprLen = 100;
-      var layout = Viva.Graph.Layout.forceDirected(graph, {
-        springLength: sprLen,
-        springCoeff : 0.001,
-        gravity : -1,
-        springTransform: function (link, spring) {
-          spring.length = sprLen - (sprLen * (link.data.weight));
-        }
-      });
-
-      var renderer = Viva.Graph.View.renderer(graph, {
-        container: document.getElementById("network-container"),
-        layout : layout,
-        graphics : graphics
-      });
-
-      renderer.run();
-      showSingletons(false);
-      // some quick hacks to resize the svg, need to know how to properly pass the config
-      $("#network-container .loadingtext").css("display", "none");
-      $("#network-container svg").css("height", "100%");
-      $("#network-container svg").css("width", "100%");
-      var countDown = 5 + parseInt(edge_count / 1000);
-      var perZoom = 5;
-      var zoomCount = 0;
-      $("#info-container").append("<div>Adjusting network layout for... <span id='network-layout-counter'>" + countDown + "</span> second(s) </div>");
-      var interval = setInterval(function(){
-        countDown--;
-        if (countDown > 0) {
-          $("#network-layout-counter").text(countDown);
-          for (var i = 0; i < perZoom; i++) {
-            renderer.zoomOut();
-          }
-          if ((perZoom > 0) && (zoomCount > 1)) {
-            zoomCount = 0;
-            perZoom--;
-            perZoom--;
-          } else {
-            zoomCount++;
-          }
-        } else {
-          $("#network-layout-counter").parent().addClass("hidden");
-          $("#info-container").append("<div>Total nodes: " + nodes.length + " (" + (nodes.length - nodes_with_edges.length) + " singleton/s), Total links: " + edge_count + "</div>");
-          $("#info-container").append("<div><input type='checkbox' onchange='javascript: showSingletons(this.checked);' /> Show singletons</div>");
-          renderer.pause();
-          clearInterval(interval);
-        }}, 1000);
+      var bs = new Bigscape(bs_data, bs_families, bs_similarity, "network-container", "desc-container", {});
+      $(".loadingtext").addClass("hidden");
     });
   </script>
 </html>
