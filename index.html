@@ -24,18 +24,10 @@
       <div id="buttons">
         <span id="cluster-type" style="float: left; padding-top: 0.2em;">Network:</span>
         <ul id="clusterbuttons" style="float: left;">
-          <li class="clbutton"><a href="javascript:loadOverview();">Overview</a></li>
-          <li class="clbutton t1pks"><a href="javascript:loadNetwork('pks1');">PKS1</a></li>
-          <li class="clbutton pks"><a href="javascript:loadNetwork('pks-nrp');">PKS-NRP</a></li>
-          <li class="clbutton pks"><a href="javascript:loadNetwork('pksother');">PKS-other</a></li>
-          <li class="clbutton nrps"><a href="javascript:loadNetwork('nrps');">NRPS</a></li>
-          <li class="clbutton ripp"><a href="javascript:loadNetwork('ripps');">RiPP</a></li>
-          <li class="clbutton terpene"><a href="javascript:loadNetwork('terpene');">Terpene</a></li>
-          <li class="clbutton saccharide"><a href="javascript:loadNetwork('saccharide');">Saccharide</a></li>
-          <li class="clbutton other"><a href="javascript:loadNetwork('others');">Other</a></li>
+          <li class="clbutton overview selected"><a href="javascript:loadOverview();">Overview</a></li>
         </ul>
       </div>
-      <iframe id="contentframe" src="./overview.html" width="100%" height="550px;"></iframe>
+      <iframe id="contentframe" src="./overview.html" width="100%" height="500px;"></iframe>
     </div>
     <div>
       <div id="logos">
@@ -60,11 +52,52 @@
   </body>
   <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
   <script type="text/javascript">
-    function loadNetwork(name, btn) {
+    var modules = [
+      { name: "pks1", css: "t1pks", label: "PKS1"},
+      { name: "pks-nrp", css: "pks", label: "PKS-NRP"},
+      { name: "pksother", css: "pks", label: "PKS-Other"},
+      { name: "nrps", css: "nrps", label: "NRPS"},
+      { name: "ripps", css: "ripp", label: "RiPP"},
+      { name: "terpene", css: "terpene", label: "Terpene"},
+      { name: "saccharide", css: "saccharide", label: "Saccharide"},
+      { name: "others", css: "other", label: "Other"},
+    ];
+    function loadNetwork(name) {
       $('#contentframe').attr('src', './networks/' + name + '/index.html')
+      $('#contentframe').trigger("focus");
     }
     function loadOverview() {
       $('#contentframe').attr('src', './overview.html');
+      $('#contentframe').trigger("focus");
     }
+    $(document).ready(function(){
+      for (var i in modules) {
+        var module = modules[i];
+        var li = $("<li class='clbutton inactive'>");
+        var a =$("<a href='#' module='" + module["name"] + "'>" + module["label"] + "</>");
+        li.addClass(module["css"]);
+        li.append(a);
+        a.click(function(handler){
+          $(".clbutton").removeClass("selected");
+          $(handler.target).parent().addClass("selected");
+          $(".clbutton:not(.selected)").addClass("inactive");
+          loadNetwork($(handler.target).attr("module"));
+        });
+        $("#clusterbuttons").append(li);
+      }
+      $("#clusterbuttons .clbutton.overview").find("a").click(function(handler){
+        $(".clbutton").removeClass("selected");
+        $(handler.target).parent().addClass("selected");
+        $(".clbutton:not(.selected)").addClass("inactive");
+        loadOverview();
+      });
+      $(".clbutton").find("a").hover(function(handler){
+        var node = $(handler.target).parent();
+        $(".clbutton:not(.selected)").addClass("inactive");
+        node.removeClass("inactive");
+      },function(handler){
+        $(".clbutton:not(.selected)").addClass("inactive");
+      });
+    });
   </script>
 </html>

@@ -1,7 +1,7 @@
 body {
   font-family: Verdana, Tahoma, Sans-Serif;
   color: rgba(129, 129, 127, 1);
-  background-color: white;
+  background-color: #fefefe;
   text-align: left;
   margin: 0;
   padding: 0;
@@ -57,6 +57,68 @@ a:visited {
 }
 .bigscape-title a:hover {
   text-decoration: none;
+}
+.desc-container {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  padding: 3px;
+  border: 1px solid gray;
+  box-shadow: 2px 3px;
+  background-color: rgba(255,255,255,0.9);
+  overflow: scroll;
+}
+.desc-container.active {
+  bottom: 50px;
+}
+.desc-ui {
+  min-width: 300px;
+}
+.info-container {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  padding: 3px;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: 2px 3px;
+  border: 1px solid gray;
+}
+.nav-container {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  padding: 3px;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: 2px 3px;
+  border: 1px solid gray;
+}
+.showhide-btn {
+  height: 10px;
+  width: 10px;
+  display: block;
+  border: 1px solid black;
+  background: green;
+}
+.showhide-btn.active {
+  background: red;
+}
+.navtext-container {
+  position: fixed;
+  bottom: 10px;
+  right: 30px;
+  font-size: xx-small;
+}
+.detail-container {
+  z-index: 99;
+  position: fixed;
+  bottom: 5px;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  padding: 3px;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: 2px 3px;
+  border: 1px solid gray;
 }
 #header {
   margin: 0px auto;
@@ -157,6 +219,15 @@ a:visited {
 /* start colour definitions for secondary metabolite types */
 .clbutton {
   background-color: white;
+}
+.clbutton a {
+  margin: 5px;
+}
+.overview {
+  background-color: #51a3a3;
+}
+.overview a {
+  color: #eaeae9;
 }
 .pks {
   background-color: sandybrown;
@@ -507,6 +578,12 @@ a:visited {
 }
 .hybrid a {
   color: midnightblue;
+}
+.clbutton.inactive {
+  background-color: #ccc;
+}
+.clbutton.inactive a {
+  color: white;
 }
 /* done with sec met types */
 .dha {
