@@ -109,7 +109,7 @@ a:visited {
   font-size: xx-small;
 }
 .detail-container {
-  z-index: 99;
+  z-index: 999;
   position: fixed;
   bottom: 5px;
   top: 5px;
@@ -119,6 +119,49 @@ a:visited {
   background-color: rgba(255,255,255,0.9);
   box-shadow: 2px 3px;
   border: 1px solid gray;
+  overflow: scroll;
+}
+.hover-container {
+  background-color: white;
+  padding: 0px 5px;
+  position: absolute;
+  overflow: hidden;
+  border: 1px solid #CCC;
+  box-shadow: 2px 3px;
+  min-height: 20px;
+  min-width: 50px;
+}
+.context-menu {
+  z-index: 1000;
+  position: absolute;
+  overflow: hidden;
+  border: 1px solid #CCC;
+  white-space: nowrap;
+  font-family: sans-serif;
+  background: #FFF;
+  color: #333;
+  padding: 0;
+}
+.context-menu h3 {
+  font-size: normal;
+  margin: 0px;
+  padding: 2px 5px;
+  border-bottom: 1px solid black;
+}
+.context-menu ul {
+  list-style-type: none;
+  padding: 3px;
+  margin: 0px;
+}
+.context-menu li {
+  list-style-type: none;
+  cursor: pointer;
+}
+.context-menu li:hover {
+  background-color: #DEF;
+}
+.context-menu li a:hover {
+  text-decoration: none;
 }
 #header {
   margin: 0px auto;
