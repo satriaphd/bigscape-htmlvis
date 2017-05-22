@@ -4,21 +4,21 @@
     <title>BiG-SCAPE Result</title>
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
   </head>
-  <body style="margin: 0px;">
-    <div style="width: 100%;">
-      <div id="network-container" style="height: 600px; width: 100%;">
-      </div>
+  <body>
+    <div id="network-container" style="position: fixed; top: 0px; bottom: 0px; right: 0px; left: 0px;">
   </body>
   <!-- javascripts -->
   <script type="text/javascript" src="../../js/jquery-3.2.1.min.js"></script>
   <script type="text/javascript" src="../../js/vivagraph.js"></script>
+  <script type="text/javascript" src="../../js/svg.js"></script>
+  <script type="text/javascript" src="../../js/arrower.js"></script>
   <script type="text/javascript" src="../../js/bigscape.js"></script>
   <script type="text/javascript" src="network_data.js"></script>
   <script type="text/javascript">
   function fixBGCSimMatrix() {
     bs_similarity = bs_distances;
     var tempMatrix = [];
-    for (var i = 0; i < bs_data.length; i++) {
+    for (var i in bs_data) {
       var row = [];
       for (var j = 0; j <= i; j++) {
         row.push(bs_similarity[j][i - j]);
@@ -31,6 +31,15 @@
   <script type="text/javascript">
     if (typeof(bs_similarity) === "undefined") {
       fixBGCSimMatrix();
+    }
+    for (var i in bs_data) {
+      var bs_obj = bs_data[i];
+      if (!bs_obj.hasOwnProperty("start")) {
+        var rc = Arrower.getRandomCluster();
+        bs_obj.start = rc.start;
+        bs_obj.end = rc.end;
+        bs_obj.orfs = rc.orfs;
+      }
     }
     $(document).ready(function(){
       var bs = new Bigscape(bs_data, bs_families, bs_similarity, "network-container", "desc-container", {});

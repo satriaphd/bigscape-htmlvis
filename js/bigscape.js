@@ -12,6 +12,12 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
   var bs_families = bs_families;
   var bs_similarity = bs_similarity;
   var bs_to_cl = [];
+  var bs_svg = [];
+  for (var i in bs_data) {
+    var svg = $(Arrower.drawClusterSVG(bs_data[i]));
+    svg.addClass("arrower-svg");
+    bs_svg.push(svg);
+  }
   $("#" + network_container).html("<div class='network-layer' style='position: fixed; top: 0; left: 0; bottom: 0; right: 0;'><div class='network-overlay' style='display: none; position: fixed; top: 0; left: 0; bottom: 0; right: 0;'>");
   var net_ui = $("#" + network_container + " .network-layer");
   var multiSelectOverlay;
@@ -47,6 +53,10 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
       $(handler.target).addClass("active");
       $(handler.target).parent().addClass("active");
       desc_ui.removeClass("hidden");
+      desc_ui.find("svg.arrower-svg").each(function(){
+        $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+        $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+      });
     }
     handler.stopPropagation();
   });
@@ -63,6 +73,10 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
     } else {
       $(handler.target).addClass("active");
       info_ui.removeClass("hidden");
+      info_ui.find("svg.arrower-svg").each(function(){
+        $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+        $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+      });
     }
     handler.stopPropagation();
   });
@@ -169,7 +183,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
   // public functions
   var showSingletons = function(isOn) { BigscapeFunc.showSingletons(graph, graphics, net_ui, isOn); };
   this.showSingletons = showSingletons;
-  var highlightNodes = function(ids) { BigscapeFunc.highlightNodes(graph, graphics, ids, bs_data, bs_to_cl, bs_families, net_ui, desc_ui); };
+  var highlightNodes = function(ids) { BigscapeFunc.highlightNodes(graph, graphics, ids, bs_svg, bs_data, bs_to_cl, bs_families, net_ui, desc_ui); };
   this.highlightNodes = highlightNodes;
   this.setHighlightedNodes = function(ids) { highlighted_nodes = ids; };
   this.getHighlightedNodes = function() { return highlighted_nodes; };
@@ -187,7 +201,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
         }
       }
     };
-    var calced = BigscapeFunc.updateDescription(id, ids, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape);
+    var calced = BigscapeFunc.updateDescription(id, ids, bs_svg, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape);
     net_ui.find("svg circle").attr("stroke-width", "0");
     if (false) {//(calced > -1) { // disabled single-selection
       graphics.getNodeUI(calced).attr("r", "40");
@@ -270,23 +284,31 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
       selected_node = updateDescription(highlighted_nodes, new_sel);
       handler.stopPropagation();
     });
-    $(ui).contextmenu({id: node.id, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui, context_ui: context_ui}, function(handler) {
+    $(ui).contextmenu({id: node.id, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui, context_ui: context_ui}, function(handler) {
       var ul = $("<ul>");
       //
       var aShowDetail = $("<a href='##'>Show details</a>");
-      aShowDetail.click({id: handler.data.id, bs_data: handler.data.bs_data, bs_families: handler.data.bs_families, bs_to_cl: handler.data.bs_to_cl, det_ui: handler.data.det_ui, context_ui: handler.data.context_ui}, function(handler){
-        BigscapeFunc.openDetail(handler.data.id, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+      aShowDetail.click({id: handler.data.id, bs_svg: handler.data.bs_svg, bs_data: handler.data.bs_data, bs_families: handler.data.bs_families, bs_to_cl: handler.data.bs_to_cl, det_ui: handler.data.det_ui, context_ui: handler.data.context_ui}, function(handler){
+        BigscapeFunc.openDetail(handler.data.id, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
         handler.data.context_ui.addClass("hidden");
         handler.data.det_ui.parent().removeClass("hidden");
+        handler.data.det_ui.find("svg.arrower-svg").each(function(){
+          $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+          $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+        });
         handler.stopPropagation();
       });
       ($("<li>").appendTo(ul)).append(aShowDetail);
       //
       var aShowFamDetail = $("<a href='##'>Show family details</a>");
-      aShowFamDetail.click({id: handler.data.id, id_fam: bs_to_cl[handler.data.id], bs_data: handler.data.bs_data, bs_families: handler.data.bs_families, bs_to_cl: handler.data.bs_to_cl, det_ui: handler.data.det_ui, context_ui: handler.data.context_ui}, function(handler){
-        BigscapeFunc.openFamDetail(handler.data.id_fam, [handler.data.id], handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);;
+      aShowFamDetail.click({id: handler.data.id, id_fam: bs_to_cl[handler.data.id], bs_svg: handler.data.bs_svg, bs_data: handler.data.bs_data, bs_families: handler.data.bs_families, bs_to_cl: handler.data.bs_to_cl, det_ui: handler.data.det_ui, context_ui: handler.data.context_ui}, function(handler){
+        BigscapeFunc.openFamDetail(handler.data.id_fam, [handler.data.id], handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);;
         handler.data.context_ui.addClass("hidden");
         handler.data.det_ui.parent().removeClass("hidden");
+        handler.data.det_ui.find("svg.arrower-svg").each(function(){
+          $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+          $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+        });
         handler.stopPropagation();
       });
       ($("<li>").appendTo(ul)).append(aShowFamDetail);
@@ -378,14 +400,14 @@ BigscapeFunc.showSingletons = function(graph, graphics, net_ui, isOn) {
 }
 
 // ...
-BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape) {
+BigscapeFunc.updateDescription = function(id_sel, ids, bs_svg, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape) {
   desc_ui.html("");
   if (ids.length > 0) {
     // ...
     var top = $("<div style='padding: 5px; position: absolute; top: 20px; right: 10px; left: 10px; bottom: 50%; border: 1px solid black; z-index: 10; overflow: scroll;'>");
     var showCompBtn = $("<a href='##' title='Details' class='showhide-btn'></a>");
-    showCompBtn.click({ids: ids, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
-      BigscapeFunc.openCompDetail(handler.data.ids, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+    showCompBtn.click({ids: ids, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+      BigscapeFunc.openCompDetail(handler.data.ids, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
       handler.data.det_ui.parent().removeClass("hidden");
       handler.stopPropagation();
     });
@@ -393,7 +415,9 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
     var compDiv = $("<div style='position: absolute; top: 25px; bottom: 5px; width: 95%; overflow:scroll;'>");
     for (var i in ids) {
       var id = ids[i];
-      compDiv.append("<img alt='" + bs_data[id]["id"] + "' src='../../cluster_svg/" + bs_data[id]["id"] + ".svg' style='height: 10px;' />");
+      var svg = bs_svg[i].clone(true, true);
+      svg.find("g").attr("transform", "scale(0.2)");
+      compDiv.append(svg);
     }
     top.append(compDiv);
     // ...
@@ -423,9 +447,13 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
     for (var i in sel_fam) {
       var li = $("<li>");
       li.append("<a href='##'>" + bs_families[sel_fam[i]]["id"] + "</a>");
-      li.find("a").click({id_fam: sel_fam[i], ids_highlighted: ids, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
-        BigscapeFunc.openFamDetail(handler.data.id_fam, handler.data.ids_highlighted, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+      li.find("a").click({id_fam: sel_fam[i], ids_highlighted: ids, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+        BigscapeFunc.openFamDetail(handler.data.id_fam, handler.data.ids_highlighted, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
         handler.data.det_ui.parent().removeClass("hidden");
+        handler.data.det_ui.find("svg.arrower-svg").each(function(){
+          $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+          $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+        });
         handler.stopPropagation();
       });
       var ull = $("<ul>");
@@ -437,9 +465,13 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
           lii.append("*");
           top.append("<h3>" + bs_data[id]["id"] + "</h3>");
           var sdbtn = $("<button>detail</button>");
-          sdbtn.click({id: id, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
-            BigscapeFunc.openDetail(handler.data.id, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+          sdbtn.click({id: id, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+            BigscapeFunc.openDetail(handler.data.id, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
             handler.data.det_ui.parent().removeClass("hidden");
+            handler.data.det_ui.find("svg.arrower-svg").each(function(){
+              $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+              $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+            });
             handler.stopPropagation();
           });
           top.append(sdbtn);
@@ -450,9 +482,13 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
           handler.data.bigscape.updateDescription(handler.data.ids);
           handler.stopPropagation();
         });*/
-        lii.find("a").click({id: id, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
-          BigscapeFunc.openDetail(handler.data.id, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+        lii.find("a").click({id: id, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+          BigscapeFunc.openDetail(handler.data.id, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
           handler.data.det_ui.parent().removeClass("hidden");
+          handler.data.det_ui.find("svg.arrower-svg").each(function(){
+            $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+            $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+          });
           handler.stopPropagation();
         });
         // ^^
@@ -480,6 +516,11 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
     // ...
     desc_ui.append(top);
     desc_ui.append(bot);
+    // ...
+    desc_ui.find("svg.arrower-svg").each(function(){
+      $(this).attr("width", $(this).find("g")[0].getBoundingClientRect().width);
+      $(this).attr("height", $(this).find("g")[0].getBoundingClientRect().height);
+    });
   } else {
     id_sel = -1;
     nav_ui.find(".selection-text").text("");
@@ -488,7 +529,7 @@ BigscapeFunc.updateDescription = function(id_sel, ids, bs_data, bs_to_cl, bs_fam
 }
 
 // ...
-BigscapeFunc.highlightNodes = function(graph, graphics, ids, bs_data, bs_to_cl, bs_families, net_ui, desc_ui) {
+BigscapeFunc.highlightNodes = function(graph, graphics, ids, bs_svg, bs_data, bs_to_cl, bs_families, net_ui, desc_ui) {
   net_ui.find("svg line").attr("stroke", "gray");
   net_ui.find("svg circle").attr("r", "10");
   for (var i in ids) {
@@ -505,30 +546,29 @@ BigscapeFunc.highlightNodes = function(graph, graphics, ids, bs_data, bs_to_cl, 
 }
 
 // ...
-BigscapeFunc.openDetail = function(id, bs_data, bs_to_cl, bs_families, det_ui) {
+BigscapeFunc.openDetail = function(id, bs_svg, bs_data, bs_to_cl, bs_families, det_ui) {
   det_ui.html("");
   det_ui.append("<h2>" + bs_data[id]["id"] + "<h2>");
-  det_ui.append("<object data='../../cluster_svg/" + bs_data[id]["id"] + ".svg' type='image/svg+xml'>");
-  //det_ui.append("<img src='../../cluster_svg/" + bs_data[id]["id"] + ".svg'>");
+  det_ui.append(bs_svg[id].clone(true, true));
 }
 
 // ...
-BigscapeFunc.openCompDetail = function(ids, bs_data, bs_to_cl, bs_families, det_ui) {
+BigscapeFunc.openCompDetail = function(ids, bs_svg, bs_data, bs_to_cl, bs_families, det_ui) {
   det_ui.html("");
   for (var i in ids) {
     var id = ids[i];
-    det_ui.append("<object data='../../cluster_svg/" + bs_data[id]["id"] + ".svg' type='image/svg+xml'>");
+    det_ui.append(bs_svg[i].clone(true, true));
   }
 }
 
 // ...
-BigscapeFunc.openFamDetail = function(id_fam, ids_highlighted, bs_data, bs_to_cl, bs_families, det_ui) {
+BigscapeFunc.openFamDetail = function(id_fam, ids_highlighted, bs_svg, bs_data, bs_to_cl, bs_families, det_ui) {
   det_ui.html("");
   det_ui.append("<h2>" + bs_families[id_fam]["id"] + "<h2>");
   if ((id_fam > -1) && (id_fam < bs_families.length)) {
     for (var i in bs_families[id_fam]["members"]) {
       var id = bs_families[id_fam]["members"][i];
-      var obj = $(("<object data='../../cluster_svg/" + bs_data[id]["id"] + ".svg' type='image/svg+xml'>")).appendTo(det_ui);
+      var obj = bs_svg[id].clone(true, true).appendTo(det_ui);
       if (ids_highlighted.indexOf(id) > -1) {
         obj.css("background-color", "yellow");
       }

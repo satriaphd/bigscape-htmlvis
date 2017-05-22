@@ -9,23 +9,41 @@
   <script type="text/javascript" src="js/svg.js"></script>
   <script type="text/javascript" src="js/arrower.js"></script>
   <script type="text/javascript">
+  var cl_start = 245000;
+  var cl_end = 270000;
   var orfs = [
     { start: 245986, end: 246783, strand:  1, locus_tag: "SCO0256", type: "other", color: "tomato",
       description: 'short chain oxidoreductase<br>smCOG: SMCOG1001 (short-chain dehydrogenase/reductase SDR)<br>Location: 245986-246783' },
     { start: 246868, end: 247869, strand:  1, locus_tag: "SCO0257.2", type: "other",
-      domains: [{id: "PFAM0001", label: "Terpene_synth", bitscore: 300, start: 10, end: 60}],
+      domains: [{id: "PFAM0001", label: "Terpene_synth", bitscore: 300, start: 500, end: 900}],
       description: 'hypothetical protein<br>smCOG: -<br>Location: 246868-247869' },
     { start: 256281, end: 256442, strand:  1, locus_tag: "SCO0268-orf_1", type: "other",
+      domains: [{id: "PFAM0001", label: "Terpene_synth", bitscore: 300, start: 10, end: 100}],
       description: 'hypothetical protein<br>smCOG: -<br>Location: 256281-256442' },
     { start: 256526, end: 259687, strand:  1, locus_tag: "SCO0269", type: "biosynthetic",
       description: 'hypothetical protein<br>smCOG: SMCOG1155 (Lantibiotic dehydratase domain protein)<br>Location: 256526-259687' },
-    { start: 259684, end: 261084, strand:  1, locus_tag: "SCO0270", type: "biosynthetic",
+    { start: 259684, end: 261084, strand:  0, locus_tag: "SCO0270", type: "biosynthetic",
+      domains: [{id: "PFAM0001", label: "Terpene_synth", bitscore: 300, start: 800, end: 950}],
       description: 'hypothetical protein<br>smCOG: SMCOG1140 (Lanthionine synthetase C family protein)<br>Location: 259684-261084' },
     { start: 269020, end: 269688, strand: -1, locus_tag: "SCO0277", type: "other", color: "mediumpurple",
+      domains: [{id: "PFAM0001", label: "Terpene_synth", bitscore: 300, start: 50, end: 350}],
       description: 'hypothetical protein<br>smCOG: -<br>Location: 269020-269688' }
   ];
-  var cluster = { start: 245986, end: 271748, idx: 1, orfs: orfs, label: 'First cluster'};
+  /*
+  */
+
+  var cluster = { start: cl_start, end: cl_end, orfs: orfs, label: 'Randomised cluster'};
 
   $("body").append(Arrower.drawClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body").append(Arrower.drawRandomClusterSVG(cluster));
+  $("body svg g").attr("transform", "scale(0.5)");
+  $(document).ready(function(){
+    $("body").append($("body svg").clone(true, true));
+  });
   </script>
 </html>
