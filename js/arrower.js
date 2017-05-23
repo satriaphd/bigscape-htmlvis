@@ -21,13 +21,16 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
     // draw arrows
     for (var i in cluster.orfs) {
       var orf = cluster.orfs[i];
-      var orf_color = "gray";
+      var orf_color = "white";//"gray";
       if (orf.type === "biosynthetic") {
-        orf_color = "#810e15";
+        orf_color = "white";//"#810e15";
       }
-      var pol = draw.polygon(Arrower.toPointString(Arrower.getArrowPoints(orf, cluster, height, scale))).fill(orf_color).stroke({width: 1});
-      $(pol.node).mouseenter({orf: orf}, function(handler){
-        Arrower.showToolTip("" + handler.data.orf.locus_tag, handler);
+      var pol = draw.polygon(Arrower.toPointString(Arrower.getArrowPoints(orf, cluster, height, scale)))
+                  .fill(orf_color)
+                  .stroke({width: 1})
+                  .addClass("arrower-orf");
+      $(pol.node).mouseover({orf: orf}, function(handler){
+        Arrower.showToolTip("ORF: " + handler.data.orf.locus_tag, handler);
         handler.stopPropagation();
       });
       $(pol.node).mouseleave(function(handler){
@@ -38,9 +41,16 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
         // draw domains
         for (var j in orf.domains) {
           var domain = orf.domains[j];
-          var dom = draw.polygon(Arrower.toPointString(Arrower.getDomainPoints(domain, orf, cluster, height, scale))).fill("red").stroke({width: 1});
-          $(dom.node).mouseenter({domain: domain}, function(handler){
-            Arrower.showToolTip("" + handler.data.domain.id, handler);
+          var color = "white";
+          if (domain.hasOwnProperty("color")) {
+            color = domain.color;
+          }
+          var dom = draw.polygon(Arrower.toPointString(Arrower.getDomainPoints(domain, orf, cluster, height, scale)))
+                      .fill(color)
+                      .stroke({width: 1})
+                      .addClass("arrower-domain");
+          $(dom.node).mouseover({domain: domain}, function(handler){
+            Arrower.showToolTip("Domain: " + handler.data.domain.id + " (" + domain.bitscore + ")", handler);
             handler.stopPropagation();
           });
           $(dom.node).mouseleave(function(handler){
@@ -51,8 +61,8 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
     }
   }
 
-  $(draw.node).parent().mouseenter({domain: domain}, function(handler){
-    Arrower.showToolTip("" + cluster.id, handler);
+  $(draw.node).parent().mouseover({domain: domain}, function(handler){
+    Arrower.showToolTip("BGC: " + cluster.id, handler);
   });
   $(draw.node).parent().mouseleave(function(handler){
     $("#" + Arrower.tooltip_id).css("display", "none");
@@ -204,10 +214,13 @@ Arrower.getRandomCluster = (function() {
   var cl_end = 23000 + random(5000, 50000);
 
   var orfs = [];
-  var num_orfs = random(3, 20);
+  var num_orfs = random(5, 20);
   for (var i = 0; i < num_orfs; i++) {
     var pos1 = random(i * ((cl_end - cl_start) / num_orfs), (i + 1) * ((cl_end - cl_start) / num_orfs));
     var pos2 = random(i * ((cl_end - cl_start) / num_orfs), (i + 1) * ((cl_end - cl_start) / num_orfs));
+    if (Math.abs(pos1 - pos2) < 200) {
+      continue;
+    }
     var orf_start = cl_start + Math.min(pos1, pos2);
     var orf_end = cl_start + Math.max(pos1, pos2);
     var orf_strand = Math.random() > 0.5? 1 : -1;//random(-1, 2);
@@ -223,7 +236,9 @@ Arrower.getRandomCluster = (function() {
         start: dom_start,
         end: dom_end,
         id: "RAND_DOM_" + i + "_" + j,
-        label: "Randomly generated Domain"
+        label: "Randomly generated Domain",
+        color: "rgb(" + random(0, 256) + "," + random(0, 256) + "," + random(0, 256) + ")",
+        bitscore: random(30, 300)
       });
     }
     orfs.push({
@@ -249,6 +264,12 @@ Arrower.showToolTip = (function(html, handler){
   var divTooltip = $("#" + Arrower.tooltip_id);
   if (divTooltip.length < 1) {
     divTooltip = $("<div id='" + Arrower.tooltip_id + "'>");
+    divTooltip.css("background-color", "white");
+    divTooltip.css("border", "1px solid black");
+    divTooltip.css("color", "black");
+    divTooltip.css("font-size", "small");
+    divTooltip.css("padding", "0 5px");
+    divTooltip.css("pointer-events", "none");
     divTooltip.css("position", "fixed");
     divTooltip.appendTo($(document.body));
   }
