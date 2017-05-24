@@ -22,18 +22,24 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
     for (var i in cluster.orfs) {
       var orf = cluster.orfs[i];
       var orf_color = "white";//"gray";
-      if (orf.type === "biosynthetic") {
-        orf_color = "white";//"#810e15";
+      if (orf.hasOwnProperty("color")) {
+        orf_color = orf.color;
       }
       var pol = draw.polygon(Arrower.toPointString(Arrower.getArrowPoints(orf, cluster, height, scale)))
                   .fill(orf_color)
                   .stroke({width: 1})
                   .addClass("arrower-orf");
       $(pol.node).mouseover({orf: orf}, function(handler){
-        Arrower.showToolTip("ORF: " + handler.data.orf.locus_tag, handler);
+        var start = handler.data.orf.start;
+        var end = handler.data.orf.end;
+        Arrower.showToolTip("ORF: " + handler.data.orf.id + "<br/>" + start + " - " + end, handler);
+        $(handler.target).css("stroke-width", "3px");
+        $(handler.target).css("stroke", "red");
         handler.stopPropagation();
       });
       $(pol.node).mouseleave(function(handler){
+        $(handler.target).css("stroke-width", "1px");
+        $(handler.target).css("stroke", "black");
         $("#" + Arrower.tooltip_id).css("display", "none");
       });
 
@@ -41,7 +47,7 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
         // draw domains
         for (var j in orf.domains) {
           var domain = orf.domains[j];
-          var color = "white";
+          var color = "gray";
           if (domain.hasOwnProperty("color")) {
             color = domain.color;
           }
@@ -50,10 +56,16 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
                       .stroke({width: 1})
                       .addClass("arrower-domain");
           $(dom.node).mouseover({domain: domain}, function(handler){
-            Arrower.showToolTip("Domain: " + handler.data.domain.id + " (" + domain.bitscore + ")", handler);
+            var start = handler.data.domain.start;
+            var end = handler.data.domain.end;
+            Arrower.showToolTip("Domain: " + handler.data.domain.code + " (" + domain.bitscore + ")" + "<br/>" + start + " - " + end, handler);
+            $(handler.target).css("stroke-width", "3px");
+            $(handler.target).css("stroke", "red");
             handler.stopPropagation();
           });
           $(dom.node).mouseleave(function(handler){
+            $(handler.target).css("stroke-width", "1px");
+            $(handler.target).css("stroke", "black");
             $("#" + Arrower.tooltip_id).css("display", "none");
           });
         }
@@ -74,13 +86,13 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
 
 Arrower.getOrfPoints = (function(orf, cluster, height, scale){
   var x_points = [
-    scale(orf.start - cluster.start),
+    scale(orf.start),
     (orf.strand === 0) ?
-      (scale(orf.start - cluster.start) + scale(orf.end - orf.start))
+      (scale(orf.start) + scale(orf.end - orf.start))
       : ((scale(orf.end - orf.start) > (height / 2)) ?
-          (scale(orf.start - cluster.start) + Math.max(scale(orf.end - orf.start - ((orf.end - orf.start) / 4)), (scale(orf.end - orf.start) - parseInt(height / 2))))
-          : scale(orf.start - cluster.start)),
-    (scale(orf.start - cluster.start) + scale(orf.end - orf.start))
+          (scale(orf.start) + Math.max(scale(orf.end - orf.start - ((orf.end - orf.start) / 4)), (scale(orf.end - orf.start) - parseInt(height / 2))))
+          : scale(orf.start)),
+    (scale(orf.start) + scale(orf.end - orf.start))
   ];
   var y_points = [
     (orf.strand === 0) ?
@@ -132,7 +144,7 @@ Arrower.getArrowPoints = (function(orf, cluster, height, scale) {
   });
 
   if (orf.strand < 0) {
-    points = Arrower.flipHorizontal(points, scale(orf.start - cluster.start), (scale(orf.start - cluster.start) + scale(orf.end - orf.start)));
+    points = Arrower.flipHorizontal(points, scale(orf.start), (scale(orf.start) + scale(orf.end - orf.start)));
   }
 
   return points;
@@ -142,12 +154,12 @@ Arrower.getDomainPoints = (function(domain, orf, cluster, height, scale) {
   var points = [];
   var arrow_pts = Arrower.getArrowPoints(orf, cluster, height, scale);
   if (orf.strand < 0) {
-    arrow_pts = Arrower.flipHorizontal(arrow_pts, scale(orf.start - cluster.start), (scale(orf.start - cluster.start) + scale(orf.end - orf.start)));
+    arrow_pts = Arrower.flipHorizontal(arrow_pts, scale(orf.start), (scale(orf.start) + scale(orf.end - orf.start)));
   }
   arrow_pts.splice(3, 0, arrow_pts[3]); // convert into bluntish-end arrow
   var domain_x = {
-    start: (scale(orf.start - cluster.start) + scale(domain.start)),
-    end: (scale(orf.start - cluster.start) + scale(domain.end))
+    start: (scale(orf.start) + scale(domain.start)),
+    end: (scale(orf.start) + scale(domain.end))
   };
 
   var getY = function(x) {
@@ -170,7 +182,7 @@ Arrower.getDomainPoints = (function(domain, orf, cluster, height, scale) {
   }
 
   if (orf.strand < 0) {
-    points = Arrower.flipHorizontal(points, scale(orf.start - cluster.start), (scale(orf.start - cluster.start) + scale(orf.end - orf.start)));
+    points = Arrower.flipHorizontal(points, scale(orf.start), (scale(orf.start) + scale(orf.end - orf.start)));
   }
 
   return points;
@@ -221,8 +233,8 @@ Arrower.getRandomCluster = (function() {
     if (Math.abs(pos1 - pos2) < 200) {
       continue;
     }
-    var orf_start = cl_start + Math.min(pos1, pos2);
-    var orf_end = cl_start + Math.max(pos1, pos2);
+    var orf_start = Math.min(pos1, pos2);
+    var orf_end = Math.max(pos1, pos2);
     var orf_strand = Math.random() > 0.5? 1 : -1;//random(-1, 2);
     var orf_type = Math.random() > 0.5? "biosynthetic" : "others";
     var orf_domains = [];
@@ -233,26 +245,24 @@ Arrower.getRandomCluster = (function() {
       var dom_start = Math.min(dpos1, dpos2);
       var dom_end = Math.max(dpos1, dpos2);
       orf_domains.push({
+        code: "RAND_DOM_" + i + "_" + j,
         start: dom_start,
         end: dom_end,
-        id: "RAND_DOM_" + i + "_" + j,
-        label: "Randomly generated Domain",
+        bitscore: random(30, 300),
         color: "rgb(" + random(0, 256) + "," + random(0, 256) + "," + random(0, 256) + ")",
-        bitscore: random(30, 300)
       });
     }
     orfs.push({
+      id: "RAND_ORF_" + i,
+      desc: "Randomly generated ORF",
       start: orf_start,
       end: orf_end,
       strand: orf_strand,
-      locus_tag: "RAND_ORF_" + i,
-      type: orf_type,
-      description: "Randomly generated ORF",
       domains: orf_domains
     });
   }
 
-  var cluster = { start: cl_start, end: cl_end, orfs: orfs, label: 'Randomly generated Cluster'};
+  var cluster = { start: cl_start, end: cl_end, orfs: orfs, desc: 'Randomly generated Cluster'};
   return cluster;
 });
 
@@ -273,7 +283,7 @@ Arrower.showToolTip = (function(html, handler){
     divTooltip.css("position", "fixed");
     divTooltip.appendTo($(document.body));
   }
-  divTooltip.text(html);
+  divTooltip.html(html);
   divTooltip.css("cursor", "default");
   divTooltip.css("top", handler.pageY + "px");
   divTooltip.css("left", handler.pageX + "px");

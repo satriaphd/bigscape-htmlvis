@@ -163,6 +163,20 @@ a:visited {
 .context-menu li a:hover {
   text-decoration: none;
 }
+.li-check {
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border: 1px solid black;
+  margin-right: 5px;
+  background: rgba(0,0,0,0);
+}
+.li-check.checked {
+  background: rgba(0,0,0,0.5);
+}
 #header {
   margin: 0px auto;
   display: block;

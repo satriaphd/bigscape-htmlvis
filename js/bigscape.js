@@ -400,12 +400,17 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
     desc_ui.append(top);
     // bottom part of the desc_ui
     var bot = $("<div style='position: absolute; bottom: 10px; right: 10px; left: 10px; top: 51%; z-index: 9; overflow: scroll;'>");
+    var filterList = $("<div>Filter: <input type='radio' name='bs-desc_ui-li_show' value='all' checked='true' /> all <input type='radio' name='bs-desc_ui-li_show' value='selected'> selected</div>");
+    filterList.change({bigscape: bigscape}, function(handler){
+      var highlighted_nodes = handler.data.bigscape.getHighlightedNodes();
+      handler.data.bigscape.updateDescription();
+    });
     var ul = $("<ul class='bs-desc_ui-list' style='list-style-type: none; padding-left: 0px;'>");
     for (var i in bs_families) {
       var li = $("<li id='bs-desc_ui-li_fam-" + i + "'>");
-      li.append("<input type='checkbox' />");
-      li.append("<a href='##'>" + bs_families[i]["id"] + "</a>");
-      li.find("a").click({id_fam: i, ids_highlighted: ids, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+      li.append("<a href='##' class='li-check'></a>");
+      li.append("<a href='##' class='li-opendetail'>" + bs_families[i]["id"] + "</a>");
+      li.find("a.li-opendetail").click({id_fam: i, ids_highlighted: ids, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
         BigscapeFunc.openFamDetail(handler.data.id_fam, handler.data.ids_highlighted, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
         handler.data.det_ui.parent().removeClass("hidden");
         handler.data.det_ui.find("svg.arrower-svg").each(function(){
@@ -414,7 +419,7 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
         });
         handler.stopPropagation();
       });
-      li.find("input[type=checkbox]").click({bigscape: bigscape, fam: bs_families[i]}, function(handler) {
+      li.find("a.li-check").click({bigscape: bigscape, fam: bs_families[i]}, function(handler) {
         var highlighted_nodes = handler.data.bigscape.getHighlightedNodes();
         var isChecked = false;
         if (handler.data.fam.hasOwnProperty("members")) {
@@ -448,7 +453,6 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
         handler.data.bigscape.setHighlightedNodes(highlighted_nodes);
         handler.data.bigscape.highlightNodes(highlighted_nodes);
         handler.data.bigscape.updateDescription(highlighted_nodes);
-        return false;
       });
       li.find("a").mouseenter({bigscape: bigscape, fam: bs_families[i]}, function(handler) { // mouse over
         var highlighted_nodes = handler.data.bigscape.getHighlightedNodes();
@@ -477,9 +481,9 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
         for (var j in bs_families[i]["members"]) {
           var id = bs_families[i]["members"][j];
           var lii = $("<li id='bs-desc_ui-li_bs-" + id + "'>");
-          lii.append("<input type='checkbox' />");
-          lii.append("<a href='##'>" + bs_data[id]["id"] + "</a>");
-          lii.find("a").click({id: id, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
+          lii.append("<a href='##' class='li-check'></a>");
+          lii.append("<a href='##' class='li-opendetail'>" + bs_data[id]["id"] + "</a>");
+          lii.find("a.li-opendetail").click({id: id, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, det_ui: det_ui}, function(handler){
             BigscapeFunc.openDetail(handler.data.id, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
             handler.data.det_ui.parent().removeClass("hidden");
             handler.data.det_ui.find("svg.arrower-svg").each(function(){
@@ -488,7 +492,7 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
             });
             handler.stopPropagation();
           });
-          lii.find("input[type=checkbox]").click({bigscape: bigscape, id: id}, function(handler) {
+          lii.find("a.li-check").click({bigscape: bigscape, id: id}, function(handler) {
             var highlighted_nodes = handler.data.bigscape.getHighlightedNodes();
             if (highlighted_nodes.indexOf(handler.data.id) < 0) {
               highlighted_nodes.push(handler.data.id);
@@ -498,7 +502,6 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
             handler.data.bigscape.setHighlightedNodes(highlighted_nodes);
             handler.data.bigscape.highlightNodes(highlighted_nodes);
             handler.data.bigscape.updateDescription(highlighted_nodes);
-            return false;
           });
           lii.find("a").mouseenter({bigscape: bigscape, id: id}, function(handler) { // mouse over
             var highlighted_nodes = handler.data.bigscape.getHighlightedNodes();
@@ -524,6 +527,7 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
       li.append(ull);
       ul.append(li);
     }
+    bot.append(filterList);
     bot.append(ul);
     desc_ui.append(bot);
   }
@@ -578,15 +582,21 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
     }
     if (true) { // update desc_ui LIs
       var ul = desc_ui.find(".bs-desc_ui-list");
-      ul.find("li a").css("color", "black");
-      ul.find("li input[type=checkbox]").removeAttr("checked");
+      ul.find("li a.li-opendetail").css("color", "black");
+      ul.find("li a.li-check").removeClass("checked");
       for (var i in sel_fam) {
         for (var j in fam_sels[sel_fam[i]]) {
-          ul.find("li#bs-desc_ui-li_bs-" + fam_sels[sel_fam[i]][j]).children("a").css("color", "red");
-          ul.find("li#bs-desc_ui-li_bs-" + fam_sels[sel_fam[i]][j]).children("input[type=checkbox]").attr("checked", "checked");
+          ul.find("li#bs-desc_ui-li_bs-" + fam_sels[sel_fam[i]][j]).children("a.li-opendetail").css("color", "red");
+          ul.find("li#bs-desc_ui-li_bs-" + fam_sels[sel_fam[i]][j]).children("a.li-check").addClass("checked");
         }
-        ul.find("li#bs-desc_ui-li_fam-" + sel_fam[i]).children("a").css("color", "red");
-        ul.find("li#bs-desc_ui-li_fam-" + sel_fam[i]).children("input[type=checkbox]").attr("checked", "checked");
+        ul.find("li#bs-desc_ui-li_fam-" + sel_fam[i]).children("a.li-opendetail").css("color", "red");
+        ul.find("li#bs-desc_ui-li_fam-" + sel_fam[i]).children("a.li-check").addClass("checked");
+      }
+      if (desc_ui.find("input[name=bs-desc_ui-li_show]:checked").val() == "all") {
+        desc_ui.find("li a.li-check").parent().css("display", "");
+      } else {
+        desc_ui.find("li a.li-check.checked").parent().css("display", "");
+        desc_ui.find("li a.li-check:not(.checked)").parent().css("display", "none");
       }
     }
     if (true) { // update nav_ui
@@ -615,6 +625,7 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
     desc_ui.find(".bs-desc_ui-svgbox").text("");
     nav_ui.find(".selection-text").text("");
   }
+  desc_ui.find("input[name=bs-desc_ui-li_show][checked=checked]").trigger("click");//TODO
 }
 
 // ...
