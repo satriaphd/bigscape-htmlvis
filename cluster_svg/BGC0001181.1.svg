@@ -1,7 +1,0 @@
-<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="74" height="62">
-	<line x1="1" y1="31" x2="73" y2="31" style="stroke:rgb(50,50,50); stroke-width:3 "/>
-	<g>
-		<title>SCO6073</title>
-		<polygon class="SCO6073" points="1,16 43,16 43,1 73,31 43,61 43,46 1,46" fill="rgb(212,206,253)" fill-opacity="1.0" stroke="rgb(84,82,101)" stroke-width="1" />
-	</g>
-</svg>
