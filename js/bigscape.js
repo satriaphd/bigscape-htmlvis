@@ -336,7 +336,9 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
       var scale = 3 * (graphics.getSvgRoot().getElementsByTagName("g")[0].getBoundingClientRect().width / graphics.getSvgRoot().getBoundingClientRect().width);
       var point = {x: graphics.getSvgRoot().getBoundingClientRect().width / 2,
                   y: graphics.getSvgRoot().getBoundingClientRect().height / 2};
-      graphics.scale((1 / scale), point);
+      if (scale !== 0) {
+        graphics.scale((1 / scale), point);
+      }
     } else {
       info_ui.html("");
       var nodes_with_edges_count = 0;
