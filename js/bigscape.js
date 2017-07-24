@@ -42,8 +42,8 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
   });
 
   //
-  var desc_ui = $("<div class='desc-ui hidden' style='margin-top: 2px;'>");
-  var desc_btn = $("<a title='Details' href='##' class='showhide-btn'></a>");
+  var desc_ui = $("<div class='desc-ui' style='margin-top: 2px;'>");
+  var desc_btn = $("<a title='Details' href='##' class='showhide-btn active'></a>");
   desc_btn.click(function(handler){
     if ($(handler.target).hasClass("active")) {
       $(handler.target).removeClass("active");
@@ -60,7 +60,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
     }
     handler.stopPropagation();
   });
-  net_ui.after("<div class='desc-container'></div>");
+  net_ui.after("<div class='desc-container active'></div>");
   net_ui.parent().find(".desc-container").append(desc_btn);
   net_ui.parent().find(".desc-container").append(desc_ui);
   //
