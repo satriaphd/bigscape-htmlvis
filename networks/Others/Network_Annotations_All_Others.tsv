@@ -1,0 +1,440 @@
+BGC	Accesion ID	Description	Product Prediction	BiG-SCAPE class
+BGC0000002.1	BGC0000002.1	Aculeximycin biosynthetic gene cluster	t1pks-oligosaccharide	Others
+BGC0000005.1	BGC0000005.1	Aflatoxin biosynthetic gene cluster	other	Others
+BGC0000010.1	BGC0000010.1	Aflatoxin biosynthetic gene cluster	other	Others
+BGC0000016.1	BGC0000016.1	Amphotericin biosynthetic gene cluster	other	Others
+BGC0000019.1	BGC0000019.1	Angolamycin biosynthetic gene cluster	other	Others
+BGC0000025.1	BGC0000025.1	Avermectin biosynthetic gene cluster	other	Others
+BGC0000026.1	BGC0000026.1	Avilamycin A biosynthetic gene cluster	t1pks-oligosaccharide	Others
+BGC0000033.1	BGC0000033.1	Calicheamicin biosynthetic gene cluster	t1pks-oligosaccharide	Others
+BGC0000038.1	BGC0000038.1	Coelimycin biosynthetic gene cluster	butyrolactone-t1pks	Others
+BGC0000065.1	BGC0000065.1	Galbonolides biosynthetic gene cluster	other	Others
+BGC0000078.1	BGC0000078.1	Incednine biosynthetic gene cluster	t1pks-oligosaccharide	Others
+BGC0000082.1	BGC0000082.1	Kijanimicin biosynthetic gene cluster	t1pks-oligosaccharide	Others
+BGC0000088.1	BGC0000088.1	Lovastatin biosynthetic gene cluster	other	Others
+BGC0000101.1	BGC0000101.1	Monodictyphenone biosynthetic gene cluster	other	Others
+BGC0000112.1	BGC0000112.1	Neocarzinostatin biosynthetic gene cluster	t1pks-butyrolactone	Others
+BGC0000131.1	BGC0000131.1	Pyrrolomycin biosynthetic gene cluster	other	Others
+BGC0000141.1	BGC0000141.1	Rubradirin biosynthetic gene cluster	t1pks-nrps-aminocoumarin	Others
+BGC0000144.1	BGC0000144.1	Salinomycin biosynthetic gene cluster	t1pks-nrps-butyrolactone	Others
+BGC0000168.1	BGC0000168.1	Viridicatumtoxin biosynthetic gene cluster	t1pks-terpene	Others
+BGC0000175.1	BGC0000175.1	Cycloheximide / actiphenol biosynthetic gene cluster	lantipeptide-transatpks	Others
+BGC0000182.1	BGC0000182.1	Mupirocin biosynthetic gene cluster	transatpks-t2pks-hserlactone	Others
+BGC0000183.1	BGC0000183.1	Paenimacrolidin biosynthetic gene cluster	other	Others
+BGC0000187.1	BGC0000187.1	Asukamycin biosynthetic gene cluster	furan	Others
+BGC0000188.1	BGC0000188.1	Saxitoxin biosynthetic gene cluster	other	Others
+BGC0000189.1	BGC0000189.1	Xenocyloins biosynthetic gene cluster	other	Others
+BGC0000193.1	BGC0000193.1	Aclacinomycin biosynthetic gene cluster	other	Others
+BGC0000199.1	BGC0000199.1	Arimetamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000207.1	BGC0000207.1	Chartreusin biosynthetic gene cluster	other	Others
+BGC0000210.1	BGC0000210.1	Chromomycin A3 biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000213.1	BGC0000213.1	Colabomycin biosynthetic gene cluster	furan	Others
+BGC0000229.1	BGC0000229.1	Grincamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000238.1	BGC0000238.1	Lactonamycin biosynthetic gene cluster	butyrolactone-t2pks	Others
+BGC0000239.1	BGC0000239.1	Landomycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000243.1	BGC0000243.1	Macrotetrolide biosynthetic gene cluster	other	Others
+BGC0000244.1	BGC0000244.1	Macrotetrolide biosynthetic gene cluster	other	Others
+BGC0000247.1	BGC0000247.1	Mithramycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000249.1	BGC0000249.1	Nogalamycin biosynthetic gene cluster	other	Others
+BGC0000251.1	BGC0000251.1	Nogalamycin biosynthetic gene cluster	other	Others
+BGC0000258.1	BGC0000258.1	Prodigiosin biosynthetic gene cluster	other	Others
+BGC0000259.1	BGC0000259.1	Prodigiosin biosynthetic gene cluster	other	Others
+BGC0000260.1	BGC0000260.1	Prodigiosin biosynthetic gene cluster	other	Others
+BGC0000262.1	BGC0000262.1	Rabelomycin biosynthetic gene cluster	butyrolactone-t2pks-oligosaccharide	Others
+BGC0000265.1	BGC0000265.1	Rhodomycin biosynthetic gene cluster	other	Others
+BGC0000267.1	BGC0000267.1	Saquayamycin Z / galtamycin B biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000268.1	BGC0000268.1	Sch47554 / Sch47555 biosynthetic gene cluster	oligosaccharide-t2pks	Others
+BGC0000270.1	BGC0000270.1	Simocyclinone biosynthetic gene cluster	t2pks-aminocoumarin	Others
+BGC0000274.1	BGC0000274.1	Tetarimycin biosynthetic gene cluster	phenazine-t2pks	Others
+BGC0000276.1	BGC0000276.1	Urdamycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0000278.1	BGC0000278.1	Urdamycin biosynthetic gene cluster	other	Others
+BGC0000286.1	BGC0000286.1	Viguiepinol biosynthetic gene cluster	other	Others
+BGC0000288.1	BGC0000288.1	A-503083 biosynthetic gene cluster	blactam-nrps	Others
+BGC0000293.1	BGC0000293.1	Acetylaszonalenin biosynthetic gene cluster	nrps-terpene	Others
+BGC0000295.1	BGC0000295.1	Acinetoferrin biosynthetic gene cluster	siderophore	Others
+BGC0000318.1	BGC0000318.1	Cephalosporin, cefEFG genes biosynthetic gene cluster	other	Others
+BGC0000328.1	BGC0000328.1	Coronatine biosynthetic gene cluster	other	Others
+BGC0000329.1	BGC0000329.1	Corpeptin biosynthetic gene cluster	hserlactone-nrps	Others
+BGC0000340.1	BGC0000340.1	Echosides biosynthetic gene cluster	other	Others
+BGC0000356.1	BGC0000356.1	Fumitremorgin biosynthetic gene cluster	nrps-terpene	Others
+BGC0000361.1	BGC0000361.1	Gliotoxin biosynthetic gene cluster	other	Others
+BGC0000372.1	BGC0000372.1	Hexadehydro-astechrome (HAS) biosynthetic gene cluster	nrps-terpene	Others
+BGC0000375.1	BGC0000375.1	Indigoidine biosynthetic gene cluster	other	Others
+BGC0000382.1	BGC0000382.1	Lipstatin biosynthetic gene cluster	other	Others
+BGC0000385.1	BGC0000385.1	Lysobactin biosynthetic gene cluster	lantipeptide-nrps-transatpks	Others
+BGC0000386.1	BGC0000386.1	Malleobactin biosynthetic gene cluster	other	Others
+BGC0000387.1	BGC0000387.1	Mangotoxin biosynthetic gene cluster	other	Others
+BGC0000406.1	BGC0000406.1	Phosphinothricin biosynthetic gene cluster	nrps-phosphonate	Others
+BGC0000420.1	BGC0000420.1	Roquefortine C / meleagrin biosynthetic gene cluster	terpene-nrps	Others
+BGC0000422.1	BGC0000422.1	Saframycin A biosynthetic gene cluster	melanin-nrps	Others
+BGC0000427.1	BGC0000427.1	Shinorine biosynthetic gene cluster	other	Others
+BGC0000451.1	BGC0000451.1	Turnerbactin biosynthetic gene cluster	other	Others
+BGC0000459.1	BGC0000459.1	Griseoviridin / viridogrisein biosynthetic gene cluster	nrps-butyrolactone	Others
+BGC0000466.1	BGC0000466.1	Yatakemycin biosynthetic gene cluster	other	Others
+BGC0000510.1	BGC0000510.1	Epilancin K7 biosynthetic gene cluster	other	Others
+BGC0000513.1	BGC0000513.1	Erythreapeptin biosynthetic gene cluster	other	Others
+BGC0000553.1	BGC0000553.1	SRO15-2212 biosynthetic gene cluster	other	Others
+BGC0000567.1	BGC0000567.1	Trifolitoxin biosynthetic gene cluster	other	Others
+BGC0000568.1	BGC0000568.1	Microcin B17 biosynthetic gene cluster	other	Others
+BGC0000569.1	BGC0000569.1	Plantathiazolicin / plantazolicin biosynthetic gene cluster	other	Others
+BGC0000570.1	BGC0000570.1	Astexin-1 biosynthetic gene cluster	other	Others
+BGC0000571.1	BGC0000571.1	Burhizin biosynthetic gene cluster	other	Others
+BGC0000573.1	BGC0000573.1	Caulonodin I / caulonodin II biosynthetic gene cluster	other	Others
+BGC0000574.1	BGC0000574.1	Caulosegnin I / caulosegnin II / caulosegnin III biosynthetic gene cluster	other	Others
+BGC0000575.1	BGC0000575.1	Lariatin biosynthetic gene cluster	other	Others
+BGC0000576.1	BGC0000576.1	Rubrivinodin biosynthetic gene cluster	other	Others
+BGC0000577.1	BGC0000577.1	Sphingonodin II biosynthetic gene cluster	other	Others
+BGC0000578.1	BGC0000578.1	SRO15-2005 biosynthetic gene cluster	other	Others
+BGC0000579.1	BGC0000579.1	SSV-2083 biosynthetic gene cluster	other	Others
+BGC0000580.1	BGC0000580.1	Xanthomonin I / xanthomonin II biosynthetic gene cluster	other	Others
+BGC0000584.1	BGC0000584.1	Colicin V biosynthetic gene cluster	other	Others
+BGC0000585.1	BGC0000585.1	Microcin C7 biosynthetic gene cluster	other	Others
+BGC0000586.1	BGC0000586.1	Microcin E492 biosynthetic gene cluster	other	Others
+BGC0000587.1	BGC0000587.1	Microcin H47 biosynthetic gene cluster	other	Others
+BGC0000588.1	BGC0000588.1	Microcin L biosynthetic gene cluster	other	Others
+BGC0000589.1	BGC0000589.1	Microcin M biosynthetic gene cluster	other	Others
+BGC0000590.1	BGC0000590.1	Microcin N biosynthetic gene cluster	other	Others
+BGC0000595.1	BGC0000595.1	SCO-2138 biosynthetic gene cluster	other	Others
+BGC0000596.1	BGC0000596.1	SLI-2138 biosynthetic gene cluster	other	Others
+BGC0000597.1	BGC0000597.1	SWA-2138 biosynthetic gene cluster	other	Others
+BGC0000611.1	BGC0000611.1	Siomycin biosynthetic gene cluster	terpene-thiopeptide	Others
+BGC0000621.1	BGC0000621.1	Linaclotide biosynthetic gene cluster	other	Others
+BGC0000622.1	BGC0000622.1	Megacin biosynthetic gene cluster	other	Others
+BGC0000625.1	BGC0000625.1	Thioviridamide biosynthetic gene cluster	other	Others
+BGC0000627.1	BGC0000627.1	Ustiloxin B biosynthetic gene cluster	other	Others
+BGC0000652.1	BGC0000652.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others
+BGC0000655.1	BGC0000655.1	Siomycin biosynthetic gene cluster	terpene-thiopeptide	Others
+BGC0000662.1	BGC0000662.1	Grixazone biosynthetic gene cluster	melanin	Others
+BGC0000665.1	BGC0000665.1	Xiamycin biosynthetic gene cluster	other	Others
+BGC0000666.1	BGC0000666.1	Xiamycin biosynthetic gene cluster	other	Others
+BGC0000668.1	BGC0000668.1	Welwitindolinone biosynthetic gene cluster	other	Others
+BGC0000670.1	BGC0000670.1	Thalianol biosynthetic gene cluster	other	Others
+BGC0000673.1	BGC0000673.1	Ent-pimara-8(14),15-diene biosynthetic gene cluster	other	Others
+BGC0000677.1	BGC0000677.1	Cyclooctatin biosynthetic gene cluster	other	Others
+BGC0000679.1	BGC0000679.1	Diazepinomicin biosynthetic gene cluster	other	Others
+BGC0000686.1	BGC0000686.1	Helvolic acid biosynthetic gene cluster	other	Others
+BGC0000687.1	BGC0000687.1	Phyllocladan-16alpha-ol biosynthetic gene cluster	other	Others
+BGC0000695.1	BGC0000695.1	Fortimicin biosynthetic gene cluster	other	Others
+BGC0000696.1	BGC0000696.1	Gentamicin biosynthetic gene cluster	amglyccycl-lantipeptide	Others
+BGC0000698.1	BGC0000698.1	Hygromycin A biosynthetic gene cluster	other	Others
+BGC0000700.1	BGC0000700.1	Istamycin biosynthetic gene cluster	amglyccycl-melanin	Others
+BGC0000703.1	BGC0000703.1	Kanamycin biosynthetic gene cluster	other	Others
+BGC0000706.1	BGC0000706.1	Kanamycin biosynthetic gene cluster	other	Others
+BGC0000707.1	BGC0000707.1	Kasugamycin biosynthetic gene cluster	other	Others
+BGC0000717.1	BGC0000717.1	Streptomycin biosynthetic gene cluster	amglyccycl-lantipeptide	Others
+BGC0000718.1	BGC0000718.1	Streptomycin biosynthetic gene cluster	other	Others
+BGC0000725.1	BGC0000725.1	Alginate biosynthetic gene cluster	other	Others
+BGC0000726.1	BGC0000726.1	Alginate biosynthetic gene cluster	other	Others
+BGC0000727.1	BGC0000727.1	Auricin deoxysugar moieties biosynthetic gene cluster	other	Others
+BGC0000728.1	BGC0000728.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000729.1	BGC0000729.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000730.1	BGC0000730.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000731.1	BGC0000731.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000732.1	BGC0000732.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000733.1	BGC0000733.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000734.1	BGC0000734.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000735.1	BGC0000735.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000736.1	BGC0000736.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000737.1	BGC0000737.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000738.1	BGC0000738.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000739.1	BGC0000739.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000740.1	BGC0000740.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000741.1	BGC0000741.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000742.1	BGC0000742.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000743.1	BGC0000743.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000744.1	BGC0000744.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000745.1	BGC0000745.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000746.1	BGC0000746.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000747.1	BGC0000747.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000748.1	BGC0000748.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000749.1	BGC0000749.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000750.1	BGC0000750.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000751.1	BGC0000751.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000752.1	BGC0000752.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000753.1	BGC0000753.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000754.1	BGC0000754.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000755.1	BGC0000755.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000756.1	BGC0000756.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000757.1	BGC0000757.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000758.1	BGC0000758.1	Capsular polysaccharide biosynthetic gene cluster	other	Others
+BGC0000759.1	BGC0000759.1	Diutan polysaccharide biosynthetic gene cluster	other	Others
+BGC0000760.1	BGC0000760.1	Emulsan biosynthetic gene cluster	other	Others
+BGC0000761.1	BGC0000761.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000762.1	BGC0000762.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000763.1	BGC0000763.1	Stewartan biosynthetic gene cluster	other	Others
+BGC0000764.1	BGC0000764.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000765.1	BGC0000765.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000766.1	BGC0000766.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000767.1	BGC0000767.1	Exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000768.1	BGC0000768.1	Gellan polysaccharide biosynthetic gene cluster	other	Others
+BGC0000769.1	BGC0000769.1	Glycopeptidolipid biosynthetic gene cluster	other	Others
+BGC0000770.1	BGC0000770.1	Lipo-oligosaccharide biosynthetic gene cluster	other	Others
+BGC0000771.1	BGC0000771.1	Lipo-oligosaccharide biosynthetic gene cluster	other	Others
+BGC0000772.1	BGC0000772.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000773.1	BGC0000773.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000774.1	BGC0000774.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000775.1	BGC0000775.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000776.1	BGC0000776.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000777.1	BGC0000777.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000778.1	BGC0000778.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000779.1	BGC0000779.1	Lipopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000780.1	BGC0000780.1	O&K-antigen biosynthetic gene cluster	other	Others
+BGC0000781.1	BGC0000781.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000782.1	BGC0000782.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000783.1	BGC0000783.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000784.1	BGC0000784.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000785.1	BGC0000785.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000786.1	BGC0000786.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000787.1	BGC0000787.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000788.1	BGC0000788.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000789.1	BGC0000789.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000790.1	BGC0000790.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000791.1	BGC0000791.1	O-antigen biosynthetic gene cluster	other	Others
+BGC0000792.1	BGC0000792.1	Polysaccharide biosynthetic gene cluster	other	Others
+BGC0000793.1	BGC0000793.1	Lipopolysaccharide oligosaccharide biosynthetic gene cluster	other	Others
+BGC0000794.1	BGC0000794.1	S-layer glycan biosynthetic gene cluster	other	Others
+BGC0000795.1	BGC0000795.1	S-layer glycan biosynthetic gene cluster	other	Others
+BGC0000796.1	BGC0000796.1	S-layer glycan biosynthetic gene cluster	other	Others
+BGC0000797.1	BGC0000797.1	Sphingan polysaccharide biosynthetic gene cluster	other	Others
+BGC0000798.1	BGC0000798.1	Dhurrin biosynthetic gene cluster	other	Others
+BGC0000799.1	BGC0000799.1	Colanic acid biosynthetic gene cluster	other	Others
+BGC0000800.1	BGC0000800.1	Xanthan biosynthetic gene cluster	other	Others
+BGC0000801.1	BGC0000801.1	Galactoglucan biosynthetic gene cluster	other	Others
+BGC0000802.1	BGC0000802.1	Succinoglycan biosynthetic gene cluster	other	Others
+BGC0000803.1	BGC0000803.1	GG exopolysaccharide biosynthetic gene cluster	other	Others
+BGC0000804.1	BGC0000804.1	Acarviostatin biosynthetic gene cluster	other	Others
+BGC0000805.1	BGC0000805.1	Moenomycin biosynthetic gene cluster	other	Others
+BGC0000806.1	BGC0000806.1	Phosphonoglycans biosynthetic gene cluster	other	Others
+BGC0000807.1	BGC0000807.1	Phosphonoglycans biosynthetic gene cluster	other	Others
+BGC0000808.1	BGC0000808.1	Cepacian biosynthetic gene cluster	other	Others
+BGC0000809.1	BGC0000809.1	AT2433 biosynthetic gene cluster	thiopeptide-indole	Others
+BGC0000810.1	BGC0000810.1	Benzoxazinone DIMBOA biosynthetic gene cluster	other	Others
+BGC0000812.1	BGC0000812.1	Huperzine A biosynthetic gene cluster	other	Others
+BGC0000813.1	BGC0000813.1	K-252a biosynthetic gene cluster	indole	Others
+BGC0000814.1	BGC0000814.1	K-252a biosynthetic gene cluster	indole	Others
+BGC0000815.1	BGC0000815.1	Loline alkaloids biosynthetic gene cluster	other	Others
+BGC0000816.1	BGC0000816.1	Malbrancheamide biosynthetic gene cluster	terpene-nrps	Others
+BGC0000817.1	BGC0000817.1	Methylarcyriarubin biosynthetic gene cluster	indole	Others
+BGC0000818.1	BGC0000818.1	Notoamide biosynthetic gene cluster	terpene-nrps	Others
+BGC0000819.1	BGC0000819.1	Paraherquamide biosynthetic gene cluster	terpene-nrps	Others
+BGC0000820.1	BGC0000820.1	Physostigmine biosynthetic gene cluster	other	Others
+BGC0000821.1	BGC0000821.1	Rebeccamycin biosynthetic gene cluster	indole	Others
+BGC0000822.1	BGC0000822.1	Rebeccamycin biosynthetic gene cluster	indole	Others
+BGC0000823.1	BGC0000823.1	Rebeccamycin biosynthetic gene cluster	indole	Others
+BGC0000824.1	BGC0000824.1	Scytonemin biosynthetic gene cluster	other	Others
+BGC0000825.1	BGC0000825.1	Staurosporine biosynthetic gene cluster	indole	Others
+BGC0000826.1	BGC0000826.1	Staurosporine biosynthetic gene cluster	indole	Others
+BGC0000827.1	BGC0000827.1	Staurosporine biosynthetic gene cluster	indole	Others
+BGC0000828.1	BGC0000828.1	Violacein biosynthetic gene cluster	indole	Others
+BGC0000829.1	BGC0000829.1	Violacein biosynthetic gene cluster	indole	Others
+BGC0000830.1	BGC0000830.1	Violacein biosynthetic gene cluster	indole	Others
+BGC0000831.1	BGC0000831.1	Violacein biosynthetic gene cluster	indole	Others
+BGC0000832.1	BGC0000832.1	Clorobiocin biosynthetic gene cluster	aminocoumarin	Others
+BGC0000833.1	BGC0000833.1	Coumermycin A1 biosynthetic gene cluster	aminocoumarin	Others
+BGC0000834.1	BGC0000834.1	Novobiocin biosynthetic gene cluster	aminocoumarin	Others
+BGC0000835.1	BGC0000835.1	Simocyclinone biosynthetic gene cluster	aminocoumarin	Others
+BGC0000836.1	BGC0000836.1	APE Ec biosynthetic gene cluster	other	Others
+BGC0000837.1	BGC0000837.1	APE Vf biosynthetic gene cluster	other	Others
+BGC0000838.1	BGC0000838.1	Flexirubin biosynthetic gene cluster	other	Others
+BGC0000839.1	BGC0000839.1	Flexirubin biosynthetic gene cluster	other	Others
+BGC0000840.1	BGC0000840.1	Xanthomonadin biosynthetic gene cluster	other	Others
+BGC0000841.1	BGC0000841.1	Alanylclavam biosynthetic gene cluster	blactam	Others
+BGC0000842.1	BGC0000842.1	Carbapenem MM 4550 biosynthetic gene cluster	blactam	Others
+BGC0000843.1	BGC0000843.1	Clavams biosynthetic gene cluster	blactam	Others
+BGC0000844.1	BGC0000844.1	Clavulanic acid biosynthetic gene cluster	other	Others
+BGC0000845.1	BGC0000845.1	Clavulanic acid biosynthetic gene cluster	blactam	Others
+BGC0000846.1	BGC0000846.1	Tabtoxin biosynthetic gene cluster	blactam	Others
+BGC0000847.1	BGC0000847.1	Thienamycin biosynthetic gene cluster	blactam	Others
+BGC0000848.1	BGC0000848.1	A-factor biosynthetic gene cluster	butyrolactone	Others
+BGC0000849.1	BGC0000849.1	Gamma-butyrolactone biosynthetic gene cluster	butyrolactone	Others
+BGC0000850.1	BGC0000850.1	Gamma-butyrolactone biosynthetic gene cluster	butyrolactone	Others
+BGC0000851.1	BGC0000851.1	Albonoursin biosynthetic gene cluster	other	Others
+BGC0000852.1	BGC0000852.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000853.1	BGC0000853.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000854.1	BGC0000854.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000855.1	BGC0000855.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000856.1	BGC0000856.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000857.1	BGC0000857.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000858.1	BGC0000858.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000859.1	BGC0000859.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000860.1	BGC0000860.1	Ectoine biosynthetic gene cluster	ectoine	Others
+BGC0000866.1	BGC0000866.1	Polyhydroxyalkanoate biosynthetic gene cluster	other	Others
+BGC0000867.1	BGC0000867.1	Polyhydroxyalkanoic acids biosynthetic gene cluster	other	Others
+BGC0000868.1	BGC0000868.1	Teichuronic acid biosynthetic gene cluster	other	Others
+BGC0000870.1	BGC0000870.1	Mycolic acid biosynthetic gene cluster	other	Others
+BGC0000871.1	BGC0000871.1	VEPE / AEPE / TG-1 biosynthetic gene cluster	other	Others
+BGC0000872.1	BGC0000872.1	A-90289 biosynthetic gene cluster	t3pks-nucleoside	Others
+BGC0000873.1	BGC0000873.1	A201A biosynthetic gene cluster	nucleoside	Others
+BGC0000875.1	BGC0000875.1	Caprazamycin biosynthetic gene cluster	nucleoside	Others
+BGC0000876.1	BGC0000876.1	Nikkomycin biosynthetic gene cluster	other	Others
+BGC0000877.1	BGC0000877.1	Polyoxin biosynthetic gene cluster	nucleoside	Others
+BGC0000878.1	BGC0000878.1	Puromycin biosynthetic gene cluster	nucleoside	Others
+BGC0000879.1	BGC0000879.1	Toyocamycin/sangivamycin biosynthetic gene cluster	nucleoside	Others
+BGC0000880.1	BGC0000880.1	Tunicamycin biosynthetic gene cluster	nucleoside	Others
+BGC0000881.1	BGC0000881.1	Toyocamycin biosynthetic gene cluster	nucleoside	Others
+BGC0000882.1	BGC0000882.1	Mildiomycin biosynthetic gene cluster	other	Others
+BGC0000883.1	BGC0000883.1	Arginomycin biosynthetic gene cluster	other	Others
+BGC0000884.1	BGC0000884.1	3-methylarginine biosynthetic gene cluster	other	Others
+BGC0000885.1	BGC0000885.1	4-hydroxy-3-nitrosobenzamide biosynthetic gene cluster	melanin	Others
+BGC0000886.1	BGC0000886.1	Allylmalonyl-CoA biosynthetic gene cluster	other	Others
+BGC0000887.1	BGC0000887.1	AWQC131C biosynthetic gene cluster	other	Others
+BGC0000888.1	BGC0000888.1	Bacilysin biosynthetic gene cluster	other	Others
+BGC0000889.1	BGC0000889.1	Bagremycin biosynthetic gene cluster	melanin	Others
+BGC0000890.1	BGC0000890.1	Bromophenols / bromopyrroles biosynthetic gene cluster	other	Others
+BGC0000891.1	BGC0000891.1	Bromophenols / bromopyrroles biosynthetic gene cluster	other	Others
+BGC0000892.1	BGC0000892.1	Caryoynencin biosynthetic gene cluster	other	Others
+BGC0000893.1	BGC0000893.1	Chloramphenicol biosynthetic gene cluster	other	Others
+BGC0000894.1	BGC0000894.1	Citrinin biosynthetic gene cluster	other	Others
+BGC0000895.1	BGC0000895.1	Citrulline biosynthetic gene cluster	other	Others
+BGC0000896.1	BGC0000896.1	D-cycloserine biosynthetic gene cluster	other	Others
+BGC0000897.1	BGC0000897.1	Dehydrophos biosynthetic gene cluster	phosphonate	Others
+BGC0000898.1	BGC0000898.1	Desosamine biosynthetic gene cluster	other	Others
+BGC0000899.1	BGC0000899.1	Desosamine biosynthetic gene cluster	other	Others
+BGC0000903.1	BGC0000903.1	Fluorometabolite biosynthetic gene cluster	other	Others
+BGC0000904.1	BGC0000904.1	FR900098 biosynthetic gene cluster	phosphonate	Others
+BGC0000905.1	BGC0000905.1	Heme D1 biosynthetic gene cluster	other	Others
+BGC0000906.1	BGC0000906.1	Heme D1 biosynthetic gene cluster	other	Others
+BGC0000907.1	BGC0000907.1	Lincomycin biosynthetic gene cluster	other	Others
+BGC0000908.1	BGC0000908.1	Melanin biosynthetic gene cluster	melanin	Others
+BGC0000909.1	BGC0000909.1	Melanin biosynthetic gene cluster	melanin	Others
+BGC0000910.1	BGC0000910.1	Melanin biosynthetic gene cluster	melanin	Others
+BGC0000911.1	BGC0000911.1	Melanin biosynthetic gene cluster	melanin	Others
+BGC0000912.1	BGC0000912.1	Melanin biosynthetic gene cluster	melanin	Others
+BGC0000913.1	BGC0000913.1	Menaquinone biosynthetic gene cluster	other	Others
+BGC0000914.1	BGC0000914.1	Methylenomycin biosynthetic gene cluster	furan-butyrolactone	Others
+BGC0000915.1	BGC0000915.1	Mitomycin biosynthetic gene cluster	other	Others
+BGC0000916.1	BGC0000916.1	Molybdenum cofactor biosynthetic gene cluster	other	Others
+BGC0000917.1	BGC0000917.1	Molybdenum cofactor biosynthetic gene cluster	other	Others
+BGC0000918.1	BGC0000918.1	Ochronotic pigment biosynthetic gene cluster	other	Others
+BGC0000919.1	BGC0000919.1	Phaseolotoxin biosynthetic gene cluster	other	Others
+BGC0000920.1	BGC0000920.1	Polyhydroxyalkanoates biosynthetic gene cluster	other	Others
+BGC0000921.1	BGC0000921.1	Promysalin biosynthetic gene cluster	other	Others
+BGC0000922.1	BGC0000922.1	Pseudomonas quinolone signal (PQS) biosynthetic gene cluster	other	Others
+BGC0000923.1	BGC0000923.1	Paerucumarin biosynthetic gene cluster	other	Others
+BGC0000924.1	BGC0000924.1	Pyrrolnitrin biosynthetic gene cluster	other	Others
+BGC0000925.1	BGC0000925.1	Quinolobactin biosynthetic gene cluster	other	Others
+BGC0000926.1	BGC0000926.1	Rhizocticin biosynthetic gene cluster	phosphonate	Others
+BGC0000927.1	BGC0000927.1	Roseoflavin biosynthetic gene cluster	other	Others
+BGC0000928.1	BGC0000928.1	T3 toxin biosynthetic gene cluster	other	Others
+BGC0000929.1	BGC0000929.1	Toxoflavin biosynthetic gene cluster	other	Others
+BGC0000932.1	BGC0000932.1	Tropodithietic acid biosynthetic gene cluster	other	Others
+BGC0000933.1	BGC0000933.1	Xiamenmycin biosynthetic gene cluster	other	Others
+BGC0000934.1	BGC0000934.1	Endophenazines biosynthetic gene cluster	phenazine	Others
+BGC0000935.1	BGC0000935.1	Esmeraldin biosynthetic gene cluster	phenazine-t1pks	Others
+BGC0000936.1	BGC0000936.1	Pyocyanine biosynthetic gene cluster	phenazine	Others
+BGC0000937.1	BGC0000937.1	Fosfazinomycin biosynthetic gene cluster	phosphonate	Others
+BGC0000938.1	BGC0000938.1	Fosfomycin biosynthetic gene cluster	other	Others
+BGC0000939.1	BGC0000939.1	Aerobactin biosynthetic gene cluster	siderophore	Others
+BGC0000940.1	BGC0000940.1	Desferrioxamine B biosynthetic gene cluster	siderophore	Others
+BGC0000941.1	BGC0000941.1	Desferrioxamine B biosynthetic gene cluster	siderophore	Others
+BGC0000942.1	BGC0000942.1	Petrobactin biosynthetic gene cluster	siderophore	Others
+BGC0000943.1	BGC0000943.1	Staphylobactin biosynthetic gene cluster	siderophore	Others
+BGC0000944.1	BGC0000944.1	Staphyloferrin biosynthetic gene cluster	siderophore	Others
+BGC0000946.1	BGC0000946.1	Vibrioferrin biosynthetic gene cluster	siderophore	Others
+BGC0000947.1	BGC0000947.1	Vibrioferrin biosynthetic gene cluster	siderophore	Others
+BGC0000948.1	BGC0000948.1	Alpha-galactosylceramide biosynthetic gene cluster	other	Others
+BGC0000949.1	BGC0000949.1	A-500359s biosynthetic gene cluster	blactam-nrps	Others
+BGC0000952.1	BGC0000952.1	Pristinamycin biosynthetic gene cluster	oligosaccharide-t2pks-nrps-ectoine-nrps	Others
+BGC0000953.1	BGC0000953.1	Amicetin biosynthetic gene cluster	other	Others
+BGC0000961.1	BGC0000961.1	Bactobolin biosynthetic gene cluster	nrps-hserlactone-t1pks	Others
+BGC0000977.1	BGC0000977.1	Cyclopiazonic acid biosynthetic gene cluster	terpene-nrps-t1pks	Others
+BGC0000986.1	BGC0000986.1	Dkxanthene biosynthetic gene cluster	nrps-t1pks-bacteriocin	Others
+BGC0000992.1	BGC0000992.1	Fusaridione A biosynthetic gene cluster	terpene-nrps-t1pks	Others
+BGC0001004.1	BGC0001004.1	Lobophorin biosynthetic gene cluster	oligosaccharide-t1pks	Others
+BGC0001020.1	BGC0001020.1	Muraymycin biosynthetic gene cluster	thiopeptide-lantipeptide-nrps-nucleoside	Others
+BGC0001038.1	BGC0001038.1	Pyralomicin biosynthetic gene cluster	amglyccycl-t1pks	Others
+BGC0001044.1	BGC0001044.1	Sirodesmin biosynthetic gene cluster	t1pks-nrps-terpene	Others
+BGC0001046.1	BGC0001046.1	Streptolydigin biosynthetic gene cluster	nrps-terpene-t1pks	Others
+BGC0001065.1	BGC0001065.1	Herboxidiene biosynthetic gene cluster	t1pks-t3pks-nucleoside	Others
+BGC0001072.1	BGC0001072.1	Simocyclinone biosynthetic gene cluster	t1pks-t2pks-aminocoumarin	Others
+BGC0001073.1	BGC0001073.1	Kosinostatin biosynthetic gene cluster	ectoine-t2pks	Others
+BGC0001074.1	BGC0001074.1	Cosmomycin D biosynthetic gene cluster	oligosaccharide-t2pks	Others
+BGC0001075.1	BGC0001075.1	Aurachin RE biosynthetic gene cluster	other	Others
+BGC0001076.1	BGC0001076.1	Liposidomycin biosynthetic gene cluster	t3pks-nucleoside	Others
+BGC0001078.1	BGC0001078.1	Furaquinocin A biosynthetic gene cluster	t3pks-terpene	Others
+BGC0001079.1	BGC0001079.1	Napyradiomycin biosynthetic gene cluster	t3pks-terpene	Others
+BGC0001080.1	BGC0001080.1	Phenazine biosynthetic gene cluster	phenazine	Others
+BGC0001083.1	BGC0001083.1	Merochlorin biosynthetic gene cluster	terpene-t3pks-nrps-butyrolactone	Others
+BGC0001084.1	BGC0001084.1	Notoamide / stephacidin biosynthetic gene cluster	terpene-nrps	Others
+BGC0001120.1	BGC0001120.1	Burkholderic acid biosynthetic gene cluster	other	Others
+BGC0001121.1	BGC0001121.1	Orsellinic acid biosynthetic gene cluster	other	Others
+BGC0001126.1	BGC0001126.1	Ambiguine biosynthetic gene cluster	other	Others
+BGC0001134.1	BGC0001134.1	Photopyrone biosynthetic gene cluster	other	Others
+BGC0001137.1	BGC0001137.1	Marinacarboline biosynthetic gene cluster	other	Others
+BGC0001138.1	BGC0001138.1	A201A biosynthetic gene cluster	other	Others
+BGC0001140.1	BGC0001140.1	Platensimycin / platencin biosynthetic gene cluster	other	Others
+BGC0001144.1	BGC0001144.1	Neosartoricin biosynthetic gene cluster	t1pks-terpene	Others
+BGC0001148.1	BGC0001148.1	Pheganomycin biosynthetic gene cluster	bacteriocin-t3pks-nrps	Others
+BGC0001151.1	BGC0001151.1	Clavams biosynthetic gene cluster	blactam	Others
+BGC0001154.1	BGC0001154.1	Cacibiocin biosynthetic gene cluster	aminocoumarin	Others
+BGC0001156.1	BGC0001156.1	Platencin biosynthetic gene cluster	other	Others
+BGC0001168.1	BGC0001168.1	Livipeptin biosynthetic gene cluster	other	Others
+BGC0001173.1	BGC0001173.1	Plantazolicin biosynthetic gene cluster	other	Others
+BGC0001174.1	BGC0001174.1	Corynazolicin biosynthetic gene cluster	other	Others
+BGC0001176.1	BGC0001176.1	Streptomonomicin biosynthetic gene cluster	other	Others
+BGC0001180.1	BGC0001180.1	Isopropylstilbene biosynthetic gene cluster	other	Others
+BGC0001183.1	BGC0001183.1	Lobophorin biosynthetic gene cluster	t1pks-oligosaccharide-nrps-t3pks	Others
+BGC0001184.1	BGC0001184.1	Bacilysin biosynthetic gene cluster	other	Others
+BGC0001191.1	BGC0001191.1	A-102395 biosynthetic gene cluster	blactam	Others
+BGC0001198.1	BGC0001198.1	(+)-O-methylkolavelool biosynthetic gene cluster	other	Others
+BGC0001205.1	BGC0001205.1	Communesin biosynthetic gene cluster	terpene-t1pks	Others
+BGC0001206.1	BGC0001206.1	Indolmycin biosynthetic gene cluster	other	Others
+BGC0001209.1	BGC0001209.1	Streptide biosynthetic gene cluster	other	Others
+BGC0001217.1	BGC0001217.1	PreQ0 Base biosynthetic gene cluster	other	Others
+BGC0001219.1	BGC0001219.1	Shanorellin biosynthetic gene cluster	other	Others
+BGC0001221.1	BGC0001221.1	Marinophenazines biosynthetic gene cluster	phenazine	Others
+BGC0001223.1	BGC0001223.1	Hydroxysporine biosynthetic gene cluster	indole	Others
+BGC0001224.1	BGC0001224.1	Reductasporine biosynthetic gene cluster	indole	Others
+BGC0001234.1	BGC0001234.1	4,4'-piperazine-2,5-diyldimethyl-bis-phenol biosynthetic gene cluster	other	Others
+BGC0001238.1	BGC0001238.1	Biotin biosynthetic gene cluster	other	Others
+BGC0001239.1	BGC0001239.1	Biotin biosynthetic gene cluster	other	Others
+BGC0001248.1	BGC0001248.1	Clavaric acid biosynthetic gene cluster	other	Others
+BGC0001256.1	BGC0001256.1	Atromentin biosynthetic gene cluster	other	Others
+BGC0001262.1	BGC0001262.1	AK-toxin biosynthetic gene cluster	other	Others
+BGC0001269.1	BGC0001269.1	Gibberellin A3 / gibberellin A1 / gibberellin A7 / gibberellin A4 / gibberellin A9 biosynthetic gene cluster	other	Others
+BGC0001271.1	BGC0001271.1	Emericellin biosynthetic gene cluster	t1pks-terpene	Others
+BGC0001274.1	BGC0001274.1	Non-acetylated open-chain sophorolipid / diacetylated lactonic sophorolipid biosynthetic gene cluster	other	Others
+BGC0001282.1	BGC0001282.1	Lolitriol biosynthetic gene cluster	other	Others
+BGC0001285.1	BGC0001285.1	Pseudopyronine A / pseudopyronine B biosynthetic gene cluster	other	Others
+BGC0001286.1	BGC0001286.1	Itaconic acid biosynthetic gene cluster	other	Others
+BGC0001294.1	BGC0001294.1	7-prenylisatin biosynthetic gene cluster	other	Others
+BGC0001295.1	BGC0001295.1	Cremeomycin biosynthetic gene cluster	other	Others
+BGC0001302.1	BGC0001302.1	Lomofungin biosynthetic gene cluster	phenazine	Others
+BGC0001306.1	BGC0001306.1	Asperipin 2a biosynthetic gene cluster	other	Others
+BGC0001307.1	BGC0001307.1	Chaxapeptin biosynthetic gene cluster	other	Others
+BGC0001308.1	BGC0001308.1	Simocyclinone D9 / simocyclinone D10 / simocyclinone D11 biosynthetic gene cluster	t2pks-aminocoumarin-nrps	Others
+BGC0001313.1	BGC0001313.1	Arabidiol / Baruol biosynthetic gene cluster.	other	Others
+BGC0001314.1	BGC0001314.1	Tirucalla biosynthetic gene cluster.	other	Others
+BGC0001315.1	BGC0001315.1	Cucurbitacin biosynthetic gene cluster.	other	Others
+BGC0001316.1	BGC0001316.1	Linamarin / Lotaustralin biosynthetic gene cluster.	other	Others
+BGC0001317.1	BGC0001317.1	Lupeol biosynthetic gene cluster.	other	Others
+BGC0001318.1	BGC0001318.1	Linamarin / Lotaustralin biosynthetic gene cluster.	other	Others
+BGC0001319.1	BGC0001319.1	alpha-Tomatine biosynthetic gene cluster.	other	Others
+BGC0001320.1	BGC0001320.1	alpha-Solanine / alpha-Chaconine biosynthetic gene cluster.	other	Others
+BGC0001325.1	BGC0001325.1	Noscapine biosynthetic gene cluster.	other	Others
+BGC0001333.1	BGC0001333.1	BE-54017 biosynthetic gene cluster	indole	Others
+BGC0001334.1	BGC0001334.1	Cladoniamide biosynthetic gene cluster	indole	Others
+BGC0001335.1	BGC0001335.1	Borregomycin biosynthetic gene cluster	indole	Others
+BGC0001336.1	BGC0001336.1	Erdasporine biosynthetic gene cluster	indole	Others
+BGC0001337.1	BGC0001337.1	Lazarimide biosynthetic gene cluster	indole	Others
+BGC0001339.1	BGC0001339.1	Squalestatin S1 biosynthetic gene cluster	t1pks-terpene	Others
+BGC0001343.1	BGC0001343.1	Aurachin biosynthetic gene cluster	other	Others
+BGC0001356.1	BGC0001356.1	Paeninodin biosynthetic gene cluster	other	Others
+BGC0001359.1	BGC0001359.1	PM100117 / PM100118 biosynthetic gene cluster	t1pks-t1pks-oligosaccharide	Others
+BGC0001362.1	BGC0001362.1	Tropodithietic acid biosynthetic gene cluster	other	Others
+BGC0001365.1	BGC0001365.1	Clapurines biosynthetic gene cluster	terpene-nrps	Others
+BGC0001369.1	BGC0001369.1	Metatricycloene biosynthetic gene cluster	other	Others
+BGC0001372.1	BGC0001372.1	Penigequinolone biosynthetic gene cluster	terpene-nrps	Others
+BGC0001373.1	BGC0001373.1	Sordarin biosynthetic gene cluster	terpene-t1pks	Others
+BGC0001374.1	BGC0001374.1	Thienodolin biosynthetic gene cluster	other	Others
+BGC0001379.1	BGC0001379.1	BD-12 biosynthetic gene cluster	other	Others
+BGC0001380.1	BGC0001380.1	Salecan biosynthetic gene cluster	other	Others
+BGC0001384.1	BGC0001384.1	Saprolmycin biosynthetic gene cluster	t2pks-oligosaccharide	Others
+BGC0001387.1	BGC0001387.1	Nucleocidin biosynthetic gene cluster	other	Others
+BGC0001395.1	BGC0001395.1	Teichomycin biosynthetic gene cluster	phosphoglycolipid	Others
+BGC0001398.1	BGC0001398.1	Phomopsins biosynthetic gene cluster	other	Others
+BGC0001401.1	BGC0001401.1	Melleolides biosynthetic gene cluster	other	Others
+BGC0001408.1	BGC0001408.1	Xanthoferrin biosynthetic gene cluster	siderophore	Others
+BGC0001410.1	BGC0001410.1	Polysaccharide A biosynthetic gene cluster	other	Others
+BGC0001411.1	BGC0001411.1	Polysaccharide B biosynthetic gene cluster	other	Others
+BGC0001412.1	BGC0001412.1	Polysaccharide C biosynthetic gene cluster	other	Others

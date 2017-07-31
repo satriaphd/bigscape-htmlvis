@@ -1,0 +1,3 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+BGC0001241.1	BGC0001267.1	4.16333634234e-17	1.0	1.0	1.0	1.0	0.0	0.0	16	0	terpene - terpene	terpene
+BGC0001322.1	BGC0001324.1	0.0953470095992	0.818397045135	1.0	0.883981764317	0.833333313465	0.246150106192	0.0184193402529	15	10	terpene - terpene	terpene

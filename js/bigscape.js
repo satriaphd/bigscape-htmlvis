@@ -1,7 +1,10 @@
 /* Copyright 2017 Satria Kautsar */
 
 var BigscapeFunc = {
-  ver: "1.0"
+  ver: "1.0",
+  requires: [
+    "fusejs"
+  ]
 };
 
 function Bigscape(bs_data, bs_families, bs_similarity, network_container, options = {}) {
@@ -18,6 +21,28 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
     svg.css("clear", "both");
     svg.addClass("arrower-svg");
     bs_svg.push(svg);
+  }
+  // for search optimization
+  for (var i in bs_families) {
+    bs_families[i]["idx"] = i;
+  }
+  var bs_pfam = [];
+  for (var i in bs_data) {
+    bs_data[i]["idx"] = i;
+    for (var j in bs_data[i]["orfs"]) {
+      for (var k in bs_data[i]["orfs"][j]["domains"]) {
+        var pfam = bs_data[i]["orfs"][j]["domains"][k]["code"];
+        var bspf = bs_pfam.find(function(bsp){ return bsp["code"] === pfam; });
+        if (bspf === undefined) {
+          bspf = { idx: bs_pfam.length, code: pfam, bgc: [i] };
+          bs_pfam.push(bspf);
+        } else {
+          if (bspf["bgc"].indexOf(i) < 0) {
+            bspf["bgc"].push(i);
+          }
+        }
+      }
+    }
   }
   $("#" + network_container).html("<div class='network-layer' style='position: fixed; top: 0; left: 0; bottom: 0; right: 0;'><div class='network-overlay' style='display: none; position: fixed; top: 0; left: 0; bottom: 0; right: 0;'>");
   var net_ui = $("#" + network_container + " .network-layer");
@@ -63,6 +88,94 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
   net_ui.after("<div class='desc-container active'></div>");
   net_ui.parent().find(".desc-container").append(desc_btn);
   net_ui.parent().find(".desc-container").append(desc_ui);
+  //
+  var search_ui = $("<div class='' style='margin-top: 2px;'></div>");
+  var search_bar = $("<input type='text'>");
+  var search_result_ui = $("<div class='search-result hidden'></div>");
+  search_bar.keyup({ bigscape: bigscape, bs_data: bs_data, bs_families: bs_families, bs_pfam: bs_pfam, search_result_ui: search_result_ui }, function(handler) {
+    var keyword = handler.target.value;
+    var bigscape = handler.data.bigscape;
+    if (keyword.length > 0) {
+      search_result_ui.html("");
+      var fuse_options = {
+        id: "idx",
+        findAllMatches: true,
+        shouldSort: true,
+        includeMatches: true,
+        threshold: 0,
+        location: 0,
+        distance: 100,
+        maxPatternLength: 32,
+        minMatchCharLength: 1,
+      };
+      // ...
+      fuse_options["keys"] = ["id"];
+      var fuse_bgcfam = new Fuse(handler.data.bs_families, fuse_options);
+      var res_bgcfam = fuse_bgcfam.search(keyword);
+      var sels_bgcfam = [];
+      for (var i in res_bgcfam) {
+        var ob = handler.data.bs_families[parseInt(res_bgcfam[i]["item"])];
+        for (var j in ob["members"]) {
+          var bi = parseInt(ob["members"][j]);
+          if (sels_bgcfam.indexOf(bi) < 0) {
+            sels_bgcfam.push(bi);
+          }
+        }
+      }
+      var div_bgcfam = $("<div>" + res_bgcfam.length + " Families (<a class='selectbgcs' href='##'>select</a>)</div>");
+      div_bgcfam.find("a.selectbgcs").click({ bigscape: bigscape, sels: sels_bgcfam }, function(handler){
+        handler.data.bigscape.setHighlightedNodes(handler.data.sels);
+        handler.data.bigscape.highlightNodes(handler.data.sels);
+        handler.data.bigscape.updateDescription(handler.data.sels);
+      });
+      search_result_ui.append(div_bgcfam);
+      //...
+      fuse_options["keys"] = ["id", "desc", "orfs.id"];
+      var fuse_bgc = new Fuse(handler.data.bs_data, fuse_options);
+      var res_bgc = fuse_bgc.search(keyword);
+      var sels_bgc = [];
+      for (var i in res_bgc) {
+        sels_bgc.push(parseInt(res_bgc[i]["item"]));
+      }
+      var div_bgc = $("<div>" + sels_bgc.length + " BGCs (<a class='selectbgcs' href='##'>select</a>)</div>");
+      div_bgc.find("a.selectbgcs").click({ bigscape: bigscape, sels: sels_bgc }, function(handler){
+        handler.data.bigscape.setHighlightedNodes(handler.data.sels);
+        handler.data.bigscape.highlightNodes(handler.data.sels);
+        handler.data.bigscape.updateDescription(handler.data.sels);        
+      });
+      search_result_ui.append(div_bgc);
+      //...
+      fuse_options["keys"] = ["code"];
+      var fuse_pfam = new Fuse(handler.data.bs_pfam, fuse_options);
+      var res_pfam = fuse_pfam.search(keyword);
+      var sels_pfam = [];
+      for (var i in res_pfam) {
+        var ob = handler.data.bs_pfam[parseInt(res_pfam[i]["item"])];
+        for (var j in ob["bgc"]) {
+          var bi = parseInt(ob["bgc"][j]);
+          if (sels_pfam.indexOf(bi) < 0) {
+            sels_pfam.push(bi);
+          }
+        }
+      }
+      var div_pfam = $("<div>" + res_pfam.length + " PFams (<a class='selectbgcs' href='##'>select</a>)</div>");
+      div_pfam.find("a.selectbgcs").click({ bigscape: bigscape, sels: sels_pfam }, function(handler){
+        handler.data.bigscape.setHighlightedNodes(handler.data.sels);
+        handler.data.bigscape.highlightNodes(handler.data.sels);
+        handler.data.bigscape.updateDescription(handler.data.sels);
+      });
+      search_result_ui.append(div_pfam);
+      // ...
+      search_result_ui.removeClass("hidden");
+    } else {
+      search_result_ui.addClass("hidden");
+    }
+  });
+  search_ui.append("<span>Search: </span>");
+  search_ui.append(search_bar);
+  net_ui.after("<div class='search-container'></div>");
+  net_ui.parent().find(".search-container").append(search_ui);
+  net_ui.parent().find(".search-container").append(search_result_ui);
   //
   var info_ui = $("<div class='' style='margin-top: 2px;'>");
   var info_btn = $("<a title='Info' href='##' class='showhide-btn active hidden'></a>");
@@ -298,8 +411,10 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
       handler.stopPropagation();
     });
     $(ui).mouseenter({id: node.id, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, hover_ui: hover_ui}, function(handler){
-      handler.data.hover_ui.html("");
-      handler.data.hover_ui.text(handler.data.bs_data[handler.data.id]["id"]);
+      handler.data.hover_ui.html("<b>" + handler.data.bs_data[handler.data.id]["id"]);
+      if (handler.data.bs_data[handler.data.id].hasOwnProperty("desc")) {
+        handler.data.hover_ui.append("</b>" + "<br />" + handler.data.bs_data[handler.data.id]["desc"]);
+      }
       handler.data.hover_ui.parent().css({
           top: (handler.pageY - handler.data.hover_ui.parent().height() - 20) + "px",
           left: (handler.pageX) + "px",
@@ -322,7 +437,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
 
   // run renderer and forceDirected layout
   renderer.run();
-  showSingletons(false);
+  showSingletons(true);
   updateDescription(highlighted_nodes);
   net_ui.find("svg").css("height", "100%").css("width", "100%");
   var countDown = 5 + parseInt(graph.getLinksCount() / 1000);
@@ -350,7 +465,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
       var singleton_count = (graph.getNodesCount() - nodes_with_edges_count);
       info_ui.append("<div>Total BGCs: " + graph.getNodesCount() + " (" + singleton_count + " singleton/s), links: " + graph.getLinksCount() + ", families: " + bs_families.length + "</div>");
       if (singleton_count > 0) {
-        var checkbox = $("<div><input type='checkbox'/>Singletons</div>");
+        var checkbox = $("<div><input type='checkbox' checked />Singletons</div>");
         checkbox.find("input[type=checkbox]").change(function() { showSingletons($(this).is(":checked")); });
         nav_ui.find(".show-singletons").html(checkbox);
       }

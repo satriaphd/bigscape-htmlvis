@@ -74,6 +74,24 @@ a:visited {
 .desc-ui {
   min-width: 300px;
 }
+.search-container {
+  position: fixed;
+  top: 55px;
+  left: 10px;
+  padding: 3px;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: 2px 3px;
+  border: 1px solid gray;
+}
+.search-result {
+  position: fixed;
+  left: 80px;
+  min-height: 100px;
+  min-width: 100px;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: 2px 3px;
+  border: 1px solid gray;
+}
 .info-container {
   position: fixed;
   top: 10px;

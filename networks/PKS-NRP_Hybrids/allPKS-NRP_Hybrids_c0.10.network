@@ -1,0 +1,5 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+BGC0001009.1	BGC0001010.1	0.0	1.0	1.0	1.0	1.0	0.0	0.0	41	15	t1pks-nrps - t1pks-nrps	t1pks-nrps
+BGC0000995.1	BGC0001113.1	0.0732078775764	0.858943641186	0.925925910473	0.925821721554	0.930232584476	0.0733549073339	0.0756921544671	57	31	nrps-transatpks-t2pks - nrps-transatpks-t2pks	nrps-transatpks-t2pks
+BGC0000976.1	BGC0001165.1	0.0270928908139	0.946548223495	1.0	0.974079608917	0.96875	0.0365198738873	0.000385208026273	53	22	t1pks-nrps-t2pks - t1pks-t2pks-nrps	
+BGC0000989.1	BGC0000991.1	0.06781026721	0.868977725506	0.888888895512	0.936568021774	0.916666686535	0.0841778591275	0.0126045159996	49	20	t1pks-nrps - t1pks-nrps	t1pks-nrps

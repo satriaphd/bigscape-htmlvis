@@ -1,0 +1,4 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+BGC0000530.1	BGC0000533.1	0.0917361229658	0.824943304062	1.0	0.870794177055	1.0	0.1263641119	0.157622739673	10	1	lantipeptide - lantipeptide	lantipeptide
+BGC0000473.1	BGC0000474.1	0.0852758213878	0.8367202878	1.0	0.879893183708	1.0	0.158146381378	0.00598802417517	3	1	cyanobactin-bacteriocin - cyanobactin-bacteriocin	cyanobactin-bacteriocin
+BGC0000491.1	BGC0001222.1	0.0131844487041	0.973804950714	1.0	0.981430351734	1.0	0.0185696464032	0.0	3	0	bacteriocin - bacteriocin	bacteriocin

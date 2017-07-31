@@ -55,14 +55,15 @@
   <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
   <script type="text/javascript">
     var modules = [
-      { name: "pks1", css: "t1pks", label: "PKS1"},
-      { name: "pks-nrp", css: "pks", label: "PKS-NRP"},
-      { name: "pksother", css: "pks", label: "PKS-Other"},
-      { name: "nrps", css: "nrps", label: "NRPS"},
-      { name: "ripps", css: "ripp", label: "RiPP"},
-      { name: "terpene", css: "terpene", label: "Terpene"},
-      { name: "saccharide", css: "saccharide", label: "Saccharide"},
+      { name: "NRPS", css: "nrps", label: "NRPS"},
+      { name: "PKSI", css: "t1pks", label: "PKS Type 1"},
+      { name: "PKS-NRP_Hybrids", css: "t1pks", label: "PKS-NRP Hybrids"},
+      { name: "PKSother", css: "t1pks", label: "PKS Other"},
+      { name: "RiPPs", css: "t1pks", label: "RiPPs"},
+      { name: "Saccharides", css: "saccharide", label: "Saccharides"},
+      { name: "Terpene", css: "terpene", label: "Terpene"},
       { name: "others", css: "other", label: "Other"},
+      { name: "test", css: "other", label: "Mixed"},
     ];
     function loadNetwork(name) {
       $('#contentframe').attr('src', './networks/' + name + '/index.html')

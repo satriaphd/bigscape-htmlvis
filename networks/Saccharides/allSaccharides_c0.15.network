@@ -1,0 +1,2 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+BGC0000689.1	BGC0000697.1	0.0625	0.87890625	0.920000016689	0.908400177956	0.9375	0.0915998220444	0.0	40	0	amglyccycl - amglyccycl	amglyccycl

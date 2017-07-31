@@ -74,7 +74,11 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
   }
 
   $(draw.node).parent().mouseover({domain: domain}, function(handler){
-    Arrower.showToolTip("BGC: " + cluster.id, handler);
+    var bgc_desc = "<b>BGC: " + cluster.id + "</b>";
+    if (cluster.hasOwnProperty("desc")) {
+      bgc_desc += "<br /> " + cluster["desc"];
+    }
+    Arrower.showToolTip(bgc_desc, handler);
   });
   $(draw.node).parent().mouseleave(function(handler){
     $("#" + Arrower.tooltip_id).css("display", "none");

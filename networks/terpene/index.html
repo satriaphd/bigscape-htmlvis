@@ -12,42 +12,39 @@
   <script type="text/javascript" src="../../js/vivagraph.js"></script>
   <script type="text/javascript" src="../../js/svg.js"></script>
   <script type="text/javascript" src="../../js/arrower.js"></script>
+  <script type="text/javascript" src="../../js/fuse.min.js"></script>
   <script type="text/javascript" src="../../js/bigscape.js"></script>
   <script type="text/javascript" src="network_data.js"></script>
   <script type="text/javascript">
-  function fixBGCSimMatrix() {
-    bs_similarity = bs_distances;
-    var tempMatrix = [];
-    for (var i in bs_data) {
-      var row = [];
-      for (var j = 0; j <= i; j++) {
-        row.push(bs_similarity[j][i - j]);
-      }
-      tempMatrix.push(row);
+    function random(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min)) + min;
     }
-    bs_similarity = tempMatrix;
-  }
-  </script>
-  <script type="text/javascript">
-    if (typeof(bs_similarity) === "undefined") {
-      fixBGCSimMatrix();
-    }
-    for (var i in bs_data) {
-      var bs_obj = bs_data[i];
-      if (!bs_obj.hasOwnProperty("start")) {
-        var rc = Arrower.getRandomCluster();
-        bs_obj.start = rc.start;
-        bs_obj.end = rc.end;
-        bs_obj.orfs = rc.orfs;
-      }
-    }
-    for (var i in bs_families) {
-      var bs_family = bs_families[i];
-      if (bs_family.hasOwnProperty("members") && (bs_family.members.length > 0)) {
-        bs_data[bs_family.members[0]].is_reference = true;
-      }
-    }
+    pfam_all = {};
+    var pfam_sigs = ["Condensation", "PF00668", "AMP-binding", "PF00501", "A-OX", "PP-binding", "PF00550", "PKS_KS", "PKS_AT", "ATd", "bt1fas", "ft1fas", "t2fas", "fabH", "ene_KS", "mod_KS", "hyb_KS", "itr_KS", "tra_KS", "hglD", "hglE", "t2ks", "t2pks2", "t2clf", "Chal_sti_synt_N", "PF00195", "Chal_sti_synt_C", "PF02797", "Terpene_synth_C", "PF03936", "Terpene_synth", "PF01397", "phytoene_synt", "Lycopene_cycl", "PF05834", "terpene_cyclase", "NapT7", "fung_ggpps", "fung_ggpps2", "dmat", "trichodiene_synth", "LANC_like", "PF05147", "DUF4135", "PF13575", "Lant_dehyd_N", "PF04737", "Lant_dehyd_C", "PF04738", "Flavoprotein", "PF02441", "Trp_halogenase", "PF04820", "p450", "PF00067", "Pkinase", "PF00069", "adh_short", "PF00106", "adh_short_C2", "PF13561", "Antimicr18", "PF08130", "Gallidermin", "PF02052", "L_biotic_A", "PF04604", "TIGR03731", "leader_d", "leader_eh", "leader_abc", "mature_d", "mature_ab", "mature_a", "mature_b", "mature_ha", "mature_h_beta", "lacticin_l", "lacticin_mat", "LD_lanti_pre", "TIGR04363", "strep_PEQAXS", "strepbact", "Antimicrobial14", "PF08109", "Bacteriocin_IIc", "PF10439", "Bacteriocin_IId", "PF09221", "BacteriocIIc_cy", "PF12173", "Bacteriocin_II", "PF01721", "Bacteriocin_IIi", "PF11758", "Lactococcin", "PF04369", "Antimicrobial17", "PF08129", "Lactococcin_972", "PF09683", "LcnG-beta", "PF11632", "Subtilosin_A", "PF11420", "Cloacin", "PF03515", "Linocin_M18", "PF04454", "TIGR03603", "TIGR03604", "TIGR03605", "TIGR03651", "TIGR03678", "TIGR03693", "TIGR03798", "TIGR03882", "TIGR03601", "TIGR03602", "TIGR03795", "TIGR03793", "TIGR03975", "TIGR01193", "TIGR01193", "mvnA", "thiostrepton", "BLS", "CAS", "tabtoxin", "DOIS", "NeoL", "SpcDK_glyc", "SpcFG", "strH", "strK1", "strK2", "ValA", "salQ", "novK", "novJ", "novI", "novH", "SpcDK_cou", "IucA_IucC", "PF04183", "ectoine_synt", "AfsA", "PF03756", "indsynth", "LipM", "LipU", "LipV", "ToyB", "TunD", "pur6", "pur10", "nikJ", "nikO", "MoeO5", "moeGT", "melC", "NAD_binding_4", "PF07993", "LmbU", "mmyO", "goadsporin_like", "Neocarzinostat", "PF00960", "cyanobactin_synth", "cycdipepsynth", "fom1", "bcpB", "frbD", "mitE", "vlmB", "prnB", "CaiA", "MGT2", "MGT", "Glycos_transf_1", "PF00534", "Glycos_transf_2", "PF00535", "Glyco_transf_28", "PF03033", "DUF1205", "PF06722", "Autoind_synth", "PF00765", "YcaO", "PF02624", "PF06968", "PF04055", "PF07366", "thio_amide", "tsrC", "PF04738", "phzB", "phosphonates", "bacilysin", "subtilosin", "sublancin", "thuricin", "skfc", "botH", "glycocin", "mcjC", "micJ25", "DUF692", "PF05114", "lasso", "mvd", "cypemycin", "cypI", "PoyD", "CBM_48", "PF02922", "DegT_DnrJ_EryC1", "PF01041", "Alpha-amylase", "PF00128", "dTDP_sugar_isom", "PF00908", "Polysacc_synt_2", "PF02719", "RmlD_sub_bind", "PF04321", "Polysacc_synt", "PF01943", "Alpha-amylase_C", "PF02806", "Epimerase_2", "PF02350", "Bac_transf", "PF02397", "Wzy_C", "PF04932", "Glyco_transf_9", "PF01075", "Glycos_transf_4", "PF00953", "MannoseP_isomer", "PF01050", "Glyco_transf_8", "PF01501", "Capsule_synth", "PF05159", "Glyco_tran_28_C", "PF04101", "Poly_export", "PF02563", "Glyco_transf_8C", "PF08437", "PIG-L", "PF02585", "APE_KS1", "APE_KS2", "DarB", "FabF", "ksIII", "ladderane", "PUFA_KS", "PF13471", "PF13471", "PF00733", "PF00733", "PF05402", "PF05402", "orf2_PTase", "indole_PTase", "ubiA", "pgm1", "pgm_amidino", "PF00881", "PF00881", "PF12697", "PF12697", "PF00561", "PF00561", "PF13186", "PF13186", "TIGR04404", "TIGR04404", "TIGR03973", "TIGR03973", "Peptidase_S8", "PF00082", "Peptidase_M16", "PF00675", "Peptidase_S41", "PF03572", "Peptidase_M16_C", "PF05193", "Fer4_12", "PF13353", "Abi", "PF02517", "Peptidase_M50", "PF02163", "Peptidase_S9", "PF00326", "Lant_dehydr_C", "PF14028", "Peptidase_C39", "PF03412", "ThiF", "PF00899", "TRI5", "PF06330"];
     $(document).ready(function(){
+      for (var i in bs_data) {
+        bs_data[i]["idx"] = i;
+        for (var j in bs_data[i]["orfs"]) {
+          bsorf = bs_data[i]["orfs"][j];
+          orf_color = "white";       
+          for (var k in bs_data[i]["orfs"][j]["domains"]) {
+            var pfam = bs_data[i]["orfs"][j]["domains"][k]["code"];
+            if (!pfam_all.hasOwnProperty(pfam)) {
+              pfam_all[pfam] = { code: pfam, color: "rgb(" + random(0, 256) + "," + random(0, 256) + "," + random(0, 256) + ")" };
+            }
+            bs_data[i]["orfs"][j]["domains"][k]["color"] = pfam_all[pfam]["color"];
+            if (pfam_sigs.indexOf(pfam.split(".")["0"]) > -1) {
+              orf_color = "yellow";
+            }
+          }
+          if (!bsorf.hasOwnProperty("color")) {
+            bsorf["color"] = orf_color;
+          }
+        }
+      }
+
       var bs = new Bigscape(bs_data, bs_families, bs_similarity, "network-container", "desc-container", {});
       $(".loadingtext").addClass("hidden");
     });

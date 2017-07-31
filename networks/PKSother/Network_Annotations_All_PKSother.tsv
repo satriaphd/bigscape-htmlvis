@@ -1,0 +1,124 @@
+BGC	Accesion ID	Description	Product Prediction	BiG-SCAPE class
+BGC0000021.1	BGC0000021.1	Apoptolidin biosynthetic gene cluster	hglks-t1pks	PKSother
+BGC0000083.1	BGC0000083.1	Lactimidomycin biosynthetic gene cluster	transatpks	PKSother
+BGC0000095.1	BGC0000095.1	Micromonolactam biosynthetic gene cluster	t1pks-hglks-t1pks	PKSother
+BGC0000163.1	BGC0000163.1	Tetronasin biosynthetic gene cluster	t1pks-transatpks	PKSother
+BGC0000164.1	BGC0000164.1	Tetronomycin biosynthetic gene cluster	t1pks-transatpks	PKSother
+BGC0000171.1	BGC0000171.1	9-methylstreptimidone biosynthetic gene cluster	transatpks	PKSother
+BGC0000172.1	BGC0000172.1	Basiliskamides biosynthetic gene cluster	transatpks	PKSother
+BGC0000173.1	BGC0000173.1	Bongkrekic acid biosynthetic gene cluster	t2pks-transatpks	PKSother
+BGC0000174.1	BGC0000174.1	Bryostatin biosynthetic gene cluster	transatpks	PKSother
+BGC0000176.1	BGC0000176.1	Difficidin biosynthetic gene cluster	transatpks	PKSother
+BGC0000177.1	BGC0000177.1	Dorrigocin / migrastatin biosynthetic gene cluster	transatpks	PKSother
+BGC0000178.1	BGC0000178.1	Elansolid biosynthetic gene cluster	t2pks-transatpks	PKSother
+BGC0000179.1	BGC0000179.1	Etnangien biosynthetic gene cluster	transatpks	PKSother
+BGC0000180.1	BGC0000180.1	Legioliulin biosynthetic gene cluster	transatpks	PKSother
+BGC0000181.1	BGC0000181.1	Macrolactin biosynthetic gene cluster	transatpks	PKSother
+BGC0000184.1	BGC0000184.1	Sorangicin biosynthetic gene cluster	transatpks	PKSother
+BGC0000185.1	BGC0000185.1	Tartrolon biosynthetic gene cluster	transatpks	PKSother
+BGC0000190.1	BGC0000190.1	A-74528 biosynthetic gene cluster	t2pks	PKSother
+BGC0000191.1	BGC0000191.1	Aclacinomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000192.1	BGC0000192.1	Aclacinomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000194.1	BGC0000194.1	Actinorhodin biosynthetic gene cluster	t2pks	PKSother
+BGC0000195.1	BGC0000195.1	Alnumycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000196.1	BGC0000196.1	Anthraquinone biosynthetic gene cluster	t2pks	PKSother
+BGC0000197.1	BGC0000197.1	Aranciamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000198.1	BGC0000198.1	Arenimycin B biosynthetic gene cluster	t2pks	PKSother
+BGC0000200.1	BGC0000200.1	Arixanthomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000201.1	BGC0000201.1	Auricin biosynthetic gene cluster	t2pks	PKSother
+BGC0000202.1	BGC0000202.1	Azicemicin biosynthetic gene cluster	t2pks	PKSother
+BGC0000203.1	BGC0000203.1	BE-7585A biosynthetic gene cluster	t2pks	PKSother
+BGC0000204.1	BGC0000204.1	Benastatin biosynthetic gene cluster	t2pks	PKSother
+BGC0000205.1	BGC0000205.1	Bryostatin biosynthetic gene cluster	t2pks	PKSother
+BGC0000206.1	BGC0000206.1	Chartreusin biosynthetic gene cluster	t2pks	PKSother
+BGC0000208.1	BGC0000208.1	Chelocardin biosynthetic gene cluster	t2pks	PKSother
+BGC0000209.1	BGC0000209.1	Chlortetracycline biosynthetic gene cluster	t2pks	PKSother
+BGC0000211.1	BGC0000211.1	Chrysomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000212.1	BGC0000212.1	Cinerubin B biosynthetic gene cluster	t2pks	PKSother
+BGC0000214.1	BGC0000214.1	Cosmomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000215.1	BGC0000215.1	Curamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000216.1	BGC0000216.1	Dactylocycline biosynthetic gene cluster	t2pks	PKSother
+BGC0000217.1	BGC0000217.1	Daunorubicin biosynthetic gene cluster	t2pks	PKSother
+BGC0000218.1	BGC0000218.1	Doxorubicin biosynthetic gene cluster	t2pks	PKSother
+BGC0000219.1	BGC0000219.1	Elloramycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000220.1	BGC0000220.1	Enterocin biosynthetic gene cluster	t2pks	PKSother
+BGC0000221.1	BGC0000221.1	Erdacin biosynthetic gene cluster	t2pks	PKSother
+BGC0000222.1	BGC0000222.1	FD-594 biosynthetic gene cluster	t2pks	PKSother
+BGC0000223.1	BGC0000223.1	Fluostatin biosynthetic gene cluster	t2pks	PKSother
+BGC0000224.1	BGC0000224.1	Fredericamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000225.1	BGC0000225.1	Frenolicin biosynthetic gene cluster	t2pks	PKSother
+BGC0000226.1	BGC0000226.1	Gilvocarcin biosynthetic gene cluster	t2pks	PKSother
+BGC0000227.1	BGC0000227.1	Granaticin biosynthetic gene cluster	t2pks	PKSother
+BGC0000228.1	BGC0000228.1	Granaticin biosynthetic gene cluster	t2pks	PKSother
+BGC0000230.1	BGC0000230.1	Griseorhodin biosynthetic gene cluster	t2pks	PKSother
+BGC0000231.1	BGC0000231.1	Griseusin biosynthetic gene cluster	t2pks	PKSother
+BGC0000232.1	BGC0000232.1	Hatomarubigin biosynthetic gene cluster	t2pks	PKSother
+BGC0000233.1	BGC0000233.1	Hedamycin biosynthetic gene cluster	t1pks-t2pks	PKSother
+BGC0000234.1	BGC0000234.1	Jadomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000235.1	BGC0000235.1	Kiamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000236.1	BGC0000236.1	Kinamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000237.1	BGC0000237.1	Lactonamycin Z biosynthetic gene cluster	t2pks	PKSother
+BGC0000240.1	BGC0000240.1	Lomaiviticin biosynthetic gene cluster	t2pks	PKSother
+BGC0000241.1	BGC0000241.1	Lomaiviticin biosynthetic gene cluster	t2pks	PKSother
+BGC0000242.1	BGC0000242.1	Lysolipin biosynthetic gene cluster	t2pks	PKSother
+BGC0000245.1	BGC0000245.1	Medermycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000246.1	BGC0000246.1	Mithramycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000248.1	BGC0000248.1	Naphtocyclinone biosynthetic gene cluster	t2pks	PKSother
+BGC0000250.1	BGC0000250.1	Nogalamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000252.1	BGC0000252.1	Nonactin biosynthetic gene cluster	t2pks	PKSother
+BGC0000253.1	BGC0000253.1	Oviedomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000254.1	BGC0000254.1	Oxytetracycline biosynthetic gene cluster	t2pks	PKSother
+BGC0000255.1	BGC0000255.1	Pederin biosynthetic gene cluster	t2pks	PKSother
+BGC0000256.1	BGC0000256.1	Pradimicin biosynthetic gene cluster	t2pks	PKSother
+BGC0000261.1	BGC0000261.1	R1128 biosynthetic gene cluster	t2pks	PKSother
+BGC0000263.1	BGC0000263.1	Ravidomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000264.1	BGC0000264.1	Resistomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000266.1	BGC0000266.1	Rubromycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000269.1	BGC0000269.1	SF2575 biosynthetic gene cluster	t2pks	PKSother
+BGC0000271.1	BGC0000271.1	Spore pigment biosynthetic gene cluster	t2pks	PKSother
+BGC0000272.1	BGC0000272.1	Spore pigment biosynthetic gene cluster	t2pks	PKSother
+BGC0000273.1	BGC0000273.1	Steffimycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000275.1	BGC0000275.1	Tetracenomycin biosynthetic gene cluster	t2pks	PKSother
+BGC0000279.1	BGC0000279.1	Xantholipin biosynthetic gene cluster	t2pks	PKSother
+BGC0000280.1	BGC0000280.1	2,4-Diacetylphloroglucinol biosynthetic gene cluster	t3pks	PKSother
+BGC0000281.1	BGC0000281.1	2,4-Diacetylphloroglucinol biosynthetic gene cluster	t3pks	PKSother
+BGC0000282.1	BGC0000282.1	Alkylresorcinol biosynthetic gene cluster	t3pks	PKSother
+BGC0000284.1	BGC0000284.1	Phenolic lipids biosynthetic gene cluster	t3pks-hglks	PKSother
+BGC0000285.1	BGC0000285.1	Red pigment biosynthetic gene cluster	t3pks	PKSother
+BGC0000861.1	BGC0000861.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother
+BGC0000862.1	BGC0000862.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother
+BGC0000863.1	BGC0000863.1	Eicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother
+BGC0000864.1	BGC0000864.1	Eicosapentaenoic acid-like compound biosynthetic gene cluster	hglks-t1pks	PKSother
+BGC0000865.1	BGC0000865.1	Eicoseicosapentaenoic acid biosynthetic gene cluster	hglks	PKSother
+BGC0000869.1	BGC0000869.1	Heterocyst glycolipids biosynthetic gene cluster	hglks-t1pks	PKSother
+BGC0000902.1	BGC0000902.1	Flaviolin biosynthetic gene cluster	t3pks	PKSother
+BGC0001031.1	BGC0001031.1	Oocydin A biosynthetic gene cluster	t2pks-transatpks	PKSother
+BGC0001032.1	BGC0001032.1	Oocydin A biosynthetic gene cluster	t2pks-transatpks	PKSother
+BGC0001061.1	BGC0001061.1	Polyketomycin biosynthetic gene cluster	t1pks-t2pks	PKSother
+BGC0001062.1	BGC0001062.1	TLN-05220 biosynthetic gene cluster	t2pks-t1pks	PKSother
+BGC0001064.1	BGC0001064.1	Cylindrocyclophane biosynthetic gene cluster	t1pks-t2pks-t3pks	PKSother
+BGC0001066.1	BGC0001066.1	Kendomycin biosynthetic gene cluster	t3pks-t1pks	PKSother
+BGC0001077.1	BGC0001077.1	Alkyl-O-Dihydrogeranyl-Methoxyhydroquinones biosynthetic gene cluster	t3pks	PKSother
+BGC0001091.1	BGC0001091.1	Corallopyronin biosynthetic gene cluster	transatpks-t2pks	PKSother
+BGC0001094.1	BGC0001094.1	Enacyloxin biosynthetic gene cluster	transatpks-t1pks	PKSother
+BGC0001104.1	BGC0001104.1	Myxovirescin biosynthetic gene cluster	t2pks	PKSother
+BGC0001107.1	BGC0001107.1	Patellazole biosynthetic gene cluster	transatpks-hglks	PKSother
+BGC0001150.1	BGC0001150.1	Pamamycin biosynthetic gene cluster	t2pks	PKSother
+BGC0001177.1	BGC0001177.1	Mensacaricin biosynthetic gene cluster	t2pks	PKSother
+BGC0001179.1	BGC0001179.1	Rishirilide B biosynthetic gene cluster	t2pks	PKSother
+BGC0001186.1	BGC0001186.1	Misakinolide biosynthetic gene cluster	transatpks-t3pks	PKSother
+BGC0001197.1	BGC0001197.1	Frankiamicin biosynthetic gene cluster	t2pks	PKSother
+BGC0001213.1	BGC0001213.1	Nataxazole biosynthetic gene cluster	t1pks-hglks	PKSother
+BGC0001292.1	BGC0001292.1	A33853 biosynthetic gene cluster	hglks	PKSother
+BGC0001293.1	BGC0001293.1	Cyclizidine biosynthetic gene cluster	t1pks-hglks	PKSother
+BGC0001299.1	BGC0001299.1	Chlorotonil biosynthetic gene cluster	transatpks	PKSother
+BGC0001300.1	BGC0001300.1	Anthracimycin biosynthetic gene cluster	transatpks	PKSother
+BGC0001301.1	BGC0001301.1	Anthracimycin biosynthetic gene cluster	transatpks	PKSother
+BGC0001310.1	BGC0001310.1	Naringenin biosynthetic gene cluster	t3pks	PKSother
+BGC0001350.1	BGC0001350.1	Phormidolide biosynthetic gene cluster	t2pks-transatpks	PKSother
+BGC0001357.1	BGC0001357.1	Carbamidocyclophane biosynthetic gene cluster	t1pks-t2pks-t3pks	PKSother
+BGC0001366.1	BGC0001366.1	BE-24566B / zunyimycin A biosynthetic gene cluster	t2pks	PKSother
+BGC0001376.1	BGC0001376.1	Hexaricin biosynthetic gene cluster	t2pks	PKSother
+BGC0001383.1	BGC0001383.1	Macrolactin biosynthetic gene cluster	transatpks	PKSother
+BGC0001386.1	BGC0001386.1	Isofuranonaphthoquinone biosynthetic gene cluster	t2pks	PKSother
+BGC0001409.1	BGC0001409.1	Dutomycin biosynthetic gene cluster	t2pks-t1pks	PKSother
