@@ -498,11 +498,8 @@ BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_fam
     // top part of the desc_ui
     var top = $("<div style='padding: 5px; position: absolute; top: 20px; right: 10px; left: 10px; bottom: 50%; border: 1px solid black; z-index: 10; overflow: scroll;'>");
     var showCompBtn = $("<a href='##' title='Details'>details</a>").appendTo($("<div style='position: absolute; bottom: 5px; right: 5px;'>").appendTo(top));
-    showCompBtn.click({bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, desc_ui: desc_ui, det_ui: det_ui}, function(handler){
-      var rendered_ids = [];
-      handler.data.desc_ui.find(".bs-desc_ui-svg").each(function(idx, elm){
-        rendered_ids.push(parseInt($(elm).attr("id").split("-")[3]));
-      });
+    showCompBtn.click({bigscape: bigscape, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, desc_ui: desc_ui, det_ui: det_ui}, function(handler){
+      var rendered_ids = handler.data.bigscape.getHighlightedNodes();
       BigscapeFunc.openCompDetail(rendered_ids, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
       handler.data.det_ui.parent().removeClass("hidden");
       handler.stopPropagation();
@@ -774,7 +771,7 @@ BigscapeFunc.openCompDetail = function(ids, bs_svg, bs_data, bs_to_cl, bs_famili
   det_ui.html("");
   for (var i in ids) {
     var id = ids[i];
-    det_ui.append(bs_svg[i].clone(true, true));
+    det_ui.append(bs_svg[id].clone(true, true));
   }
 }
 
