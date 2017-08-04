@@ -162,8 +162,8 @@ Arrower.getDomainPoints = (function(domain, orf, cluster, height, scale) {
   }
   arrow_pts.splice(3, 0, arrow_pts[3]); // convert into bluntish-end arrow
   var domain_x = {
-    start: (scale(orf.start) + scale(domain.start)),
-    end: (scale(orf.start) + scale(domain.end))
+    start: (scale(orf.start) + scale(domain.start * 3)),
+    end: (scale(orf.start) + scale(domain.end * 3))
   };
 
   var getY = function(x) {
