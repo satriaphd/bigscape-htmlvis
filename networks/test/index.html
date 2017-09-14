@@ -17,7 +17,14 @@
   <script type="text/javascript" src="network_data.js"></script>
   <script type="text/javascript">
     $(document).ready(function(){
-      var bs = new Bigscape(bs_data, bs_families, bs_similarity, "network-container", "desc-container", {});
+      var bs_alignment = [];
+      for (var a in bs_similarity) {
+        bs_alignment.push([]);
+        for (var b in bs_similarity[a]) {
+          bs_alignment[a].push(parseInt(bs_similarity[a][b] * 10000) - 10000);
+        }
+      }
+      var bs = new Bigscape(bs_data, bs_families, bs_alignment, bs_similarity, "network-container", "desc-container", {});
       $(".loadingtext").addClass("hidden");
     });
   </script>

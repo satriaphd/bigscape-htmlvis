@@ -16,7 +16,8 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
 
   // draw line
   draw.line(0, parseInt(height / 2), scale(cluster.end - cluster.start), parseInt(height / 2)).stroke({width: 1});
-
+  var width = scale(cluster.end - cluster.start);
+  
   if (cluster.hasOwnProperty("orfs")) {
     // draw arrows
     for (var i in cluster.orfs) {
@@ -84,7 +85,7 @@ Arrower.drawClusterSVG = (function(cluster, height = 40) {
     $("#" + Arrower.tooltip_id).css("display", "none");
   });
 
-
+  $(container).find("svg").attr("width", width + "px");
   return $(container).find("svg")[0];
 });
 

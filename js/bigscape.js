@@ -7,12 +7,13 @@ var BigscapeFunc = {
   ]
 };
 
-function Bigscape(bs_data, bs_families, bs_similarity, network_container, options = {}) {
+function Bigscape(bs_data, bs_families, bs_alignment, bs_similarity, network_container, options = {}) {
   var bigscape = this;
   var graph = Viva.Graph.graph();
   var graphics = Viva.Graph.View.svgGraphics();
   var bs_data = bs_data;
   var bs_families = bs_families;
+  var bs_alignment = bs_alignment;
   var bs_similarity = bs_similarity;
   var bs_to_cl = [];
   var bs_svg = [];
@@ -300,7 +301,7 @@ function Bigscape(bs_data, bs_families, bs_similarity, network_container, option
   this.setHighlightedNodes = function(ids) { highlighted_nodes = ids; };
   this.getHighlightedNodes = function() { return highlighted_nodes; };
   var updateDescription = function(ids = highlighted_nodes) {
-    BigscapeFunc.updateDescription(ids, bs_svg, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape);
+    BigscapeFunc.updateDescription(ids, bs_svg, bs_data, bs_to_cl, bs_families, bs_alignment, desc_ui, nav_ui, det_ui, bigscape);
   };
   this.updateDescription = updateDescription;
 
@@ -491,16 +492,16 @@ BigscapeFunc.showSingletons = function(graph, graphics, net_ui, isOn) {
 }
 
 // ...
-BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_families, desc_ui, nav_ui, det_ui, bigscape) {
+BigscapeFunc.updateDescription = function(ids, bs_svg, bs_data, bs_to_cl, bs_families, bs_alignment, desc_ui, nav_ui, det_ui, bigscape) {
   if (desc_ui.children().length < 1) {
     // first time rendering desc_ui
     desc_ui.html("");
     // top part of the desc_ui
     var top = $("<div style='padding: 5px; position: absolute; top: 20px; right: 10px; left: 10px; bottom: 50%; border: 1px solid black; z-index: 10; overflow: scroll;'>");
     var showCompBtn = $("<a href='##' title='Details'>details</a>").appendTo($("<div style='position: absolute; bottom: 5px; right: 5px;'>").appendTo(top));
-    showCompBtn.click({bigscape: bigscape, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_to_cl: bs_to_cl, desc_ui: desc_ui, det_ui: det_ui}, function(handler){
+    showCompBtn.click({bigscape: bigscape, bs_svg: bs_svg, bs_data: bs_data, bs_families: bs_families, bs_alignment: bs_alignment, bs_to_cl: bs_to_cl, desc_ui: desc_ui, det_ui: det_ui}, function(handler){
       var rendered_ids = handler.data.bigscape.getHighlightedNodes();
-      BigscapeFunc.openCompDetail(rendered_ids, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.det_ui);
+      BigscapeFunc.openCompDetail(rendered_ids, handler.data.bs_svg, handler.data.bs_data, handler.data.bs_to_cl, handler.data.bs_families, handler.data.bs_alignment, handler.data.det_ui);
       handler.data.det_ui.parent().removeClass("hidden");
       handler.stopPropagation();
     });
@@ -767,11 +768,34 @@ BigscapeFunc.openDetail = function(id, bs_svg, bs_data, bs_to_cl, bs_families, d
 }
 
 // ...
-BigscapeFunc.openCompDetail = function(ids, bs_svg, bs_data, bs_to_cl, bs_families, det_ui) {
+BigscapeFunc.openCompDetail = function(ids, bs_svg, bs_data, bs_to_cl, bs_families, bs_alignment, det_ui) {
   det_ui.html("");
+  var svgs = [];
+  var min_offset = 0;
+  var offsets = [];
+  var last_id = -1;
   for (var i in ids) {
     var id = ids[i];
-    det_ui.append(bs_svg[id].clone(true, true));
+    svgs.push(bs_svg[id].clone(true, true));
+    var offset = 0;
+    if (((offsets.length) > 0) && last_id >= 0) {
+      if (i > last_id) {
+        offset = offsets[offsets.length - 1] + parseInt(bs_alignment[i][last_id] / (1000 / bs_svg[id].attr("height")));
+      } else {
+        offset = offsets[offsets.length - 1] - parseInt(bs_alignment[last_id][i] / (1000 / bs_svg[id].attr("height")));
+      }
+    }
+    offsets.push(offset);
+    last_id = id;
+  }
+  for (var i in offsets) {
+    if (offsets[i] < min_offset) {
+      min_offset = offsets[i];
+    }
+  }
+  for (var i in svgs) {
+    svgs[i].css("padding-left", "" + (offsets[i] - min_offset) + "px");
+    det_ui.append(svgs[i]);
   }
 }
 
