@@ -326,6 +326,7 @@ function Bigscape(bs_data, bs_families, bs_alignment, bs_similarity, network_con
     var bs_obj = bs_data[i];
     graph.addNode(i, { id: bs_obj["id"], cl: bs_to_cl[i] });
   }
+  var countlink = 0;
   for (var a = 0; a < bs_data.length; a++) {
     for (var b = 0; b < bs_data.length; b++) {
       if ((a > b) && (bs_similarity[a][b] > intra_cutoff)) {
@@ -334,9 +335,11 @@ function Bigscape(bs_data, bs_families, bs_alignment, bs_similarity, network_con
         }
         var weight = bs_similarity[a][b];
         graph.addLink(a, b, {weight: weight});
+        countlink += 1;
       }
     }
   }
+  console.log(countlink);
 
   // set nodes & links behavior & appearance
   graphics.node(function(node) {

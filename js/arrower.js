@@ -168,6 +168,9 @@ Arrower.getDomainPoints = (function(domain, orf, cluster, height, scale) {
   };
 
   var getY = function(x) {
+    if ((arrow_pts[5].x - arrow_pts[4].x) == 0) {
+      return 0;
+    }
     var m = Math.abs(arrow_pts[5].y - arrow_pts[4].y) / Math.abs(arrow_pts[5].x - arrow_pts[4].x);
     return (m * (x - arrow_pts[4].x));
   }
@@ -199,9 +202,10 @@ Arrower.flipHorizontal = (function(points, leftBound, rightBound) {
   for(var i in points) {
     var point = points[i];
     if ((point.x < leftBound) || (point.x > rightBound)) {
-      throw "Error flipping points";
+      console.log("Error flipping points : " + (point.x + " " + leftBound + " " + rightBound));
+    } else {
+      new_points.push({ x: rightBound - (point.x - leftBound), y: point.y });
     }
-    new_points.push({ x: rightBound - (point.x - leftBound), y: point.y });
   }
 
   return new_points;
